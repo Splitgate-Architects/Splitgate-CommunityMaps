@@ -9,11 +9,43 @@
   },
   {
     "category": "Playable",
+    "id": "0o0-end-wn3_nkdape_offload",
+    "name": "Offload",
+    "author": "nkdape",
+    "image": "Maps/Playable/0o0-end-wn3_nkdape_offload.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/0o0-end-wn3_nkdape_offload.bin"
+  },
+  {
+    "category": "Playable",
+    "id": "1gw-kw3-qe1_ahayayeeti_atlantis-remake-sg1-scaled-up",
+    "name": "Atlantis Remake SG1 [Scaled Up]",
+    "author": "ahayayeeti",
+    "image": "Maps/Playable/1gw-kw3-qe1_ahayayeeti_atlantis-remake-sg1-scaled-up.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/1gw-kw3-qe1_ahayayeeti_atlantis-remake-sg1-scaled-up.bin"
+  },
+  {
+    "category": "Playable",
+    "id": "1ij-wso-vdn_littleliknife_whiteout",
+    "name": "Whiteout",
+    "author": "littleliknife",
+    "image": "Maps/Playable/1ij-wso-vdn_littleliknife_whiteout.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/1ij-wso-vdn_littleliknife_whiteout.bin"
+  },
+  {
+    "category": "Playable",
     "id": "1kr-po5-b0r_deadbydawn212_deck-16",
     "name": "Deck 16",
     "author": "Dead by Dawn212",
     "image": "Maps/Playable/1kr-po5-b0r_deadbydawn212_deck-16.jpg",
     "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/1kr-po5-b0r_deadbydawn212_deck-16.bin"
+  },
+  {
+    "category": "Playable",
+    "id": "1pq-915-zsv_kry_atlantis",
+    "name": "Atlantis",
+    "author": "Kry",
+    "image": "Maps/Playable/1pq-915-zsv_kry_atlantis.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/1pq-915-zsv_kry_atlantis.bin"
   },
   {
     "category": "Playable",
@@ -38,6 +70,22 @@
     "author": "Code Phoenix",
     "image": "Maps/Playable/4gn-rup-hru_codephoenix_simulation-golf.jpg",
     "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/4gn-rup-hru_codephoenix_simulation-golf.bin"
+  },
+  {
+    "category": "Playable",
+    "id": "59k-w93-rs2_koma_leviathan",
+    "name": "Leviathan",
+    "author": "Koma",
+    "image": "Maps/Playable/59k-w93-rs2_koma_leviathan.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/59k-w93-rs2_koma_leviathan.bin"
+  },
+  {
+    "category": "Playable",
+    "id": "5ek-ji6-fu0_bernana_crystal-reflection",
+    "name": "Crystal Reflection",
+    "author": "Bernana",
+    "image": "Maps/Playable/5ek-ji6-fu0_bernana_crystal-reflection.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/5ek-ji6-fu0_bernana_crystal-reflection.bin"
   },
   {
     "category": "Playable",
@@ -73,11 +121,59 @@
   },
   {
     "category": "Playable",
+    "id": "85x-i9y-692_mord_meridian-prime-darker-matters",
+    "name": "Meridian Prime: Darker Matters",
+    "author": "Mord",
+    "image": "Maps/Playable/85x-i9y-692_mord_meridian-prime-darker-matters.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/85x-i9y-692_mord_meridian-prime-darker-matters.bin"
+  },
+  {
+    "category": "Playable",
     "id": "9eb-p9i-hyk_corellan_protocol-echo-classicplus",
     "name": "Protocol Echo [Classic+]",
     "author": "Corellan",
     "image": "Maps/Playable/9eb-p9i-hyk_corellan_protocol-echo-classicplus.jpg",
     "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/9eb-p9i-hyk_corellan_protocol-echo-classicplus.bin"
+  },
+  {
+    "category": "Playable",
+    "id": "9vy-hvy-j7t_yurgy_infinity-loop-v31-classicplus",
+    "name": "INFINITY LOOP v3.1 classic+",
+    "author": "Yurgy",
+    "image": "Maps/Playable/9vy-hvy-j7t_yurgy_infinity-loop-v31-classicplus.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/9vy-hvy-j7t_yurgy_infinity-loop-v31-classicplus.bin"
+  },
+  {
+    "category": "Playable",
+    "id": "9z7-v5g-k09_nkdape_cove",
+    "name": "Cove",
+    "author": "nkdape",
+    "image": "Maps/Playable/9z7-v5g-k09_nkdape_cove.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/9z7-v5g-k09_nkdape_cove.bin"
+  },
+  {
+    "category": "Playable",
+    "id": "cbn-isu-m9u_hunterkiller_array-reloaded",
+    "name": "Array Reloaded",
+    "author": "HunterKiller",
+    "image": "Maps/Playable/cbn-isu-m9u_hunterkiller_array-reloaded.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/cbn-isu-m9u_hunterkiller_array-reloaded.bin"
+  },
+  {
+    "category": "Playable",
+    "id": "d9b-dtt-z9f_koma_lozenge",
+    "name": "Lozenge",
+    "author": "Koma",
+    "image": "Maps/Playable/d9b-dtt-z9f_koma_lozenge.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/d9b-dtt-z9f_koma_lozenge.bin"
+  },
+  {
+    "category": "Playable",
+    "id": "dgd-3vn-458_nkdape_schism",
+    "name": "Schism",
+    "author": "nkdape",
+    "image": "Maps/Playable/dgd-3vn-458_nkdape_schism.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/dgd-3vn-458_nkdape_schism.bin"
   },
   {
     "category": "Playable",
@@ -97,6 +193,14 @@
   },
   {
     "category": "Playable",
+    "id": "gei-56q-b32_sgtslaphead_tri-hard",
+    "name": "Tri Hard",
+    "author": "Sgt Slaphead",
+    "image": "Maps/Playable/gei-56q-b32_sgtslaphead_tri-hard.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/gei-56q-b32_sgtslaphead_tri-hard.bin"
+  },
+  {
+    "category": "Playable",
     "id": "gmk-rzk-nev_corellan_protocol-echo-races",
     "name": "Protocol Echo [Races]",
     "author": "Corellan",
@@ -105,11 +209,107 @@
   },
   {
     "category": "Playable",
+    "id": "h25-iek-pah_nkdape_depot",
+    "name": "Depot",
+    "author": "nkdape",
+    "image": "Maps/Playable/h25-iek-pah_nkdape_depot.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/h25-iek-pah_nkdape_depot.bin"
+  },
+  {
+    "category": "Playable",
+    "id": "h3r-9nx-g62_tonyismybaby_simulation-bravo",
+    "name": "Simulation Bravo",
+    "author": "tonyismybaby",
+    "image": "Maps/Playable/h3r-9nx-g62_tonyismybaby_simulation-bravo.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/h3r-9nx-g62_tonyismybaby_simulation-bravo.bin"
+  },
+  {
+    "category": "Playable",
+    "id": "j6s-qj1-n87_nkdape_rosie",
+    "name": "Rosie",
+    "author": "nkdape",
+    "image": "Maps/Playable/j6s-qj1-n87_nkdape_rosie.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/j6s-qj1-n87_nkdape_rosie.bin"
+  },
+  {
+    "category": "Playable",
+    "id": "j9j-zf3-r6u_nkdape_foregone-desolation",
+    "name": "Foregone Desolation",
+    "author": "nkdape",
+    "image": "Maps/Playable/j9j-zf3-r6u_nkdape_foregone-desolation.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/j9j-zf3-r6u_nkdape_foregone-desolation.bin"
+  },
+  {
+    "category": "Playable",
+    "id": "jfe-3ce-khe_yurgy_infinity-loop-22",
+    "name": "INFINITY LOOP 2.2",
+    "author": "Yurgy",
+    "image": "Maps/Playable/jfe-3ce-khe_yurgy_infinity-loop-22.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/jfe-3ce-khe_yurgy_infinity-loop-22.bin"
+  },
+  {
+    "category": "Playable",
+    "id": "jhy-oax-9c0_nkdape_simulation-temple",
+    "name": "Simulation Temple",
+    "author": "nkdape",
+    "image": "Maps/Playable/jhy-oax-9c0_nkdape_simulation-temple.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/jhy-oax-9c0_nkdape_simulation-temple.bin"
+  },
+  {
+    "category": "Playable",
+    "id": "kna-wub-b09_icesmoke_halls-of-torment",
+    "name": "HALLS OF TORMENT",
+    "author": "ICEsmoke",
+    "image": "Maps/Playable/kna-wub-b09_icesmoke_halls-of-torment.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/kna-wub-b09_icesmoke_halls-of-torment.bin"
+  },
+  {
+    "category": "Playable",
+    "id": "kqn-m1r-ygm_icesmoke_planetary-fortress",
+    "name": "Planetary Fortress",
+    "author": "ICEsmoke",
+    "image": "Maps/Playable/kqn-m1r-ygm_icesmoke_planetary-fortress.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/kqn-m1r-ygm_icesmoke_planetary-fortress.bin"
+  },
+  {
+    "category": "Playable",
     "id": "kxz-c1g-5cj_codephoenix_celerity",
     "name": "Celerity",
     "author": "Code Phoenix",
     "image": "Maps/Playable/kxz-c1g-5cj_codephoenix_celerity.jpg",
     "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/kxz-c1g-5cj_codephoenix_celerity.bin"
+  },
+  {
+    "category": "Playable",
+    "id": "oix-6n8-svy_ahayayeeti_atlantis-remake-20-sg1",
+    "name": "Atlantis Remake [2.0] SG1",
+    "author": "ahayayeeti",
+    "image": "Maps/Playable/oix-6n8-svy_ahayayeeti_atlantis-remake-20-sg1.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/oix-6n8-svy_ahayayeeti_atlantis-remake-20-sg1.bin"
+  },
+  {
+    "category": "Playable",
+    "id": "orp-2a0-dmo_icesmoke_fractrued-falls-arena",
+    "name": "FRACTRUED FALLS ARENA",
+    "author": "ICEsmoke",
+    "image": "Maps/Playable/orp-2a0-dmo_icesmoke_fractrued-falls-arena.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/orp-2a0-dmo_icesmoke_fractrued-falls-arena.bin"
+  },
+  {
+    "category": "Playable",
+    "id": "ow1-2d9-p5a_yurgy_infinity-loop-classic",
+    "name": "INFINITY LOOP CLASSIC",
+    "author": "Yurgy",
+    "image": "Maps/Playable/ow1-2d9-p5a_yurgy_infinity-loop-classic.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/ow1-2d9-p5a_yurgy_infinity-loop-classic.bin"
+  },
+  {
+    "category": "Playable",
+    "id": "p5k-czw-pfn_nkdape_kurgan",
+    "name": "Kurgan",
+    "author": "nkdape",
+    "image": "Maps/Playable/p5k-czw-pfn_nkdape_kurgan.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/p5k-czw-pfn_nkdape_kurgan.bin"
   },
   {
     "category": "Playable",
@@ -129,6 +329,30 @@
   },
   {
     "category": "Playable",
+    "id": "q2z-cpr-yyd_icesmoke_arena-of-the-dammed",
+    "name": "Arena of the dammed",
+    "author": "ICEsmoke",
+    "image": "Maps/Playable/q2z-cpr-yyd_icesmoke_arena-of-the-dammed.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/q2z-cpr-yyd_icesmoke_arena-of-the-dammed.bin"
+  },
+  {
+    "category": "Playable",
+    "id": "qw8-rgs-a7v_mythicalskill3_hijacked",
+    "name": "Hijacked",
+    "author": "MythicalSkill3",
+    "image": "Maps/Playable/qw8-rgs-a7v_mythicalskill3_hijacked.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/qw8-rgs-a7v_mythicalskill3_hijacked.bin"
+  },
+  {
+    "category": "Playable",
+    "id": "rtb-np1-6nh_koma_genetics",
+    "name": "Genetics",
+    "author": "Koma",
+    "image": "Maps/Playable/rtb-np1-6nh_koma_genetics.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/rtb-np1-6nh_koma_genetics.bin"
+  },
+  {
+    "category": "Playable",
     "id": "s6r-71j-q5w_codephoenix_simulation-golf-sg1",
     "name": "Simulation Golf (SG1)",
     "author": "Code Phoenix",
@@ -145,6 +369,46 @@
   },
   {
     "category": "Playable",
+    "id": "sd5-rpj-uai_jangutu_whack-a-mole-12-snipers",
+    "name": "!Whack-A-Mole 1.2 Snipers",
+    "author": "Jangutu",
+    "image": "Maps/Playable/sd5-rpj-uai_jangutu_whack-a-mole-12-snipers.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/sd5-rpj-uai_jangutu_whack-a-mole-12-snipers.bin"
+  },
+  {
+    "category": "Playable",
+    "id": "tnx-682-gkr_nkdape_crude",
+    "name": "Crude",
+    "author": "nkdape",
+    "image": "Maps/Playable/tnx-682-gkr_nkdape_crude.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/tnx-682-gkr_nkdape_crude.bin"
+  },
+  {
+    "category": "Playable",
+    "id": "trj-7nz-jdk_icesmoke_forest-of-fades",
+    "name": "Forest of fades",
+    "author": "ICEsmoke",
+    "image": "Maps/Playable/trj-7nz-jdk_icesmoke_forest-of-fades.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/trj-7nz-jdk_icesmoke_forest-of-fades.bin"
+  },
+  {
+    "category": "Playable",
+    "id": "ufb-o7i-av7_yurgy_infinity-loop-v31-classicplus",
+    "name": "INFINITY LOOP v3.1 classic+",
+    "author": "Yurgy",
+    "image": "Maps/Playable/ufb-o7i-av7_yurgy_infinity-loop-v31-classicplus.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/ufb-o7i-av7_yurgy_infinity-loop-v31-classicplus.bin"
+  },
+  {
+    "category": "Playable",
+    "id": "w5a-ukq-q89_yurgy_infinity-loop-v3",
+    "name": "INFINITY LOOP v3",
+    "author": "Yurgy",
+    "image": "Maps/Playable/w5a-ukq-q89_yurgy_infinity-loop-v3.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/w5a-ukq-q89_yurgy_infinity-loop-v3.bin"
+  },
+  {
+    "category": "Playable",
     "id": "w8p-b5y-ny9_codephoenix_shooting-range",
     "name": "Shooting Range",
     "author": "Code Phoenix",
@@ -158,6 +422,14 @@
     "author": "John",
     "image": "Maps/Playable/y6h-hfs-m04_john_simulation-hotel.jpg",
     "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/y6h-hfs-m04_john_simulation-hotel.bin"
+  },
+  {
+    "category": "Playable",
+    "id": "y7y-mgm-vyg_icesmoke_temple-of-abaddon",
+    "name": "Temple of Abaddon",
+    "author": "ICEsmoke",
+    "image": "Maps/Playable/y7y-mgm-vyg_icesmoke_temple-of-abaddon.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/y7y-mgm-vyg_icesmoke_temple-of-abaddon.bin"
   },
   {
     "category": "Playable",
@@ -184,6 +456,22 @@
     "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/zb4-no2-03m_codephoenix_simulation-foxtrot.bin"
   },
   {
+    "category": "Playable",
+    "id": "zbf-5uj-7id_yurgy_infinity-loop-24",
+    "name": "INFINITY LOOP 2.4",
+    "author": "Yurgy",
+    "image": "Maps/Playable/zbf-5uj-7id_yurgy_infinity-loop-24.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/zbf-5uj-7id_yurgy_infinity-loop-24.bin"
+  },
+  {
+    "category": "Playable",
+    "id": "zjt-wv8-duh_coyotetrickster_facility-13-coyote",
+    "name": "Facility 13 [Coyote]",
+    "author": "CoyoteTrickster",
+    "image": "Maps/Playable/zjt-wv8-duh_coyotetrickster_facility-13-coyote.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Playable/zjt-wv8-duh_coyotetrickster_facility-13-coyote.bin"
+  },
+  {
     "category": "WIP",
     "id": "293-jm9-2j6_corellan_eos-01",
     "name": "EOS 01",
@@ -206,6 +494,22 @@
     "author": "Dead by Dawn212",
     "image": "Maps/WIP/dz9-3iq-gqz_deadbydawn212_morpheus-test-1.jpg",
     "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/WIP/dz9-3iq-gqz_deadbydawn212_morpheus-test-1.bin"
+  },
+  {
+    "category": "WIP",
+    "id": "fkj-7vs-s9d_yurgy_infinity-loop-23-wip",
+    "name": "INFINITY LOOP 2.3 wip",
+    "author": "Yurgy",
+    "image": "Maps/WIP/fkj-7vs-s9d_yurgy_infinity-loop-23-wip.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/WIP/fkj-7vs-s9d_yurgy_infinity-loop-23-wip.bin"
+  },
+  {
+    "category": "WIP",
+    "id": "gvz-jwi-dte_yurgy_splittica-heights-wip-bo",
+    "name": "Splittica Heights (WIP) (BO)",
+    "author": "Yurgy",
+    "image": "Maps/WIP/gvz-jwi-dte_yurgy_splittica-heights-wip-bo.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/WIP/gvz-jwi-dte_yurgy_splittica-heights-wip-bo.bin"
   },
   {
     "category": "WIP",
@@ -241,6 +545,14 @@
   },
   {
     "category": "Unplayable",
+    "id": "01n-fi0-20g_olimp0302_zttr",
+    "name": "Zttr",
+    "author": "Olimp0302",
+    "image": "Maps/Unplayable/01n-fi0-20g_olimp0302_zttr.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/01n-fi0-20g_olimp0302_zttr.bin"
+  },
+  {
+    "category": "Unplayable",
     "id": "05v-zez-8vv_ooku1004_new-project",
     "name": "New Project",
     "author": "Ooku1004",
@@ -265,11 +577,27 @@
   },
   {
     "category": "Unplayable",
+    "id": "0e2-dnw-dum_hunterr_aa",
+    "name": "新しいプロaaジェクト",
+    "author": "hunterr",
+    "image": "Maps/Unplayable/0e2-dnw-dum_hunterr_aa.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/0e2-dnw-dum_hunterr_aa.bin"
+  },
+  {
+    "category": "Unplayable",
     "id": "0ec-zo6-ioq_dagooster_new-project",
     "name": "New Project",
     "author": "Da_Gooster",
     "image": "Maps/Unplayable/0ec-zo6-ioq_dagooster_new-project.jpg",
     "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/0ec-zo6-ioq_dagooster_new-project.bin"
+  },
+  {
+    "category": "Unplayable",
+    "id": "0i8-dhv-tfk_doom999_mapa-1v1",
+    "name": "mapa 1v1",
+    "author": "DOOM999",
+    "image": "Maps/Unplayable/0i8-dhv-tfk_doom999_mapa-1v1.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/0i8-dhv-tfk_doom999_mapa-1v1.bin"
   },
   {
     "category": "Unplayable",
@@ -305,6 +633,22 @@
   },
   {
     "category": "Unplayable",
+    "id": "0u2-3vn-gff_matscalle_this-is-a-template-i-saved",
+    "name": "This is a template i saved",
+    "author": "matscalle",
+    "image": "Maps/Unplayable/0u2-3vn-gff_matscalle_this-is-a-template-i-saved.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/0u2-3vn-gff_matscalle_this-is-a-template-i-saved.bin"
+  },
+  {
+    "category": "Unplayable",
+    "id": "0wp-yqj-d0k",
+    "name": "新しいプロジェクト",
+    "author": "天才.億万長者.プレイボーイ.",
+    "image": "Maps/Unplayable/0wp-yqj-d0k.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/0wp-yqj-d0k.bin"
+  },
+  {
+    "category": "Unplayable",
     "id": "17e-zo7-895_350_new-project",
     "name": "New Project",
     "author": "350時間の初心者",
@@ -329,11 +673,43 @@
   },
   {
     "category": "Unplayable",
+    "id": "1pu-row-29f_masedawg4527_67",
+    "name": "67",
+    "author": "Masedawg4527",
+    "image": "Maps/Unplayable/1pu-row-29f_masedawg4527_67.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/1pu-row-29f_masedawg4527_67.bin"
+  },
+  {
+    "category": "Unplayable",
     "id": "1qz-su6-70f_silvercrazycat_new-project",
     "name": "New Project",
     "author": "Silver-Crazy-Cat",
     "image": "Maps/Unplayable/1qz-su6-70f_silvercrazycat_new-project.jpg",
     "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/1qz-su6-70f_silvercrazycat_new-project.bin"
+  },
+  {
+    "category": "Unplayable",
+    "id": "1rq-to8-kbc_fireman6131_fire-project",
+    "name": "Fire project",
+    "author": "Fireman6131",
+    "image": "Maps/Unplayable/1rq-to8-kbc_fireman6131_fire-project.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/1rq-to8-kbc_fireman6131_fire-project.bin"
+  },
+  {
+    "category": "Unplayable",
+    "id": "1tk-m0c-s9n_guitimao12_novo-projeto",
+    "name": "Novo Projeto",
+    "author": "gui_timao12",
+    "image": "Maps/Unplayable/1tk-m0c-s9n_guitimao12_novo-projeto.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/1tk-m0c-s9n_guitimao12_novo-projeto.bin"
+  },
+  {
+    "category": "Unplayable",
+    "id": "1yn-ai7-bhe_betabetabetter_test",
+    "name": "test",
+    "author": "BETA_BETA_BETTER",
+    "image": "Maps/Unplayable/1yn-ai7-bhe_betabetabetter_test.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/1yn-ai7-bhe_betabetabetter_test.bin"
   },
   {
     "category": "Unplayable",
@@ -1681,6 +2057,22 @@
   },
   {
     "category": "Unplayable",
+    "id": "gmn-no4-wf6_deadzone238482_shipment",
+    "name": "Shipment",
+    "author": "DeadZone238482",
+    "image": "Maps/Unplayable/gmn-no4-wf6_deadzone238482_shipment.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/gmn-no4-wf6_deadzone238482_shipment.bin"
+  },
+  {
+    "category": "Unplayable",
+    "id": "gni-o0m-4z9_thefadingninja_test",
+    "name": "Test",
+    "author": "thefadingninja",
+    "image": "Maps/Unplayable/gni-o0m-4z9_thefadingninja_test.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/gni-o0m-4z9_thefadingninja_test.bin"
+  },
+  {
+    "category": "Unplayable",
     "id": "gnz-t99-3ik_speedyrb007_new-projectbbbbb",
     "name": "New Projectbbbbb",
     "author": "speedyrb007",
@@ -1734,6 +2126,14 @@
     "author": "T2M5A2CC",
     "image": "Maps/Unplayable/h77-zgo-7ue_t2m5a2cc_new-project.jpg",
     "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/h77-zgo-7ue_t2m5a2cc_new-project.bin"
+  },
+  {
+    "category": "Unplayable",
+    "id": "h7k-8g2-qmv_nikoniko4020_unknown",
+    "name": "新しいプロジェクト",
+    "author": "nikoniko4020",
+    "image": "Maps/Unplayable/h7k-8g2-qmv_nikoniko4020_unknown.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/h7k-8g2-qmv_nikoniko4020_unknown.bin"
   },
   {
     "category": "Unplayable",
@@ -2521,6 +2921,14 @@
   },
   {
     "category": "Unplayable",
+    "id": "qdv-z3u-fr6_perstrive_test-007",
+    "name": "TEST 007",
+    "author": "Perstrive",
+    "image": "Maps/Unplayable/qdv-z3u-fr6_perstrive_test-007.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/qdv-z3u-fr6_perstrive_test-007.bin"
+  },
+  {
+    "category": "Unplayable",
     "id": "qdz-667-556_grogubaggins_new-project",
     "name": "New Project",
     "author": "GroguBaggins",
@@ -2734,6 +3142,14 @@
     "author": "reflection",
     "image": "Maps/Unplayable/sh9-w6e-z41_reflection_new-projectca.jpg",
     "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/sh9-w6e-z41_reflection_new-projectca.bin"
+  },
+  {
+    "category": "Unplayable",
+    "id": "she-92w-8py_gtschaos_race-2",
+    "name": "Race 2",
+    "author": "GTS Chaos",
+    "image": "Maps/Unplayable/she-92w-8py_gtschaos_race-2.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/she-92w-8py_gtschaos_race-2.bin"
   },
   {
     "category": "Unplayable",
@@ -3185,6 +3601,14 @@
   },
   {
     "category": "Unplayable",
+    "id": "x2m-u2s-hbk_yurgy_portal-hot-tub",
+    "name": "portal hot tub",
+    "author": "Yurgy",
+    "image": "Maps/Unplayable/x2m-u2s-hbk_yurgy_portal-hot-tub.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/x2m-u2s-hbk_yurgy_portal-hot-tub.bin"
+  },
+  {
+    "category": "Unplayable",
     "id": "x4t-4yc-o6c_wickedclown416_new-project",
     "name": "New Project",
     "author": "WICKEDCLOWN416",
@@ -3502,14 +3926,6 @@
     "author": "Corgo",
     "image": "Maps/Unsorted/01k-pmh-wcv_corgo_margin.jpg",
     "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/01k-pmh-wcv_corgo_margin.bin"
-  },
-  {
-    "category": "Unsorted",
-    "id": "01n-fi0-20g_olimp0302_zttr",
-    "name": "Zttr",
-    "author": "Olimp0302",
-    "image": "Maps/Unsorted/01n-fi0-20g_olimp0302_zttr.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/01n-fi0-20g_olimp0302_zttr.bin"
   },
   {
     "category": "Unsorted",
@@ -3881,14 +4297,6 @@
   },
   {
     "category": "Unsorted",
-    "id": "0e2-dnw-dum_hunterr_aa",
-    "name": "新しいプロaaジェクト",
-    "author": "hunterr",
-    "image": "Maps/Unsorted/0e2-dnw-dum_hunterr_aa.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/0e2-dnw-dum_hunterr_aa.bin"
-  },
-  {
-    "category": "Unsorted",
     "id": "0e5-156-kpt_pink5110_reflection",
     "name": "reflection",
     "author": "pink5110",
@@ -4025,14 +4433,6 @@
   },
   {
     "category": "Unsorted",
-    "id": "0i8-dhv-tfk_doom999_mapa-1v1",
-    "name": "mapa 1v1",
-    "author": "DOOM999",
-    "image": "Maps/Unsorted/0i8-dhv-tfk_doom999_mapa-1v1.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/0i8-dhv-tfk_doom999_mapa-1v1.bin"
-  },
-  {
-    "category": "Unsorted",
     "id": "0im-f7e-y6d_boggs2_lunar-shipment",
     "name": "Lunar Shipment",
     "author": "boggs2",
@@ -4137,14 +4537,6 @@
   },
   {
     "category": "Unsorted",
-    "id": "0o0-end-wn3_nkdape_offload",
-    "name": "Offload",
-    "author": "nkdape",
-    "image": "Maps/Unsorted/0o0-end-wn3_nkdape_offload.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/0o0-end-wn3_nkdape_offload.bin"
-  },
-  {
-    "category": "Unsorted",
     "id": "0o8-z26-pqk_abordcertain_project-destruction",
     "name": "PROJECT DESTRUCTION",
     "author": "abord_certain",
@@ -4182,14 +4574,6 @@
     "author": "kaiesr310",
     "image": "Maps/Unsorted/0pv-qgz-8rb_kaiesr310_unknown.jpg",
     "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/0pv-qgz-8rb_kaiesr310_unknown.bin"
-  },
-  {
-    "category": "Unsorted",
-    "id": "0q1-c88-pxf_hunterkiller_roman-prefabs",
-    "name": "Roman Prefabs",
-    "author": "HunterKiller",
-    "image": "Maps/Unsorted/0q1-c88-pxf_hunterkiller_roman-prefabs.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/0q1-c88-pxf_hunterkiller_roman-prefabs.bin"
   },
   {
     "category": "Unsorted",
@@ -4265,14 +4649,6 @@
   },
   {
     "category": "Unsorted",
-    "id": "0u2-3vn-gff_matscalle_this-is-a-template-i-saved",
-    "name": "This is a template i saved",
-    "author": "matscalle",
-    "image": "Maps/Unsorted/0u2-3vn-gff_matscalle_this-is-a-template-i-saved.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/0u2-3vn-gff_matscalle_this-is-a-template-i-saved.bin"
-  },
-  {
-    "category": "Unsorted",
     "id": "0uw-6a6-ruw_woiow_1v1",
     "name": "1v1",
     "author": "WoioW",
@@ -4326,14 +4702,6 @@
     "author": "dubblekick2001",
     "image": "Maps/Unsorted/0wg-2mr-o13_dubblekick2001_just-have-fun.jpg",
     "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/0wg-2mr-o13_dubblekick2001_just-have-fun.bin"
-  },
-  {
-    "category": "Unsorted",
-    "id": "0wp-yqj-d0k",
-    "name": "新しいプロジェクト",
-    "author": "天才.億万長者.プレイボーイ.",
-    "image": "Maps/Unsorted/0wp-yqj-d0k.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/0wp-yqj-d0k.bin"
   },
   {
     "category": "Unsorted",
@@ -5065,14 +5433,6 @@
   },
   {
     "category": "Unsorted",
-    "id": "1gw-kw3-qe1_ahayayeeti_atlantis-remake-sg1-scaled-up",
-    "name": "Atlantis Remake SG1 [Scaled Up]",
-    "author": "ahayayeeti",
-    "image": "Maps/Unsorted/1gw-kw3-qe1_ahayayeeti_atlantis-remake-sg1-scaled-up.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/1gw-kw3-qe1_ahayayeeti_atlantis-remake-sg1-scaled-up.bin"
-  },
-  {
-    "category": "Unsorted",
     "id": "1hg-7tx-zsy_azsrwmk566_67",
     "name": "مشروع جديد67",
     "author": "azsrwmk_566",
@@ -5118,14 +5478,6 @@
     "author": "itsDragonFoxxTv",
     "image": "Maps/Unsorted/1ih-9nr-z7z_itsdragonfoxxtv_the-space-station.jpg",
     "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/1ih-9nr-z7z_itsdragonfoxxtv_the-space-station.bin"
-  },
-  {
-    "category": "Unsorted",
-    "id": "1ij-wso-vdn_littleliknife_whiteout",
-    "name": "Whiteout",
-    "author": "littleliknife",
-    "image": "Maps/Unsorted/1ij-wso-vdn_littleliknife_whiteout.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/1ij-wso-vdn_littleliknife_whiteout.bin"
   },
   {
     "category": "Unsorted",
@@ -5313,22 +5665,6 @@
   },
   {
     "category": "Unsorted",
-    "id": "1pq-915-zsv_kry_atlantis",
-    "name": "Atlantis",
-    "author": "Kry",
-    "image": "Maps/Unsorted/1pq-915-zsv_kry_atlantis.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/1pq-915-zsv_kry_atlantis.bin"
-  },
-  {
-    "category": "Unsorted",
-    "id": "1pu-row-29f_masedawg4527_67",
-    "name": "67",
-    "author": "Masedawg4527",
-    "image": "Maps/Unsorted/1pu-row-29f_masedawg4527_67.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/1pu-row-29f_masedawg4527_67.bin"
-  },
-  {
-    "category": "Unsorted",
     "id": "1py-64i-czv_justin_project-1",
     "name": "Project 1",
     "author": "justin",
@@ -5409,14 +5745,6 @@
   },
   {
     "category": "Unsorted",
-    "id": "1rq-to8-kbc_fireman6131_fire-project",
-    "name": "Fire project",
-    "author": "Fireman6131",
-    "image": "Maps/Unsorted/1rq-to8-kbc_fireman6131_fire-project.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/1rq-to8-kbc_fireman6131_fire-project.bin"
-  },
-  {
-    "category": "Unsorted",
     "id": "1s7-i4r-gn8_humanonthemoon_canyon-ffa-v01",
     "name": "Canyon ffa v0.1",
     "author": "HumanOnTheMoon",
@@ -5478,14 +5806,6 @@
     "author": "LykosPlayz",
     "image": "Maps/Unsorted/1t2-v0s-827_lykosplayz_guardian-by-lykosplayz.jpg",
     "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/1t2-v0s-827_lykosplayz_guardian-by-lykosplayz.bin"
-  },
-  {
-    "category": "Unsorted",
-    "id": "1tk-m0c-s9n_guitimao12_novo-projeto",
-    "name": "Novo Projeto",
-    "author": "gui_timao12",
-    "image": "Maps/Unsorted/1tk-m0c-s9n_guitimao12_novo-projeto.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/1tk-m0c-s9n_guitimao12_novo-projeto.bin"
   },
   {
     "category": "Unsorted",
@@ -5622,14 +5942,6 @@
     "author": "wetcactusflies20",
     "image": "Maps/Unsorted/1y6-a56-53z_wetcactusflies20_tower.jpg",
     "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/1y6-a56-53z_wetcactusflies20_tower.bin"
-  },
-  {
-    "category": "Unsorted",
-    "id": "1yn-ai7-bhe_betabetabetter_test",
-    "name": "test",
-    "author": "BETA_BETA_BETTER",
-    "image": "Maps/Unsorted/1yn-ai7-bhe_betabetabetter_test.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/1yn-ai7-bhe_betabetabetter_test.bin"
   },
   {
     "category": "Unsorted",
@@ -8209,14 +8521,6 @@
   },
   {
     "category": "Unsorted",
-    "id": "4fw-spm-jaf_hunterkiller_forest-template-2",
-    "name": "Forest Template 2",
-    "author": "HunterKiller",
-    "image": "Maps/Unsorted/4fw-spm-jaf_hunterkiller_forest-template-2.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/4fw-spm-jaf_hunterkiller_forest-template-2.bin"
-  },
-  {
-    "category": "Unsorted",
     "id": "4gn-ct9-ed9_toga_split-island-1v1",
     "name": "Split Island 1v1",
     "author": "Toga",
@@ -9129,14 +9433,6 @@
   },
   {
     "category": "Unsorted",
-    "id": "59k-w93-rs2_koma_leviathan",
-    "name": "Leviathan",
-    "author": "Koma",
-    "image": "Maps/Unsorted/59k-w93-rs2_koma_leviathan.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/59k-w93-rs2_koma_leviathan.bin"
-  },
-  {
-    "category": "Unsorted",
     "id": "59q-t5k-wot_programmeduser_earth",
     "name": "Earth",
     "author": "Programmed-User",
@@ -9254,14 +9550,6 @@
     "author": "Con225",
     "image": "Maps/Unsorted/5eh-xid-huq_con225_small-rocky-map-1v1.jpg",
     "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/5eh-xid-huq_con225_small-rocky-map-1v1.bin"
-  },
-  {
-    "category": "Unsorted",
-    "id": "5ek-ji6-fu0_bernana_crystal-reflection",
-    "name": "Crystal Reflection",
-    "author": "Bernana",
-    "image": "Maps/Unsorted/5ek-ji6-fu0_bernana_crystal-reflection.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/5ek-ji6-fu0_bernana_crystal-reflection.bin"
   },
   {
     "category": "Unsorted",
@@ -12017,14 +12305,6 @@
   },
   {
     "category": "Unsorted",
-    "id": "85x-i9y-692_mord_meridian-prime-darker-matters",
-    "name": "Meridian Prime: Darker Matters",
-    "author": "Mord",
-    "image": "Maps/Unsorted/85x-i9y-692_mord_meridian-prime-darker-matters.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/85x-i9y-692_mord_meridian-prime-darker-matters.bin"
-  },
-  {
-    "category": "Unsorted",
     "id": "863-c4r-dkp_connorhavok_portal-kills",
     "name": "Portal Kills ?",
     "author": "ConnorHavok",
@@ -13793,14 +14073,6 @@
   },
   {
     "category": "Unsorted",
-    "id": "9vy-hvy-j7t_yurgy_infinity-loop-v31-classicplus",
-    "name": "INFINITY LOOP v3.1 classic+",
-    "author": "Yurgy",
-    "image": "Maps/Unsorted/9vy-hvy-j7t_yurgy_infinity-loop-v31-classicplus.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/9vy-hvy-j7t_yurgy_infinity-loop-v31-classicplus.bin"
-  },
-  {
-    "category": "Unsorted",
     "id": "9w8-tjm-84e_perilith_portal-wars",
     "name": "Portal Wars",
     "author": "PERILITH",
@@ -13870,14 +14142,6 @@
     "author": "Razen_LRX",
     "image": "Maps/Unsorted/9z0-zpp-r2b_razenlrx_why-not-2.jpg",
     "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/9z0-zpp-r2b_razenlrx_why-not-2.bin"
-  },
-  {
-    "category": "Unsorted",
-    "id": "9z7-v5g-k09_nkdape_cove",
-    "name": "Cove",
-    "author": "nkdape",
-    "image": "Maps/Unsorted/9z7-v5g-k09_nkdape_cove.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/9z7-v5g-k09_nkdape_cove.bin"
   },
   {
     "category": "Unsorted",
@@ -16433,14 +16697,6 @@
   },
   {
     "category": "Unsorted",
-    "id": "cbn-isu-m9u_hunterkiller_array-reloaded",
-    "name": "Array Reloaded",
-    "author": "HunterKiller",
-    "image": "Maps/Unsorted/cbn-isu-m9u_hunterkiller_array-reloaded.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/cbn-isu-m9u_hunterkiller_array-reloaded.bin"
-  },
-  {
-    "category": "Unsorted",
     "id": "cbp-s2i-2ms_daddyrabbit117_ego-minute-a-ture",
     "name": "Ego-Minute-a-ture",
     "author": "Daddy rabbit117",
@@ -17361,14 +17617,6 @@
   },
   {
     "category": "Unsorted",
-    "id": "d9b-dtt-z9f_koma_lozenge",
-    "name": "Lozenge",
-    "author": "Koma",
-    "image": "Maps/Unsorted/d9b-dtt-z9f_koma_lozenge.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/d9b-dtt-z9f_koma_lozenge.bin"
-  },
-  {
-    "category": "Unsorted",
     "id": "d9d-j1x-odd_ximeutx_the-world-among-portals",
     "name": "The World Among Portals",
     "author": "xIMEUTx",
@@ -17534,14 +17782,6 @@
     "author": "HUGEpowerBaG",
     "image": "Maps/Unsorted/dgc-bg0-n35_hugepowerbag_corgi-lava-corgi.jpg",
     "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/dgc-bg0-n35_hugepowerbag_corgi-lava-corgi.bin"
-  },
-  {
-    "category": "Unsorted",
-    "id": "dgd-3vn-458_nkdape_schism",
-    "name": "Schism",
-    "author": "nkdape",
-    "image": "Maps/Unsorted/dgd-3vn-458_nkdape_schism.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/dgd-3vn-458_nkdape_schism.bin"
   },
   {
     "category": "Unsorted",
@@ -19801,14 +20041,6 @@
   },
   {
     "category": "Unsorted",
-    "id": "fkj-7vs-s9d_yurgy_infinity-loop-23-wip",
-    "name": "INFINITY LOOP 2.3 wip",
-    "author": "Yurgy",
-    "image": "Maps/Unsorted/fkj-7vs-s9d_yurgy_infinity-loop-23-wip.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/fkj-7vs-s9d_yurgy_infinity-loop-23-wip.bin"
-  },
-  {
-    "category": "Unsorted",
     "id": "fkw-o0z-kpe_finleyfox231_idk",
     "name": "Idk",
     "author": "Finleyfox231",
@@ -19822,14 +20054,6 @@
     "author": "GoneKountry6675",
     "image": "Maps/Unsorted/fky-c01-8x6_gonekountry6675_lava-land.jpg",
     "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/fky-c01-8x6_gonekountry6675_lava-land.bin"
-  },
-  {
-    "category": "Unsorted",
-    "id": "fmz-0qf-t3x_hunterkiller_forest-template",
-    "name": "Forest Template",
-    "author": "HunterKiller",
-    "image": "Maps/Unsorted/fmz-0qf-t3x_hunterkiller_forest-template.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/fmz-0qf-t3x_hunterkiller_forest-template.bin"
   },
   {
     "category": "Unsorted",
@@ -20585,14 +20809,6 @@
   },
   {
     "category": "Unsorted",
-    "id": "gei-56q-b32_sgtslaphead_tri-hard",
-    "name": "Tri Hard",
-    "author": "Sgt Slaphead",
-    "image": "Maps/Unsorted/gei-56q-b32_sgtslaphead_tri-hard.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/gei-56q-b32_sgtslaphead_tri-hard.bin"
-  },
-  {
-    "category": "Unsorted",
     "id": "gf0-ouo-wac_ultradash23_spacegate-alpha-v2",
     "name": "SpaceGate ( Alpha ) V2",
     "author": "UltraDash23",
@@ -20857,14 +21073,6 @@
   },
   {
     "category": "Unsorted",
-    "id": "gmn-no4-wf6_deadzone238482_shipment",
-    "name": "Shipment",
-    "author": "DeadZone238482",
-    "image": "Maps/Unsorted/gmn-no4-wf6_deadzone238482_shipment.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/gmn-no4-wf6_deadzone238482_shipment.bin"
-  },
-  {
-    "category": "Unsorted",
     "id": "gmr-jjx-eje_bubbabasher_ventstdm",
     "name": "Vents_TDM",
     "author": "BubbaBasher",
@@ -20894,14 +21102,6 @@
     "author": "Offyamedz",
     "image": "Maps/Unsorted/gn3-xau-cv5_offyamedz_get-grounded-ffa.jpg",
     "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/gn3-xau-cv5_offyamedz_get-grounded-ffa.bin"
-  },
-  {
-    "category": "Unsorted",
-    "id": "gni-o0m-4z9_thefadingninja_test",
-    "name": "Test",
-    "author": "thefadingninja",
-    "image": "Maps/Unsorted/gni-o0m-4z9_thefadingninja_test.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/gni-o0m-4z9_thefadingninja_test.bin"
   },
   {
     "category": "Unsorted",
@@ -21225,14 +21425,6 @@
   },
   {
     "category": "Unsorted",
-    "id": "gvz-jwi-dte_yurgy_splittica-heights-wip-bo",
-    "name": "Splittica Heights (WIP) (BO)",
-    "author": "Yurgy",
-    "image": "Maps/Unsorted/gvz-jwi-dte_yurgy_splittica-heights-wip-bo.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/gvz-jwi-dte_yurgy_splittica-heights-wip-bo.bin"
-  },
-  {
-    "category": "Unsorted",
     "id": "gx0-bkw-u2b_robbinwoods_projectnexus-v10",
     "name": "PROJECT:NEXUS V1.0",
     "author": "Robbin Woods",
@@ -21401,14 +21593,6 @@
   },
   {
     "category": "Unsorted",
-    "id": "h25-iek-pah_nkdape_depot",
-    "name": "Depot",
-    "author": "nkdape",
-    "image": "Maps/Unsorted/h25-iek-pah_nkdape_depot.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/h25-iek-pah_nkdape_depot.bin"
-  },
-  {
-    "category": "Unsorted",
     "id": "h2o-myk-a23_chillgiver_tower-escape-parkour-v2",
     "name": "Tower escape (Parkour) V2",
     "author": "ChillGiver",
@@ -21438,14 +21622,6 @@
     "author": "Hectorking5750",
     "image": "Maps/Unsorted/h3n-1nr-cen_hectorking5750_seti-b.jpg",
     "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/h3n-1nr-cen_hectorking5750_seti-b.bin"
-  },
-  {
-    "category": "Unsorted",
-    "id": "h3r-9nx-g62_tonyismybaby_simulation-bravo",
-    "name": "Simulation Bravo",
-    "author": "tonyismybaby",
-    "image": "Maps/Unsorted/h3r-9nx-g62_tonyismybaby_simulation-bravo.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/h3r-9nx-g62_tonyismybaby_simulation-bravo.bin"
   },
   {
     "category": "Unsorted",
@@ -21534,14 +21710,6 @@
     "author": "CoyoteTrickster",
     "image": "Maps/Unsorted/h79-ku0-5o8_coyotetrickster_the-tower-coyotetrickster.jpg",
     "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/h79-ku0-5o8_coyotetrickster_the-tower-coyotetrickster.bin"
-  },
-  {
-    "category": "Unsorted",
-    "id": "h7k-8g2-qmv_nikoniko4020_unknown",
-    "name": "新しいプロジェクト",
-    "author": "nikoniko4020",
-    "image": "Maps/Unsorted/h7k-8g2-qmv_nikoniko4020_unknown.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/h7k-8g2-qmv_nikoniko4020_unknown.bin"
   },
   {
     "category": "Unsorted",
@@ -23489,14 +23657,6 @@
   },
   {
     "category": "Unsorted",
-    "id": "j6s-qj1-n87_nkdape_rosie",
-    "name": "Rosie",
-    "author": "nkdape",
-    "image": "Maps/Unsorted/j6s-qj1-n87_nkdape_rosie.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/j6s-qj1-n87_nkdape_rosie.bin"
-  },
-  {
-    "category": "Unsorted",
     "id": "j6u-y9z-bng_haru0o0_unknown",
     "name": "新しいプロジェクト",
     "author": "Haru_0o0",
@@ -23598,14 +23758,6 @@
     "author": "Screenager 6,7",
     "image": "Maps/Unsorted/j97-cr3-xqy_screenager67_friends.jpg",
     "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/j97-cr3-xqy_screenager67_friends.bin"
-  },
-  {
-    "category": "Unsorted",
-    "id": "j9j-zf3-r6u_nkdape_foregone-desolation",
-    "name": "Foregone Desolation",
-    "author": "nkdape",
-    "image": "Maps/Unsorted/j9j-zf3-r6u_nkdape_foregone-desolation.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/j9j-zf3-r6u_nkdape_foregone-desolation.bin"
   },
   {
     "category": "Unsorted",
@@ -23825,14 +23977,6 @@
   },
   {
     "category": "Unsorted",
-    "id": "jfe-3ce-khe_yurgy_infinity-loop-22",
-    "name": "INFINITY LOOP 2.2",
-    "author": "Yurgy",
-    "image": "Maps/Unsorted/jfe-3ce-khe_yurgy_infinity-loop-22.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/jfe-3ce-khe_yurgy_infinity-loop-22.bin"
-  },
-  {
-    "category": "Unsorted",
     "id": "jft-yz6-aqm_bufu2009_arthurs-battleground",
     "name": "Arthurs battleground",
     "author": "BUFU2009",
@@ -23902,14 +24046,6 @@
     "author": "peepeefight",
     "image": "Maps/Unsorted/jhr-hp9-kp7_peepeefight_great-map.jpg",
     "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/jhr-hp9-kp7_peepeefight_great-map.bin"
-  },
-  {
-    "category": "Unsorted",
-    "id": "jhy-oax-9c0_nkdape_simulation-temple",
-    "name": "Simulation Temple",
-    "author": "nkdape",
-    "image": "Maps/Unsorted/jhy-oax-9c0_nkdape_simulation-temple.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/jhy-oax-9c0_nkdape_simulation-temple.bin"
   },
   {
     "category": "Unsorted",
@@ -25001,14 +25137,6 @@
   },
   {
     "category": "Unsorted",
-    "id": "kna-wub-b09_icesmoke_halls-of-torment",
-    "name": "HALLS OF TORMENT",
-    "author": "ICEsmoke",
-    "image": "Maps/Unsorted/kna-wub-b09_icesmoke_halls-of-torment.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/kna-wub-b09_icesmoke_halls-of-torment.bin"
-  },
-  {
-    "category": "Unsorted",
     "id": "knm-5kb-2bq_shoes1332_wip-splitball-attack",
     "name": "WIP Splitball attack",
     "author": "shoes1332",
@@ -25134,14 +25262,6 @@
     "author": "Naut",
     "image": "Maps/Unsorted/kqm-q7v-tpr_naut_the-tower.jpg",
     "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/kqm-q7v-tpr_naut_the-tower.bin"
-  },
-  {
-    "category": "Unsorted",
-    "id": "kqn-m1r-ygm_icesmoke_planetary-fortress",
-    "name": "Planetary Fortress",
-    "author": "ICEsmoke",
-    "image": "Maps/Unsorted/kqn-m1r-ygm_icesmoke_planetary-fortress.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/kqn-m1r-ygm_icesmoke_planetary-fortress.bin"
   },
   {
     "category": "Unsorted",
@@ -27713,14 +27833,6 @@
   },
   {
     "category": "Unsorted",
-    "id": "o2i-dcj-vgm_hunterkiller_christmas-prefabs",
-    "name": "Christmas Prefabs",
-    "author": "HunterKiller",
-    "image": "Maps/Unsorted/o2i-dcj-vgm_hunterkiller_christmas-prefabs.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/o2i-dcj-vgm_hunterkiller_christmas-prefabs.bin"
-  },
-  {
-    "category": "Unsorted",
     "id": "o2u-qtd-9s5_naniii7363_das-hauscod-by-n-a-n-i-i-i",
     "name": "DAS HAUS(COD) BY N A N i i i",
     "author": "N A N i i i7363",
@@ -28169,14 +28281,6 @@
   },
   {
     "category": "Unsorted",
-    "id": "oix-6n8-svy_ahayayeeti_atlantis-remake-20-sg1",
-    "name": "Atlantis Remake [2.0] SG1",
-    "author": "ahayayeeti",
-    "image": "Maps/Unsorted/oix-6n8-svy_ahayayeeti_atlantis-remake-20-sg1.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/oix-6n8-svy_ahayayeeti_atlantis-remake-20-sg1.bin"
-  },
-  {
-    "category": "Unsorted",
     "id": "oiz-w8v-mmg_mrkrimson_1v1",
     "name": "1V1",
     "author": "Mr Krimson",
@@ -28425,14 +28529,6 @@
   },
   {
     "category": "Unsorted",
-    "id": "orp-2a0-dmo_icesmoke_fractrued-falls-arena",
-    "name": "FRACTRUED FALLS ARENA",
-    "author": "ICEsmoke",
-    "image": "Maps/Unsorted/orp-2a0-dmo_icesmoke_fractrued-falls-arena.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/orp-2a0-dmo_icesmoke_fractrued-falls-arena.bin"
-  },
-  {
-    "category": "Unsorted",
     "id": "ory-ery-wne_arkhamdevil3957_olympus-koth",
     "name": "Olympus - KOTH",
     "author": "ArkhamDevil3957",
@@ -28598,14 +28694,6 @@
     "author": "Voyal2000",
     "image": "Maps/Unsorted/ovt-iv2-h79_voyal2000_beta-gun-game-02.jpg",
     "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/ovt-iv2-h79_voyal2000_beta-gun-game-02.bin"
-  },
-  {
-    "category": "Unsorted",
-    "id": "ow1-2d9-p5a_yurgy_infinity-loop-classic",
-    "name": "INFINITY LOOP CLASSIC",
-    "author": "Yurgy",
-    "image": "Maps/Unsorted/ow1-2d9-p5a_yurgy_infinity-loop-classic.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/ow1-2d9-p5a_yurgy_infinity-loop-classic.bin"
   },
   {
     "category": "Unsorted",
@@ -28942,14 +29030,6 @@
     "author": "aatu07p",
     "image": "Maps/Unsorted/p5c-nex-vra_aatu07p_deep-stone-crypt.jpg",
     "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/p5c-nex-vra_aatu07p_deep-stone-crypt.bin"
-  },
-  {
-    "category": "Unsorted",
-    "id": "p5k-czw-pfn_nkdape_kurgan",
-    "name": "Kurgan",
-    "author": "nkdape",
-    "image": "Maps/Unsorted/p5k-czw-pfn_nkdape_kurgan.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/p5k-czw-pfn_nkdape_kurgan.bin"
   },
   {
     "category": "Unsorted",
@@ -30081,14 +30161,6 @@
   },
   {
     "category": "Unsorted",
-    "id": "q2z-cpr-yyd_icesmoke_arena-of-the-dammed",
-    "name": "Arena of the dammed",
-    "author": "ICEsmoke",
-    "image": "Maps/Unsorted/q2z-cpr-yyd_icesmoke_arena-of-the-dammed.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/q2z-cpr-yyd_icesmoke_arena-of-the-dammed.bin"
-  },
-  {
-    "category": "Unsorted",
     "id": "q32-8y8-66m_boxnasti_guardian",
     "name": "Guardian",
     "author": "Boxnasti",
@@ -30334,14 +30406,6 @@
     "author": "MrFahrenheit_212",
     "image": "Maps/Unsorted/qds-mge-h6i_mrfahrenheit212_arctic-dome.jpg",
     "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/qds-mge-h6i_mrfahrenheit212_arctic-dome.bin"
-  },
-  {
-    "category": "Unsorted",
-    "id": "qdv-z3u-fr6_perstrive_test-007",
-    "name": "TEST 007",
-    "author": "Perstrive",
-    "image": "Maps/Unsorted/qdv-z3u-fr6_perstrive_test-007.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/qdv-z3u-fr6_perstrive_test-007.bin"
   },
   {
     "category": "Unsorted",
@@ -30902,14 +30966,6 @@
     "author": "lID4N0Il",
     "image": "Maps/Unsorted/qvf-qra-ak8_lid4n0il_blood-gulch-reimagined.jpg",
     "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/qvf-qra-ak8_lid4n0il_blood-gulch-reimagined.bin"
-  },
-  {
-    "category": "Unsorted",
-    "id": "qw8-rgs-a7v_mythicalskill3_hijacked",
-    "name": "Hijacked",
-    "author": "MythicalSkill3",
-    "image": "Maps/Unsorted/qw8-rgs-a7v_mythicalskill3_hijacked.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/qw8-rgs-a7v_mythicalskill3_hijacked.bin"
   },
   {
     "category": "Unsorted",
@@ -31857,14 +31913,6 @@
   },
   {
     "category": "Unsorted",
-    "id": "rtb-np1-6nh_koma_genetics",
-    "name": "Genetics",
-    "author": "Koma",
-    "image": "Maps/Unsorted/rtb-np1-6nh_koma_genetics.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/rtb-np1-6nh_koma_genetics.bin"
-  },
-  {
-    "category": "Unsorted",
     "id": "rtf-7gm-o0b_circesaga_circesagas-shipment-ffa",
     "name": "circesaga's Shipment FFA",
     "author": "circesaga",
@@ -32449,14 +32497,6 @@
   },
   {
     "category": "Unsorted",
-    "id": "sd5-rpj-uai_jangutu_whack-a-mole-12-snipers",
-    "name": "!Whack-A-Mole 1.2 Snipers",
-    "author": "Jangutu",
-    "image": "Maps/Unsorted/sd5-rpj-uai_jangutu_whack-a-mole-12-snipers.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/sd5-rpj-uai_jangutu_whack-a-mole-12-snipers.bin"
-  },
-  {
-    "category": "Unsorted",
     "id": "sdh-ft7-f0v_matscalle_blockoutmap",
     "name": "BLOCKOUTMAP",
     "author": "matscalle",
@@ -32558,14 +32598,6 @@
     "author": "GoneKountry6675",
     "image": "Maps/Unsorted/sgv-tf7-us3_gonekountry6675_oscars-oasis-2.jpg",
     "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/sgv-tf7-us3_gonekountry6675_oscars-oasis-2.bin"
-  },
-  {
-    "category": "Unsorted",
-    "id": "she-92w-8py_gtschaos_race-2",
-    "name": "Race 2",
-    "author": "GTS Chaos",
-    "image": "Maps/Unsorted/she-92w-8py_gtschaos_race-2.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/she-92w-8py_gtschaos_race-2.bin"
   },
   {
     "category": "Unsorted",
@@ -33897,14 +33929,6 @@
   },
   {
     "category": "Unsorted",
-    "id": "tnx-682-gkr_nkdape_crude",
-    "name": "Crude",
-    "author": "nkdape",
-    "image": "Maps/Unsorted/tnx-682-gkr_nkdape_crude.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/tnx-682-gkr_nkdape_crude.bin"
-  },
-  {
-    "category": "Unsorted",
     "id": "to4-tyx-b9e_creamynutbutter_isthaluh",
     "name": "Isthaluh",
     "author": "Creamy Nut Butter",
@@ -33982,14 +34006,6 @@
     "author": "JCDenTron",
     "image": "Maps/Unsorted/trh-xiv-x8g_jcdentron_jcskillboxhl2dm.jpg",
     "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/trh-xiv-x8g_jcdentron_jcskillboxhl2dm.bin"
-  },
-  {
-    "category": "Unsorted",
-    "id": "trj-7nz-jdk_icesmoke_forest-of-fades",
-    "name": "Forest of fades",
-    "author": "ICEsmoke",
-    "image": "Maps/Unsorted/trj-7nz-jdk_icesmoke_forest-of-fades.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/trj-7nz-jdk_icesmoke_forest-of-fades.bin"
   },
   {
     "category": "Unsorted",
@@ -34662,14 +34678,6 @@
     "author": "reflection",
     "image": "Maps/Unsorted/ueu-5i5-4a7_reflection_portal.jpg",
     "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/ueu-5i5-4a7_reflection_portal.bin"
-  },
-  {
-    "category": "Unsorted",
-    "id": "ufb-o7i-av7_yurgy_infinity-loop-v31-classicplus",
-    "name": "INFINITY LOOP v3.1 classic+",
-    "author": "Yurgy",
-    "image": "Maps/Unsorted/ufb-o7i-av7_yurgy_infinity-loop-v31-classicplus.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/ufb-o7i-av7_yurgy_infinity-loop-v31-classicplus.bin"
   },
   {
     "category": "Unsorted",
@@ -36521,14 +36529,6 @@
   },
   {
     "category": "Unsorted",
-    "id": "w5a-ukq-q89_yurgy_infinity-loop-v3",
-    "name": "INFINITY LOOP v3",
-    "author": "Yurgy",
-    "image": "Maps/Unsorted/w5a-ukq-q89_yurgy_infinity-loop-v3.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/w5a-ukq-q89_yurgy_infinity-loop-v3.bin"
-  },
-  {
-    "category": "Unsorted",
     "id": "w5j-0mb-der_x2shooty69_idk",
     "name": "Idk",
     "author": "X2 Shooty 69",
@@ -37446,14 +37446,6 @@
     "author": "B4it",
     "image": "Maps/Unsorted/x2d-ddo-8pf_b4it_testgrounds.jpg",
     "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/x2d-ddo-8pf_b4it_testgrounds.bin"
-  },
-  {
-    "category": "Unsorted",
-    "id": "x2m-u2s-hbk_yurgy_portal-hot-tub",
-    "name": "portal hot tub",
-    "author": "Yurgy",
-    "image": "Maps/Unsorted/x2m-u2s-hbk_yurgy_portal-hot-tub.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/x2m-u2s-hbk_yurgy_portal-hot-tub.bin"
   },
   {
     "category": "Unsorted",
@@ -38745,14 +38737,6 @@
   },
   {
     "category": "Unsorted",
-    "id": "y7y-mgm-vyg_icesmoke_temple-of-abaddon",
-    "name": "Temple of Abaddon",
-    "author": "ICEsmoke",
-    "image": "Maps/Unsorted/y7y-mgm-vyg_icesmoke_temple-of-abaddon.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/y7y-mgm-vyg_icesmoke_temple-of-abaddon.bin"
-  },
-  {
-    "category": "Unsorted",
     "id": "y84-tkb-5k2_fullytoasted1_intergalactic-v2",
     "name": "INTERGALACTIC V2",
     "author": "fullytoasted1",
@@ -39913,14 +39897,6 @@
   },
   {
     "category": "Unsorted",
-    "id": "zbf-5uj-7id_yurgy_infinity-loop-24",
-    "name": "INFINITY LOOP 2.4",
-    "author": "Yurgy",
-    "image": "Maps/Unsorted/zbf-5uj-7id_yurgy_infinity-loop-24.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/zbf-5uj-7id_yurgy_infinity-loop-24.bin"
-  },
-  {
-    "category": "Unsorted",
     "id": "zbf-ms0-wy5_moonjuice_diety-blockout-v01",
     "name": "Diety Blockout v0.1",
     "author": "MoonJuice",
@@ -40198,14 +40174,6 @@
     "author": "SGTBlairII",
     "image": "Maps/Unsorted/zjj-kxq-9z9_sgtblairii_project-1.jpg",
     "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/zjj-kxq-9z9_sgtblairii_project-1.bin"
-  },
-  {
-    "category": "Unsorted",
-    "id": "zjt-wv8-duh_coyotetrickster_facility-13-coyote",
-    "name": "Facility 13 [Coyote]",
-    "author": "CoyoteTrickster",
-    "image": "Maps/Unsorted/zjt-wv8-duh_coyotetrickster_facility-13-coyote.jpg",
-    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/zjt-wv8-duh_coyotetrickster_facility-13-coyote.bin"
   },
   {
     "category": "Unsorted",
