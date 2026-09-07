@@ -1,6 +1,6 @@
 # WIP Maps
 
-Eine Übersicht aller Maps in der Kategorie **WIP**.
+An overview of all maps in the **WIP** category.
 
 | ![293-jm9-2j6_corellan_eos-01](293-jm9-2j6_corellan_eos-01.jpg) | ![2ws-wii-er7_deadbydawn212_morpheus-test-2](2ws-wii-er7_deadbydawn212_morpheus-test-2.jpg) | ![dz9-3iq-gqz_deadbydawn212_morpheus-test-1](dz9-3iq-gqz_deadbydawn212_morpheus-test-1.jpg) |
 | :---: | :---: | :---: |

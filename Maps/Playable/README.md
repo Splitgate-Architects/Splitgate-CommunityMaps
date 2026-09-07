@@ -1,6 +1,6 @@
 # Playable Maps
 
-Eine Übersicht aller Maps in der Kategorie **Playable**.
+An overview of all maps in the **Playable** category.
 
 | ![00k-4uj-mi3_shreddermcgenty_simulation-omega](00k-4uj-mi3_shreddermcgenty_simulation-omega.jpg) | ![1kr-po5-b0r_deadbydawn212_deck-16](1kr-po5-b0r_deadbydawn212_deck-16.jpg) | ![2en-est-uhy_corellan_simulation-echo-core](2en-est-uhy_corellan_simulation-echo-core.jpg) |
 | :---: | :---: | :---: |

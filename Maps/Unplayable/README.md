@@ -1,6 +1,6 @@
 # Unplayable Maps
 
-Eine Übersicht aller Maps in der Kategorie **Unplayable**.
+An overview of all maps in the **Unplayable** category.
 
 | ![05v-zez-8vv_ooku1004_new-project](05v-zez-8vv_ooku1004_new-project.jpg) | ![0c0-ihz-bgo_matanddjsuki_new-project](0c0-ihz-bgo_matanddjsuki_new-project.jpg) | ![0c4-akz-3b6_modokikun_new-project](0c4-akz-3b6_modokikun_new-project.jpg) |
 | :---: | :---: | :---: |
