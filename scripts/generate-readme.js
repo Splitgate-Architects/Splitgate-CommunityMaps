@@ -1,21 +1,28 @@
 import fs from 'fs';
 import path from 'path';
+import AdmZip from 'adm-zip';
 
-const TARGET_DIR = './Maps/Playable'; // Anpassen je nach Ordner
-const REPO_URL = 'https://cdn.jsdelivr.net/gh/DEIN-BENUTZERNAME/DEIN-REPO@master';
+const BASE_DIR = './Maps';
+const SUBFOLDERS = ['Playable', 'Unplayable', 'WIP'];
+const REPO_URL = 'https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master';
 
-function generateMarkdown() {
-    if (!fs.existsSync(TARGET_DIR)) {
-        console.error(`Ordner ${TARGET_DIR} nicht gefunden!`);
+function generateMarkdownForFolder(folderName) {
+    const targetDir = path.join(BASE_DIR, folderName);
+
+    if (!fs.existsSync(targetDir)) {
+        console.warn(`Ordner ${targetDir} nicht gefunden. Wird übersprungen.`);
         return;
     }
 
-    const files = fs.readdirSync(TARGET_DIR);
+    const files = fs.readdirSync(targetDir);
     const maps = {};
 
-    // Sammle alle zusammengehörenden Dateien (.bin, .jpg, .json)
     files.forEach(file => {
+        if (file.toLowerCase() === 'readme.md') return; 
+        
         const ext = path.extname(file);
+        if (!['.bin', '.jpg'].includes(ext)) return;
+
         const baseName = path.basename(file, ext);
 
         if (!maps[baseName]) {
@@ -24,65 +31,76 @@ function generateMarkdown() {
         maps[baseName][ext.replace('.', '')] = file;
     });
 
-    let markdown = `# Playable Maps\n\nEine kuratierte Liste aller spielbaren Maps.\n\n`;
+    let markdown = `# ${folderName} Maps\n\nEine Übersicht aller Maps in der Kategorie **${folderName}**.\n\n`;
     
-    let items = Object.values(maps);
-    let currentRow = [];
+    let items = Object.values(maps)
+        .filter(m => m.bin)
+        .sort((a, b) => a.id.localeCompare(b.id));
 
-    items.forEach((map, index) => {
-        let name = map.id;
-        let author = "Unknown";
+    for (let i = 0; i < items.length; i += 3) {
+        let chunk = items.slice(i, i + 3);
+        let currentRow = [];
 
-        // Versuche, Name und Author aus der .json zu lesen, falls vorhanden
-        if (map.json) {
-            try {
-                const jsonPath = path.join(TARGET_DIR, map.json);
-                const jsonData = JSON.parse(fs.readFileSync(jsonPath, 'utf8'));
-                if (jsonData.name) name = jsonData.name;
-                if (jsonData.author) author = jsonData.author;
-            } catch (e) {
-                console.warn(`Konnte JSON nicht lesen für ${map.id}`);
-            }
-        } else {
-            // Fallback: Aus Dateinamen parsen (author_mapname)
+        chunk.forEach(map => {
+            let displayName = map.id;
+            let author = "Unknown";
+
+            // Fallback aus Dateinamen
             const parts = map.id.split('_');
-            if (parts.length >= 2) {
+            if (parts.length >= 3) {
+                author = parts[1];
+                displayName = parts.slice(2).join(' ');
+            } else if (parts.length === 2) {
                 author = parts[0];
-                name = parts.slice(1).join(' ');
+                displayName = parts[1];
             }
-        }
 
-        const imgTag = map.jpg 
-            ? `![${name}](${TARGET_DIR}/${map.jpg})` 
-            : `*(Kein Bild)*`;
+            // Info.json auslesen für den echten Anzeigenamen
+            try {
+                const binPath = path.join(targetDir, map.bin);
+                const zip = new AdmZip(binPath);
+                const zipEntries = zip.getEntries();
+                
+                const infoEntry = zipEntries.find(entry => entry.entryName.toLowerCase() === 'info.json');
+
+                if (infoEntry) {
+                    let jsonContent = infoEntry.getData().toString('utf8').trim();
+                    jsonContent = jsonContent.replace(/^\uFEFF/, ''); 
+                    
+                    const jsonData = JSON.parse(jsonContent);
+                    if (jsonData.name) displayName = jsonData.name;
+                    if (jsonData.author) author = jsonData.author;
+                }
+            } catch (e) {
+                console.warn(`Konnte Info.json aus ${map.bin} nicht lesen: ${e.message}`);
+            }
+
+            const relDir = `${BASE_DIR.replace('./', '')}/${folderName}`;
             
-        const binLink = map.bin 
-            ? `[📥 Download .bin](${REPO_URL}/${TARGET_DIR}/${map.bin})` 
-            : `*Keine .bin*`;
+            // WICHTIG: Hier konsequent den echten Dateinamen (.jpg) nutzen, 
+            // damit Markdown wegen Sonderzeichen im JSON-Namen (wie "|") nicht stolpert!
+            const imgTag = map.jpg ? `![${map.id}](${map.jpg})` : `*(Kein Bild)*`;
+            const binLink = `[📥 Download .bin](${REPO_URL}/${relDir}/${map.bin})`;
 
-        currentRow.push({
-            img: imgTag,
-            info: `**${name}**<br>by ${author}`,
-            download: binLink
+            currentRow.push({
+                img: imgTag,
+                info: `**${displayName}**<br>by ${author}`,
+                download: binLink
+            });
         });
 
-        // Wenn 3 Spalten voll sind oder es das letzte Element ist, Zeile schreiben
-        if (currentRow.length === 3 || index === items.length - 1) {
-            // Zeile 1: Bilder
-            markdown += `| ${currentRow.map(c => c.img).join(' | ')} |\n`;
-            // Trenner
-            markdown += `| :---: | :---: | :---: |\n`;
-            // Zeile 2: Name & Autor
-            markdown += `| ${currentRow.map(c => c.info).join(' | ')} |\n`;
-            // Zeile 3: Downloads
-            markdown += `| ${currentRow.map(c => c.download).join(' | ')} |\n\n`;
-
-            currentRow = [];
+        while (currentRow.length < 3) {
+            currentRow.push({ img: '&nbsp;', info: '&nbsp;', download: '&nbsp;' });
         }
-    });
 
-    fs.writeFileSync(path.join(TARGET_DIR, 'README.md'), markdown);
-    console.log('README erfolgreich generiert!');
+        markdown += `| ${currentRow.map(c => c.img).join(' | ')} |\n`;
+        markdown += `| :---: | :---: | :---: |\n`;
+        markdown += `| ${currentRow.map(c => c.info).join(' | ')} |\n`;
+        markdown += `| ${currentRow.map(c => c.download).join(' | ')} |\n\n`;
+    }
+
+    fs.writeFileSync(path.join(targetDir, 'README.md'), markdown);
+    console.log(`README für ${folderName} erfolgreich generiert!`);
 }
 
-generateMarkdown();
+SUBFOLDERS.forEach(folder => generateMarkdownForFolder(folder));

@@ -2,673 +2,668 @@
 
 Eine Übersicht aller Maps in der Kategorie **Unplayable**.
 
-| ![new-project](05v-zez-8vv_ooku1004_new-project.jpg) | ![new-project](0c0-ihz-bgo_matanddjsuki_new-project.jpg) | ![new-project](0c4-akz-3b6_modokikun_new-project.jpg) |
+| ![05v-zez-8vv_ooku1004_new-project](05v-zez-8vv_ooku1004_new-project.jpg) | ![0c0-ihz-bgo_matanddjsuki_new-project](0c0-ihz-bgo_matanddjsuki_new-project.jpg) | ![0c4-akz-3b6_modokikun_new-project](0c4-akz-3b6_modokikun_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by ooku1004 | **new-project**<br>by matanddjsuki | **new-project**<br>by modokikun |
+| **New Project**<br>by Ooku1004 | **New Project**<br>by Mat and DJ Suki | **New Project**<br>by modokikun |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/05v-zez-8vv_ooku1004_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/0c0-ihz-bgo_matanddjsuki_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/0c4-akz-3b6_modokikun_new-project.bin) |
 
-| ![new-project](0ec-zo6-ioq_dagooster_new-project.jpg) | ![new-projecthi](0ij-sa3-vkq_seagullpee_new-projecthi.jpg) | ![new-project](0j9-qtm-1rj_iamthekod_new-project.jpg) |
+| ![0ec-zo6-ioq_dagooster_new-project](0ec-zo6-ioq_dagooster_new-project.jpg) | ![0ij-sa3-vkq_seagullpee_new-projecthi](0ij-sa3-vkq_seagullpee_new-projecthi.jpg) | ![0j9-qtm-1rj_iamthekod_new-project](0j9-qtm-1rj_iamthekod_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by dagooster | **new-projecthi**<br>by seagullpee | **new-project**<br>by iamthekod |
+| **New Project**<br>by Da_Gooster | **New Projecthi**<br>by seagullpee | **New Project**<br>by I_AM_THE_KOD |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/0ec-zo6-ioq_dagooster_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/0ij-sa3-vkq_seagullpee_new-projecthi.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/0j9-qtm-1rj_iamthekod_new-project.bin) |
 
-| ![new-project](0jz-ckq-rc1_dj_new-project.jpg) | ![guys-im-stuck](0of-ygn-g7h_viper_guys-im-stuck.jpg) | ![new-project](17e-zo7-895_350_new-project.jpg) |
+| ![0jz-ckq-rc1_dj_new-project](0jz-ckq-rc1_dj_new-project.jpg) | ![0of-ygn-g7h_viper_guys-im-stuck](0of-ygn-g7h_viper_guys-im-stuck.jpg) | ![17e-zo7-895_350_new-project](17e-zo7-895_350_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by dj | **guys-im-stuck**<br>by viper | **new-project**<br>by 350 |
+| **New Project**<br>by DJ小念 | **GUYS IM STUCK**<br>by Viper | **New Project**<br>by 350時間の初心者 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/0jz-ckq-rc1_dj_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/0of-ygn-g7h_viper_guys-im-stuck.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/17e-zo7-895_350_new-project.bin) |
 
-| ![new-project](1ip-d2f-i0n_thetruetamashi_new-project.jpg) | ![new-projects](1ou-a24-9b6_redangel2236_new-projects.jpg) | ![new-project](1qz-su6-70f_silvercrazycat_new-project.jpg) |
+| ![1ip-d2f-i0n_thetruetamashi_new-project](1ip-d2f-i0n_thetruetamashi_new-project.jpg) | ![1ou-a24-9b6_redangel2236_new-projects](1ou-a24-9b6_redangel2236_new-projects.jpg) | ![1qz-su6-70f_silvercrazycat_new-project](1qz-su6-70f_silvercrazycat_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by thetruetamashi | **new-projects**<br>by redangel2236 | **new-project**<br>by silvercrazycat |
+| **New Project**<br>by TheTrueTamashi | **New Projects**<br>by RedAngel2236 | **New Project**<br>by Silver-Crazy-Cat |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/1ip-d2f-i0n_thetruetamashi_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/1ou-a24-9b6_redangel2236_new-projects.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/1qz-su6-70f_silvercrazycat_new-project.bin) |
 
-| ![new-project](1z3-pzj-1ye_kg3tdubs_new-project.jpg) | ![new-project](204-tyb-v9h_bertuioo_new-project.jpg) | ![new-project](20y-5q8-hi7_legalsuccess28_new-project.jpg) |
+| ![1z3-pzj-1ye_kg3tdubs_new-project](1z3-pzj-1ye_kg3tdubs_new-project.jpg) | ![204-tyb-v9h_bertuioo_new-project](204-tyb-v9h_bertuioo_new-project.jpg) | ![20y-5q8-hi7_legalsuccess28_new-project](20y-5q8-hi7_legalsuccess28_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by kg3tdubs | **new-project**<br>by bertuioo | **new-project**<br>by legalsuccess28 |
+| **New Project**<br>by K_G3t_Dubs | **New Project**<br>by Bertuioo | **New Project**<br>by legal_success28 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/1z3-pzj-1ye_kg3tdubs_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/204-tyb-v9h_bertuioo_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/20y-5q8-hi7_legalsuccess28_new-project.bin) |
 
-| ![new-project2](230-gz5-6eu_kg3tdubs_new-project2.jpg) | ![new-projecttheeeeeeeeeeeoooooo](24b-ztg-fgf_theogamer14_new-projecttheeeeeeeeeeeoooooo.jpg) | ![new-project](27q-qhc-wat_eisen_new-project.jpg) |
+| ![230-gz5-6eu_kg3tdubs_new-project2](230-gz5-6eu_kg3tdubs_new-project2.jpg) | ![24b-ztg-fgf_theogamer14_new-projecttheeeeeeeeeeeoooooo](24b-ztg-fgf_theogamer14_new-projecttheeeeeeeeeeeoooooo.jpg) | ![27q-qhc-wat_eisen_new-project](27q-qhc-wat_eisen_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project2**<br>by kg3tdubs | **new-projecttheeeeeeeeeeeoooooo**<br>by theogamer14 | **new-project**<br>by eisen |
+| **New Project2**<br>by K_G3t_Dubs | **New Projecttheeeeeeeeeee#oooooo**<br>by TheOGamer__14 | **New Project**<br>by Eisen |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/230-gz5-6eu_kg3tdubs_new-project2.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/24b-ztg-fgf_theogamer14_new-projecttheeeeeeeeeeeoooooo.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/27q-qhc-wat_eisen_new-project.bin) |
 
-| ![new-project](27t-be5-kpt_sternsword8_new-project.jpg) | ![new-project](29b-2y7-srq_ajamesh2016_new-project.jpg) | ![new-project](2cy-ce5-za3_faded8lazed_new-project.jpg) |
+| ![27t-be5-kpt_sternsword8_new-project](27t-be5-kpt_sternsword8_new-project.jpg) | ![29b-2y7-srq_ajamesh2016_new-project](29b-2y7-srq_ajamesh2016_new-project.jpg) | ![2cy-ce5-za3_faded8lazed_new-project](2cy-ce5-za3_faded8lazed_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by sternsword8 | **new-project**<br>by ajamesh2016 | **new-project**<br>by faded8lazed |
+| **New Project**<br>by stern_sword8 | **New Project**<br>by Ajamesh2016 | **New Project**<br>by Faded8lazed |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/27t-be5-kpt_sternsword8_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/29b-2y7-srq_ajamesh2016_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/2cy-ce5-za3_faded8lazed_new-project.bin) |
 
-| ![new-project](2k5-mp9-rww_johnnybravo1288_new-project.jpg) | ![new-projecter3q4523q](2m7-6bv-ksc_gtschaos_new-projecter3q4523q.jpg) | ![new-project](2pv-0ug-6bu_youareslow508_new-project.jpg) |
+| ![2k5-mp9-rww_johnnybravo1288_new-project](2k5-mp9-rww_johnnybravo1288_new-project.jpg) | ![2m7-6bv-ksc_gtschaos_new-projecter3q4523q](2m7-6bv-ksc_gtschaos_new-projecter3q4523q.jpg) | ![2pv-0ug-6bu_youareslow508_new-project](2pv-0ug-6bu_youareslow508_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by johnnybravo1288 | **new-projecter3q4523q**<br>by gtschaos | **new-project**<br>by youareslow508 |
+| **New Project**<br>by JohnnYbravo1288 | **New ProjectER3Q4523Q**<br>by GTS Chaos | **New Project**<br>by You are slow508 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/2k5-mp9-rww_johnnybravo1288_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/2m7-6bv-ksc_gtschaos_new-projecter3q4523q.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/2pv-0ug-6bu_youareslow508_new-project.bin) |
 
-| ![new-projectg](2qd-v3v-ti4_futuristicluck0_new-projectg.jpg) | ![new-project](2u6-md0-78z_richboypj2019_new-project.jpg) | ![new-project](2ve-fra-j54_calvinjames11_new-project.jpg) |
+| ![2qd-v3v-ti4_futuristicluck0_new-projectg](2qd-v3v-ti4_futuristicluck0_new-projectg.jpg) | ![2u6-md0-78z_richboypj2019_new-project](2u6-md0-78z_richboypj2019_new-project.jpg) | ![2ve-fra-j54_calvinjames11_new-project](2ve-fra-j54_calvinjames11_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-projectg**<br>by futuristicluck0 | **new-project**<br>by richboypj2019 | **new-project**<br>by calvinjames11 |
+| **New Projectg**<br>by futuristic-luck0 | **New Project**<br>by richboypj2019 | **New Project**<br>by CalvinJames11 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/2qd-v3v-ti4_futuristicluck0_new-projectg.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/2u6-md0-78z_richboypj2019_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/2ve-fra-j54_calvinjames11_new-project.bin) |
 
-| ![new-projectconor-kane](2w5-763-3ww_hankthejaegster_new-projectconor-kane.jpg) | ![new-project](2yc-gk0-433_ppcakes_new-project.jpg) | ![new-project](30k-k4f-9xn_weatherwhit_new-project.jpg) |
+| ![2w5-763-3ww_hankthejaegster_new-projectconor-kane](2w5-763-3ww_hankthejaegster_new-projectconor-kane.jpg) | ![2yc-gk0-433_ppcakes_new-project](2yc-gk0-433_ppcakes_new-project.jpg) | ![30k-k4f-9xn_weatherwhit_new-project](30k-k4f-9xn_weatherwhit_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-projectconor-kane**<br>by hankthejaegster | **new-project**<br>by ppcakes | **new-project**<br>by weatherwhit |
+| **New Projectconor  kane**<br>by hankthejaegster | **New Project**<br>by Pp_cakes | **New Project**<br>by weatherwhit |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/2w5-763-3ww_hankthejaegster_new-projectconor-kane.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/2yc-gk0-433_ppcakes_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/30k-k4f-9xn_weatherwhit_new-project.bin) |
 
-| ![new-project](311-ddq-wa8_atr0p1_new-project.jpg) | ![new-project](326-mmq-pma_flamingobobbana_new-project.jpg) | ![new-project](3j6-vzq-un4_gapple_new-project.jpg) |
+| ![311-ddq-wa8_atr0p1_new-project](311-ddq-wa8_atr0p1_new-project.jpg) | ![326-mmq-pma_flamingobobbana_new-project](326-mmq-pma_flamingobobbana_new-project.jpg) | ![3j6-vzq-un4_gapple_new-project](3j6-vzq-un4_gapple_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by atr0p1 | **new-project**<br>by flamingobobbana | **new-project**<br>by gapple |
+| **New Project**<br>by atr0p1 | **New Project**<br>by FlamingoBob_Bana | **New Project**<br>by Gapple |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/311-ddq-wa8_atr0p1_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/326-mmq-pma_flamingobobbana_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/3j6-vzq-un4_gapple_new-project.bin) |
 
-| ![new-project](3pg-3p2-3em_knalligknack_new-project.jpg) | ![new-project](3y6-tga-w9b_sternsword8_new-project.jpg) | ![new-project](3yk-wb9-7kp_lethaltoast420_new-project.jpg) |
+| ![3pg-3p2-3em_knalligknack_new-project](3pg-3p2-3em_knalligknack_new-project.jpg) | ![3y6-tga-w9b_sternsword8_new-project](3y6-tga-w9b_sternsword8_new-project.jpg) | ![3yk-wb9-7kp_lethaltoast420_new-project](3yk-wb9-7kp_lethaltoast420_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by knalligknack | **new-project**<br>by sternsword8 | **new-project**<br>by lethaltoast420 |
+| **New Project**<br>by knallig_Knack | **New Project**<br>by stern_sword8 | **New Project**<br>by Lethal_toast420 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/3pg-3p2-3em_knalligknack_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/3y6-tga-w9b_sternsword8_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/3yk-wb9-7kp_lethaltoast420_new-project.bin) |
 
-| ![new-project](3z1-ge9-yva_wetsox13579_new-project.jpg) | ![new-project](3zp-z4k-8cr_chappy06168085_new-project.jpg) | ![new-project-54823784871278489235](439-c4x-i7r_rykerpc_new-project-54823784871278489235.jpg) |
+| ![3z1-ge9-yva_wetsox13579_new-project](3z1-ge9-yva_wetsox13579_new-project.jpg) | ![3zp-z4k-8cr_chappy06168085_new-project](3zp-z4k-8cr_chappy06168085_new-project.jpg) | ![439-c4x-i7r_rykerpc_new-project-54823784871278489235](439-c4x-i7r_rykerpc_new-project-54823784871278489235.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by wetsox13579 | **new-project**<br>by chappy06168085 | **new-project-54823784871278489235**<br>by rykerpc |
+| **New Project**<br>by wetsox13579 | **New Project**<br>by Chappy06168085 | **New Project 54823784871278489235**<br>by Ryker_PC |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/3z1-ge9-yva_wetsox13579_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/3zp-z4k-8cr_chappy06168085_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/439-c4x-i7r_rykerpc_new-project-54823784871278489235.bin) |
 
-| ![new-project](45o-sdp-jps_froggy257606_new-project.jpg) | ![new-project](481-xhn-31t_alienatedmatk5_new-project.jpg) | ![new-project](4if-u0p-s11_minik24goldo_new-project.jpg) |
+| ![45o-sdp-jps_froggy257606_new-project](45o-sdp-jps_froggy257606_new-project.jpg) | ![481-xhn-31t_alienatedmatk5_new-project](481-xhn-31t_alienatedmatk5_new-project.jpg) | ![4if-u0p-s11_minik24goldo_new-project](4if-u0p-s11_minik24goldo_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by froggy257606 | **new-project**<br>by alienatedmatk5 | **new-project**<br>by minik24goldo |
+| **New Project**<br>by Froggy257606 | **New Project**<br>by AlienatedMat_k5 | **New Project**<br>by MiniK24Goldo |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/45o-sdp-jps_froggy257606_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/481-xhn-31t_alienatedmatk5_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/4if-u0p-s11_minik24goldo_new-project.bin) |
 
-| ![new-project](4s7-4zd-uez_polar_new-project.jpg) | ![new-project](4x3-2jw-y54_brown97_new-project.jpg) | ![new-projectergerg](4yb-846-t9x_bigbouts22_new-projectergerg.jpg) |
+| ![4s7-4zd-uez_polar_new-project](4s7-4zd-uez_polar_new-project.jpg) | ![4x3-2jw-y54_brown97_new-project](4x3-2jw-y54_brown97_new-project.jpg) | ![4yb-846-t9x_bigbouts22_new-projectergerg](4yb-846-t9x_bigbouts22_new-projectergerg.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by polar | **new-project**<br>by brown97 | **new-projectergerg**<br>by bigbouts22 |
+| **New Project**<br>by Polar | **New Project**<br>by Brown97 | **New Projectergerg**<br>by bigbouts22 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/4s7-4zd-uez_polar_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/4x3-2jw-y54_brown97_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/4yb-846-t9x_bigbouts22_new-projectergerg.bin) |
 
-| ![new-project](4ys-cw8-tjg_sportingtour5_new-project.jpg) | ![new-project](522-5z8-qkf_xxcrazyxgamer_new-project.jpg) | ![new-project76-rf67f](5hm-ero-rmk_jcamore_new-project76-rf67f.jpg) |
+| ![4ys-cw8-tjg_sportingtour5_new-project](4ys-cw8-tjg_sportingtour5_new-project.jpg) | ![522-5z8-qkf_xxcrazyxgamer_new-project](522-5z8-qkf_xxcrazyxgamer_new-project.jpg) | ![5hm-ero-rmk_jcamore_new-project76-rf67f](5hm-ero-rmk_jcamore_new-project76-rf67f.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by sportingtour5 | **new-project**<br>by xxcrazyxgamer | **new-project76-rf67f**<br>by jcamore |
+| **New Project**<br>by sporting-tour5 | **New Project**<br>by xXCrazyxGamer | **New Project76 rf67f**<br>by Jcamore |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/4ys-cw8-tjg_sportingtour5_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/522-5z8-qkf_xxcrazyxgamer_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/5hm-ero-rmk_jcamore_new-project76-rf67f.bin) |
 
-| ![new-project](5iv-zvm-ixj_ennui3326_new-project.jpg) | ![new-projectcc](5t7-cpn-iji_neige_new-projectcc.jpg) | ![new-project](5uh-t76-zdr_elilmine_new-project.jpg) |
+| ![5iv-zvm-ixj_ennui3326_new-project](5iv-zvm-ixj_ennui3326_new-project.jpg) | ![5t7-cpn-iji_neige_new-projectcc](5t7-cpn-iji_neige_new-projectcc.jpg) | ![5uh-t76-zdr_elilmine_new-project](5uh-t76-zdr_elilmine_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by ennui3326 | **new-projectcc**<br>by neige | **new-project**<br>by elilmine |
+| **New Project**<br>by Ennui3326 | **New Projectcc**<br>by Neige | **New Project**<br>by Elilmine |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/5iv-zvm-ixj_ennui3326_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/5t7-cpn-iji_neige_new-projectcc.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/5uh-t76-zdr_elilmine_new-project.bin) |
 
-| ![new-project](5ze-2cc-g1u_eballago14_new-project.jpg) | ![new-project](60s-zqv-j1c_notlogan1078_new-project.jpg) | ![new-project3](642-y7z-8xt_bonitotuna_new-project3.jpg) |
+| ![5ze-2cc-g1u_eballago14_new-project](5ze-2cc-g1u_eballago14_new-project.jpg) | ![60s-zqv-j1c_notlogan1078_new-project](60s-zqv-j1c_notlogan1078_new-project.jpg) | ![642-y7z-8xt_bonitotuna_new-project3](642-y7z-8xt_bonitotuna_new-project3.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by eballago14 | **new-project**<br>by notlogan1078 | **new-project3**<br>by bonitotuna |
+| **New Project**<br>by e.ballago14 | **New Project**<br>by NotLogan1078 | **New Project3**<br>by bonito-tuna |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/5ze-2cc-g1u_eballago14_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/60s-zqv-j1c_notlogan1078_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/642-y7z-8xt_bonitotuna_new-project3.bin) |
 
-| ![new-projectaa](64k-26k-zg9_noizii_new-projectaa.jpg) | ![new-project](65z-3x9-g0w_nastyninjas_new-project.jpg) | ![new-project](66d-xht-cww_gampadganster_new-project.jpg) |
+| ![64k-26k-zg9_noizii_new-projectaa](64k-26k-zg9_noizii_new-projectaa.jpg) | ![65z-3x9-g0w_nastyninjas_new-project](65z-3x9-g0w_nastyninjas_new-project.jpg) | ![66d-xht-cww_gampadganster_new-project](66d-xht-cww_gampadganster_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-projectaa**<br>by noizii | **new-project**<br>by nastyninjas | **new-project**<br>by gampadganster |
+| **New ProjectAA**<br>by noizii_ | **New Project**<br>by NastyNinjas_ | **New Project**<br>by GAMPAD_GANSTER |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/64k-26k-zg9_noizii_new-projectaa.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/65z-3x9-g0w_nastyninjas_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/66d-xht-cww_gampadganster_new-project.bin) |
 
-| ![new-project](67j-gkq-amo_blooddiamond678_new-project.jpg) | ![new-project](6ch-egh-jmt_unsungowl853161_new-project.jpg) | ![new-project](6ik-1re-ees_iamthekod_new-project.jpg) |
+| ![67j-gkq-amo_blooddiamond678_new-project](67j-gkq-amo_blooddiamond678_new-project.jpg) | ![6ch-egh-jmt_unsungowl853161_new-project](6ch-egh-jmt_unsungowl853161_new-project.jpg) | ![6ik-1re-ees_iamthekod_new-project](6ik-1re-ees_iamthekod_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by blooddiamond678 | **new-project**<br>by unsungowl853161 | **new-project**<br>by iamthekod |
+| **New Project**<br>by Blooddiamond678 | **New Project**<br>by UnsungOwl853161 | **New Project**<br>by I_AM_THE_KOD |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/67j-gkq-amo_blooddiamond678_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/6ch-egh-jmt_unsungowl853161_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/6ik-1re-ees_iamthekod_new-project.bin) |
 
-| ![new-project-39128489](6mg-dtx-nak_rykerpc_new-project-39128489.jpg) | ![new-project](6p7-rqq-457_mrjoker729_new-project.jpg) | ![new-project](6rk-6zi-89z_saeed_new-project.jpg) |
+| ![6mg-dtx-nak_rykerpc_new-project-39128489](6mg-dtx-nak_rykerpc_new-project-39128489.jpg) | ![6p7-rqq-457_mrjoker729_new-project](6p7-rqq-457_mrjoker729_new-project.jpg) | ![6rk-6zi-89z_saeed_new-project](6rk-6zi-89z_saeed_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project-39128489**<br>by rykerpc | **new-project**<br>by mrjoker729 | **new-project**<br>by saeed |
+| **New Project 39128489**<br>by Ryker_PC | **New Project**<br>by MrJoker729 | **New Project**<br>by SAEeD |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/6mg-dtx-nak_rykerpc_new-project-39128489.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/6p7-rqq-457_mrjoker729_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/6rk-6zi-89z_saeed_new-project.bin) |
 
-| ![new-project](6xk-908-vvd_tagoom_new-project.jpg) | ![new-project](6xu-3gv-dfv_jamesmickeysus_new-project.jpg) | ![new-project](6zi-c51-jx2_f1nzzyyy_new-project.jpg) |
+| ![6xk-908-vvd_tagoom_new-project](6xk-908-vvd_tagoom_new-project.jpg) | ![6xu-3gv-dfv_jamesmickeysus_new-project](6xu-3gv-dfv_jamesmickeysus_new-project.jpg) | ![6zi-c51-jx2_f1nzzyyy_new-project](6zi-c51-jx2_f1nzzyyy_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by tagoom | **new-project**<br>by jamesmickeysus | **new-project**<br>by f1nzzyyy |
+| **New Project**<br>by Tagoom | **New Project**<br>by JamesMickey_sus | **New Project**<br>by F1nzzyyy |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/6xk-908-vvd_tagoom_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/6xu-3gv-dfv_jamesmickeysus_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/6zi-c51-jx2_f1nzzyyy_new-project.bin) |
 
-| ![new-project](732-gaq-oit_lli223_new-project.jpg) | ![new-project](78j-q03-x4n_papawraith_new-project.jpg) | ![new-project](78t-aw8-nyf_t0011625_new-project.jpg) |
+| ![732-gaq-oit_lli223_new-project](732-gaq-oit_lli223_new-project.jpg) | ![78j-q03-x4n_papawraith_new-project](78j-q03-x4n_papawraith_new-project.jpg) | ![78t-aw8-nyf_t0011625_new-project](78t-aw8-nyf_t0011625_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by lli223 | **new-project**<br>by papawraith | **new-project**<br>by t0011625 |
+| **new project**<br>by lli223 | **New Project**<br>by papa wraith | **New Project**<br>by T0011625 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/732-gaq-oit_lli223_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/78j-q03-x4n_papawraith_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/78t-aw8-nyf_t0011625_new-project.bin) |
 
-| ![new-project](7a4-2pk-te6_chance7o4_new-project.jpg) | ![new-project1111111111111111111](7co-o8h-da0_kalle_new-project1111111111111111111.jpg) | ![new-project](7hw-qup-ihs_jensen123453209_new-project.jpg) |
+| ![7a4-2pk-te6_chance7o4_new-project](7a4-2pk-te6_chance7o4_new-project.jpg) | ![7co-o8h-da0_kalle_new-project1111111111111111111](7co-o8h-da0_kalle_new-project1111111111111111111.jpg) | ![7hw-qup-ihs_jensen123453209_new-project](7hw-qup-ihs_jensen123453209_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by chance7o4 | **new-project1111111111111111111**<br>by kalle | **new-project**<br>by jensen123453209 |
+| **New Project**<br>by Chance7o4 | **New Project1111111111111111111**<br>by Kalle | **New Project**<br>by Jensen123453209 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/7a4-2pk-te6_chance7o4_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/7co-o8h-da0_kalle_new-project1111111111111111111.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/7hw-qup-ihs_jensen123453209_new-project.bin) |
 
-| ![new-project](7kr-vg1-sv6_johnnybuckojr_new-project.jpg) | ![new-projectgg](7t3-7to-nvg_mrsolvent_new-projectgg.jpg) | ![new-project](7vi-cfw-hgo_mooseman011_new-project.jpg) |
+| ![7kr-vg1-sv6_johnnybuckojr_new-project](7kr-vg1-sv6_johnnybuckojr_new-project.jpg) | ![7t3-7to-nvg_mrsolvent_new-projectgg](7t3-7to-nvg_mrsolvent_new-projectgg.jpg) | ![7vi-cfw-hgo_mooseman011_new-project](7vi-cfw-hgo_mooseman011_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by johnnybuckojr | **new-projectgg**<br>by mrsolvent | **new-project**<br>by mooseman011 |
+| **New Project**<br>by JohnnybuckoJr | **New Projectgg**<br>by ℳℛ-ⓈⓄⓁⓋⒺⓃⓉ | **New Project**<br>by mooseman011 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/7kr-vg1-sv6_johnnybuckojr_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/7t3-7to-nvg_mrsolvent_new-projectgg.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/7vi-cfw-hgo_mooseman011_new-project.bin) |
 
-| ![new-project](7w2-apw-8fa_bobispro8861_new-project.jpg) | ![new-project](7zs-754-vog_gtsparzival_new-project.jpg) | ![new-project](80p-1eq-azw_yayo62bz_new-project.jpg) |
+| ![7w2-apw-8fa_bobispro8861_new-project](7w2-apw-8fa_bobispro8861_new-project.jpg) | ![7zs-754-vog_gtsparzival_new-project](7zs-754-vog_gtsparzival_new-project.jpg) | ![80p-1eq-azw_yayo62bz_new-project](80p-1eq-azw_yayo62bz_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by bobispro8861 | **new-project**<br>by gtsparzival | **new-project**<br>by yayo62bz |
+| **New Project**<br>by Bobispro8861 | **New Project**<br>by (GTS) Parzival | **New Project**<br>by yayo62bz |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/7w2-apw-8fa_bobispro8861_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/7zs-754-vog_gtsparzival_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/80p-1eq-azw_yayo62bz_new-project.bin) |
 
-| ![new-project](821-0bm-n90_fnad2011_new-project.jpg) | ![new-project](84s-gtx-nru_mousepointer_new-project.jpg) | ![new-project](86m-rxv-g7p_jensen123453209_new-project.jpg) |
+| ![821-0bm-n90_fnad2011_new-project](821-0bm-n90_fnad2011_new-project.jpg) | ![84s-gtx-nru_mousepointer_new-project](84s-gtx-nru_mousepointer_new-project.jpg) | ![86m-rxv-g7p_jensen123453209_new-project](86m-rxv-g7p_jensen123453209_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by fnad2011 | **new-project**<br>by mousepointer | **new-project**<br>by jensen123453209 |
+| **New Project**<br>by FNAD2011 | **New Project**<br>by MousePointer | **New Project**<br>by Jensen123453209 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/821-0bm-n90_fnad2011_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/84s-gtx-nru_mousepointer_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/86m-rxv-g7p_jensen123453209_new-project.bin) |
 
-| ![new-project](875-v0a-tcw_slappyroo_new-project.jpg) | ![new-project](8i9-tfd-9nw_alibaba2018_new-project.jpg) | ![new-project](8ix-gc9-ogg_katsuage_new-project.jpg) |
+| ![875-v0a-tcw_slappyroo_new-project](875-v0a-tcw_slappyroo_new-project.jpg) | ![8i9-tfd-9nw_alibaba2018_new-project](8i9-tfd-9nw_alibaba2018_new-project.jpg) | ![8ix-gc9-ogg_katsuage_new-project](8ix-gc9-ogg_katsuage_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by slappyroo | **new-project**<br>by alibaba2018 | **new-project**<br>by katsuage |
+| **New Project**<br>by Slappyroo | **New Project**<br>by Alibaba2018_ | **New Project**<br>by k.ATSUAGE |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/875-v0a-tcw_slappyroo_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/8i9-tfd-9nw_alibaba2018_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/8ix-gc9-ogg_katsuage_new-project.bin) |
 
-| ![new-project](8ox-vuy-awh_r3yc077_new-project.jpg) | ![new-project](8qc-vdx-msq_electricbuttchug_new-project.jpg) | ![new-project](8vp-3x2-jea_ramblin618386_new-project.jpg) |
+| ![8ox-vuy-awh_r3yc077_new-project](8ox-vuy-awh_r3yc077_new-project.jpg) | ![8qc-vdx-msq_electricbuttchug_new-project](8qc-vdx-msq_electricbuttchug_new-project.jpg) | ![8vp-3x2-jea_ramblin618386_new-project](8vp-3x2-jea_ramblin618386_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by r3yc077 | **new-project**<br>by electricbuttchug | **new-project**<br>by ramblin618386 |
+| **New Project**<br>by R3yc077 | **New Project**<br>by Electric ButtChug | **New Project**<br>by ramblin618386 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/8ox-vuy-awh_r3yc077_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/8qc-vdx-msq_electricbuttchug_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/8vp-3x2-jea_ramblin618386_new-project.bin) |
 
-| ![new-project](8wr-7pf-b50_bobispro8861_new-project.jpg) | ![new-project](8zs-8w7-b6e_lilbeetleee_new-project.jpg) | ![new-project](91p-tpq-q86_lethaltoast420_new-project.jpg) |
+| ![8wr-7pf-b50_bobispro8861_new-project](8wr-7pf-b50_bobispro8861_new-project.jpg) | ![8zs-8w7-b6e_lilbeetleee_new-project](8zs-8w7-b6e_lilbeetleee_new-project.jpg) | ![91p-tpq-q86_lethaltoast420_new-project](91p-tpq-q86_lethaltoast420_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by bobispro8861 | **new-project**<br>by lilbeetleee | **new-project**<br>by lethaltoast420 |
+| **New Project**<br>by Bobispro8861 | **New Project**<br>by lil beetleee | **New Project**<br>by Lethal_toast420 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/8wr-7pf-b50_bobispro8861_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/8zs-8w7-b6e_lilbeetleee_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/91p-tpq-q86_lethaltoast420_new-project.bin) |
 
-| ![new-project](924-88b-hr9_mousejunkey1_new-project.jpg) | ![new-project](95p-903-6ig_teterroofs_new-project.jpg) | ![new-project](98e-ug2-d3g_samarkoko_new-project.jpg) |
+| ![924-88b-hr9_mousejunkey1_new-project](924-88b-hr9_mousejunkey1_new-project.jpg) | ![95p-903-6ig_teterroofs_new-project](95p-903-6ig_teterroofs_new-project.jpg) | ![98e-ug2-d3g_samarkoko_new-project](98e-ug2-d3g_samarkoko_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by mousejunkey1 | **new-project**<br>by teterroofs | **new-project**<br>by samarkoko |
+| **New Project**<br>by Mousejunkey1 | **New Project**<br>by teterroofs | **New Project**<br>by samarkoko |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/924-88b-hr9_mousejunkey1_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/95p-903-6ig_teterroofs_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/98e-ug2-d3g_samarkoko_new-project.bin) |
 
-| ![new-project](9ds-gsv-uv9_gaby_new-project.jpg) | ![new-project](9hg-674-60j_crowkingthe3_new-project.jpg) | ![new-project](9ie-mud-55v_adamb0107_new-project.jpg) |
+| ![9ds-gsv-uv9_gaby_new-project](9ds-gsv-uv9_gaby_new-project.jpg) | ![9hg-674-60j_crowkingthe3_new-project](9hg-674-60j_crowkingthe3_new-project.jpg) | ![9ie-mud-55v_adamb0107_new-project](9ie-mud-55v_adamb0107_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by gaby | **new-project**<br>by crowkingthe3 | **new-project**<br>by adamb0107 |
+| **New Project**<br>by Gaby | **New Project**<br>by CrowKingthe3 | **New Project**<br>by AdamB0107 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/9ds-gsv-uv9_gaby_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/9hg-674-60j_crowkingthe3_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/9ie-mud-55v_adamb0107_new-project.bin) |
 
-| ![new-project](9p3-mrj-spo_xxvinam91_new-project.jpg) | ![new-project](9pf-bw9-pdg_oblatesixer69_new-project.jpg) | ![new-projectc](9pi-0wx-b0a_reflection_new-projectc.jpg) |
+| ![9p3-mrj-spo_xxvinam91_new-project](9p3-mrj-spo_xxvinam91_new-project.jpg) | ![9pf-bw9-pdg_oblatesixer69_new-project](9pf-bw9-pdg_oblatesixer69_new-project.jpg) | ![9pi-0wx-b0a_reflection_new-projectc](9pi-0wx-b0a_reflection_new-projectc.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by xxvinam91 | **new-project**<br>by oblatesixer69 | **new-projectc**<br>by reflection |
+| **New Project**<br>by xxVinam91 | **New Project**<br>by oblate-sixer69 | **New Projectc**<br>by reflection |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/9p3-mrj-spo_xxvinam91_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/9pf-bw9-pdg_oblatesixer69_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/9pi-0wx-b0a_reflection_new-projectc.bin) |
 
-| ![new-project-423i94901](9xq-zvn-8ej_rykerpc_new-project-423i94901.jpg) | ![new-project](9zo-wxv-2qi_roellieboelie_new-project.jpg) | ![new-project](a42-0ip-mb0_powerdietprada_new-project.jpg) |
+| ![9xq-zvn-8ej_rykerpc_new-project-423i94901](9xq-zvn-8ej_rykerpc_new-project-423i94901.jpg) | ![9zo-wxv-2qi_roellieboelie_new-project](9zo-wxv-2qi_roellieboelie_new-project.jpg) | ![a42-0ip-mb0_powerdietprada_new-project](a42-0ip-mb0_powerdietprada_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project-423i94901**<br>by rykerpc | **new-project**<br>by roellieboelie | **new-project**<br>by powerdietprada |
+| **New Project 423i94901**<br>by Ryker_PC | **New Project**<br>by Roellie Boelie | **New Project**<br>by powerdietprada |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/9xq-zvn-8ej_rykerpc_new-project-423i94901.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/9zo-wxv-2qi_roellieboelie_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/a42-0ip-mb0_powerdietprada_new-project.bin) |
 
-| ![new-project](a73-imh-s4t_sastoshis_new-project.jpg) | ![new-project](ab7-tfq-xm6_darthmaul6767_new-project.jpg) | ![new-project](abm-ufb-3g7_hamoodyamoudi_new-project.jpg) |
+| ![a73-imh-s4t_sastoshis_new-project](a73-imh-s4t_sastoshis_new-project.jpg) | ![ab7-tfq-xm6_darthmaul6767_new-project](ab7-tfq-xm6_darthmaul6767_new-project.jpg) | ![abm-ufb-3g7_hamoodyamoudi_new-project](abm-ufb-3g7_hamoodyamoudi_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by sastoshis | **new-project**<br>by darthmaul6767 | **new-project**<br>by hamoodyamoudi |
+| **New Project**<br>by sastoshi_s | **New Project**<br>by darth-maul6767- | **New Project**<br>by hamoodyamoudi |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/a73-imh-s4t_sastoshis_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/ab7-tfq-xm6_darthmaul6767_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/abm-ufb-3g7_hamoodyamoudi_new-project.bin) |
 
-| ![new-projectiko0](afi-wmd-voc_obamat00kmyfrs_new-projectiko0.jpg) | ![new-project-test](ai3-rp6-y5i_nosro_new-project-test.jpg) | ![new-project](ao5-tyc-bzz_flossydenim64_new-project.jpg) |
+| ![afi-wmd-voc_obamat00kmyfrs_new-projectiko0](afi-wmd-voc_obamat00kmyfrs_new-projectiko0.jpg) | ![ai3-rp6-y5i_nosro_new-project-test](ai3-rp6-y5i_nosro_new-project-test.jpg) | ![ao5-tyc-bzz_flossydenim64_new-project](ao5-tyc-bzz_flossydenim64_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-projectiko0**<br>by obamat00kmyfrs | **new-project-test**<br>by nosro | **new-project**<br>by flossydenim64 |
+| **New Projectiko0**<br>by ObamaT00kMyFR-S | **New Project test**<br>by Nosro | **New Project**<br>by flossy_denim64 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/afi-wmd-voc_obamat00kmyfrs_new-projectiko0.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/ai3-rp6-y5i_nosro_new-project-test.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/ao5-tyc-bzz_flossydenim64_new-project.bin) |
 
-| ![new-project](asx-8k6-npe_treyk123456_new-project.jpg) | ![new-project](ax5-xg4-b41_monkeysnephew_new-project.jpg) | ![new-project](b2v-fvz-h87_tpenguinoz_new-project.jpg) |
+| ![asx-8k6-npe_treyk123456_new-project](asx-8k6-npe_treyk123456_new-project.jpg) | ![ax5-xg4-b41_monkeysnephew_new-project](ax5-xg4-b41_monkeysnephew_new-project.jpg) | ![b2v-fvz-h87_tpenguinoz_new-project](b2v-fvz-h87_tpenguinoz_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by treyk123456 | **new-project**<br>by monkeysnephew | **new-project**<br>by tpenguinoz |
+| **New Project**<br>by TreyK123456 | **New Project**<br>by MonkeysNephew | **New Project**<br>by T_PenguinOZ |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/asx-8k6-npe_treyk123456_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/ax5-xg4-b41_monkeysnephew_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/b2v-fvz-h87_tpenguinoz_new-project.bin) |
 
-| ![new-project](b2z-73u-9hs_manymitten6751_new-project.jpg) | ![new-projectg67ygty65ed](b3v-y8s-dr5_jcamore_new-projectg67ygty65ed.jpg) | ![new-project](b57-05d-3ow_ceme218_new-project.jpg) |
+| ![b2z-73u-9hs_manymitten6751_new-project](b2z-73u-9hs_manymitten6751_new-project.jpg) | ![b3v-y8s-dr5_jcamore_new-projectg67ygty65ed](b3v-y8s-dr5_jcamore_new-projectg67ygty65ed.jpg) | ![b57-05d-3ow_ceme218_new-project](b57-05d-3ow_ceme218_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by manymitten6751 | **new-projectg67ygty65ed**<br>by jcamore | **new-project**<br>by ceme218 |
+| **New Project**<br>by ManyMitten6751 | **New Projectg67ygty65ed**<br>by Jcamore | **New Project**<br>by CEME218 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/b2z-73u-9hs_manymitten6751_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/b3v-y8s-dr5_jcamore_new-projectg67ygty65ed.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/b57-05d-3ow_ceme218_new-project.bin) |
 
-| ![new-project](b5o-e72-7bi_flamingobobbana_new-project.jpg) | ![new-project](b8f-s6y-oao_trustyhelix10_new-project.jpg) | ![new-projectss](b8k-auv-9j5_madarauchiha_new-projectss.jpg) |
+| ![b5o-e72-7bi_flamingobobbana_new-project](b5o-e72-7bi_flamingobobbana_new-project.jpg) | ![b8f-s6y-oao_trustyhelix10_new-project](b8f-s6y-oao_trustyhelix10_new-project.jpg) | ![b8k-auv-9j5_madarauchiha_new-projectss](b8k-auv-9j5_madarauchiha_new-projectss.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by flamingobobbana | **new-project**<br>by trustyhelix10 | **new-projectss**<br>by madarauchiha |
+| **New Project**<br>by FlamingoBob_Bana | **New Project**<br>by trusty-helix10 | **New ProjectSS**<br>by madara uchiha |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/b5o-e72-7bi_flamingobobbana_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/b8f-s6y-oao_trustyhelix10_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/b8k-auv-9j5_madarauchiha_new-projectss.bin) |
 
-| ![new-projectblood](bc8-10t-0an_dnice420000500_new-projectblood.jpg) | ![new-project](bqp-qoj-09r_calvinjames11_new-project.jpg) | ![new-project](bqr-302-9g1_blckgoddessttv_new-project.jpg) |
+| ![bc8-10t-0an_dnice420000500_new-projectblood](bc8-10t-0an_dnice420000500_new-projectblood.jpg) | ![bqp-qoj-09r_calvinjames11_new-project](bqp-qoj-09r_calvinjames11_new-project.jpg) | ![bqr-302-9g1_blckgoddessttv_new-project](bqr-302-9g1_blckgoddessttv_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-projectblood**<br>by dnice420000500 | **new-project**<br>by calvinjames11 | **new-project**<br>by blckgoddessttv |
+| **New Projectblood**<br>by Dnice420000500 | **New Project**<br>by CalvinJames11 | **New Project**<br>by BlckGoddessTTV |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/bc8-10t-0an_dnice420000500_new-projectblood.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/bqp-qoj-09r_calvinjames11_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/bqr-302-9g1_blckgoddessttv_new-project.bin) |
 
-| ![new-project](bv1-7pq-yno_blade9548_new-project.jpg) | ![new-project](bx2-zs7-ovn_monkeysnephew_new-project.jpg) | ![new-project](by2-u1j-pj0_randomiyaoyas_new-project.jpg) |
+| ![bv1-7pq-yno_blade9548_new-project](bv1-7pq-yno_blade9548_new-project.jpg) | ![bx2-zs7-ovn_monkeysnephew_new-project](bx2-zs7-ovn_monkeysnephew_new-project.jpg) | ![by2-u1j-pj0_randomiyaoyas_new-project](by2-u1j-pj0_randomiyaoyas_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by blade9548 | **new-project**<br>by monkeysnephew | **new-project**<br>by randomiyaoyas |
+| **New Project**<br>by Blade9548 | **New Project**<br>by MonkeysNephew | **New Project**<br>by Random_iyaoyas |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/bv1-7pq-yno_blade9548_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/bx2-zs7-ovn_monkeysnephew_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/by2-u1j-pj0_randomiyaoyas_new-project.bin) |
 
-| ![new-project](byi-2nf-nsk_squirrelshirl966_new-project.jpg) | ![new-project-1](c09-0ax-ohg_lethaltoast420_new-project-1.jpg) | ![new-project](c3y-nhw-6yf_patricius_new-project.jpg) |
+| ![byi-2nf-nsk_squirrelshirl966_new-project](byi-2nf-nsk_squirrelshirl966_new-project.jpg) | ![c09-0ax-ohg_lethaltoast420_new-project-1](c09-0ax-ohg_lethaltoast420_new-project-1.jpg) | ![c3y-nhw-6yf_patricius_new-project](c3y-nhw-6yf_patricius_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by squirrelshirl966 | **new-project-1**<br>by lethaltoast420 | **new-project**<br>by patricius |
+| **New Project**<br>by SquirrelShirl966 | **New Project 1**<br>by Lethal_toast420 | **New Project**<br>by Patricius |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/byi-2nf-nsk_squirrelshirl966_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/c09-0ax-ohg_lethaltoast420_new-project-1.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/c3y-nhw-6yf_patricius_new-project.bin) |
 
-| ![new-project](c5k-evk-w45_whattasave3z_new-project.jpg) | ![new-project](c5m-ivr-1hz_streakalot_new-project.jpg) | ![new-project](c8u-0xc-nvc_r3me_new-project.jpg) |
+| ![c5k-evk-w45_whattasave3z_new-project](c5k-evk-w45_whattasave3z_new-project.jpg) | ![c5m-ivr-1hz_streakalot_new-project](c5m-ivr-1hz_streakalot_new-project.jpg) | ![c8u-0xc-nvc_r3me_new-project](c8u-0xc-nvc_r3me_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by whattasave3z | **new-project**<br>by streakalot | **new-project**<br>by r3me |
+| **New Project**<br>by Whattasave3Z | **New Project**<br>by streakalot | **New Project**<br>by R3ME. |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/c5k-evk-w45_whattasave3z_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/c5m-ivr-1hz_streakalot_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/c8u-0xc-nvc_r3me_new-project.bin) |
 
-| ![new-project](c9i-w6e-urn_boomboyjoe_new-project.jpg) | ![new-project](ccn-1g7-4fw_flamingobobbana_new-project.jpg) | ![new-project](cd8-12z-a86_bobbburger_new-project.jpg) |
+| ![c9i-w6e-urn_boomboyjoe_new-project](c9i-w6e-urn_boomboyjoe_new-project.jpg) | ![ccn-1g7-4fw_flamingobobbana_new-project](ccn-1g7-4fw_flamingobobbana_new-project.jpg) | ![cd8-12z-a86_bobbburger_new-project](cd8-12z-a86_bobbburger_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by boomboyjoe | **new-project**<br>by flamingobobbana | **new-project**<br>by bobbburger |
+| **New Project**<br>by Boom Boy Joe | **New Project**<br>by FlamingoBob_Bana | **New Project**<br>by BOBBBURGER |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/c9i-w6e-urn_boomboyjoe_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/ccn-1g7-4fw_flamingobobbana_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/cd8-12z-a86_bobbburger_new-project.bin) |
 
-| ![new-project](cf4-squ-g7i_abofahd_new-project.jpg) | ![new-project](cf6-c0e-hbs_sweatkid98_new-project.jpg) | ![new-project](cg8-4uo-aov_gaby_new-project.jpg) |
+| ![cf4-squ-g7i_abofahd_new-project](cf4-squ-g7i_abofahd_new-project.jpg) | ![cf6-c0e-hbs_sweatkid98_new-project](cf6-c0e-hbs_sweatkid98_new-project.jpg) | ![cg8-4uo-aov_gaby_new-project](cg8-4uo-aov_gaby_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by abofahd | **new-project**<br>by sweatkid98 | **new-project**<br>by gaby |
+| **New Project**<br>by ABOFAHD | **New Project**<br>by Sweatkid98 | **New Project**<br>by Gaby |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/cf4-squ-g7i_abofahd_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/cf6-c0e-hbs_sweatkid98_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/cg8-4uo-aov_gaby_new-project.bin) |
 
-| ![new-project](cnu-na1-qyf_furiouzpix3lttv_new-project.jpg) | ![new-project](cw7-z17-ndz_funnyknight7245_new-project.jpg) | ![new-project](d2g-ffp-db0_plssplitgategivemexp_new-project.jpg) |
+| ![cnu-na1-qyf_furiouzpix3lttv_new-project](cnu-na1-qyf_furiouzpix3lttv_new-project.jpg) | ![cw7-z17-ndz_funnyknight7245_new-project](cw7-z17-ndz_funnyknight7245_new-project.jpg) | ![d2g-ffp-db0_plssplitgategivemexp_new-project](d2g-ffp-db0_plssplitgategivemexp_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by furiouzpix3lttv | **new-project**<br>by funnyknight7245 | **new-project**<br>by plssplitgategivemexp |
+| **New Project**<br>by Furiouz_PIX3L.ttv | **New Project**<br>by FunnyKnight7245 | **New Project**<br>by PLS SPLITGATE GIVE ME XP |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/cnu-na1-qyf_furiouzpix3lttv_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/cw7-z17-ndz_funnyknight7245_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/d2g-ffp-db0_plssplitgategivemexp_new-project.bin) |
 
-| ![new-project](d36-oy7-fim_hypnopulse_new-project.jpg) | ![new-project](d5n-v3v-39x_securebolt68_new-project.jpg) | ![new-project](d8u-0a1-pv0_tomoruton1123_new-project.jpg) |
+| ![d36-oy7-fim_hypnopulse_new-project](d36-oy7-fim_hypnopulse_new-project.jpg) | ![d5n-v3v-39x_securebolt68_new-project](d5n-v3v-39x_securebolt68_new-project.jpg) | ![d8u-0a1-pv0_tomoruton1123_new-project](d8u-0a1-pv0_tomoruton1123_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by hypnopulse | **new-project**<br>by securebolt68 | **new-project**<br>by tomoruton1123 |
+| **New Project**<br>by Hypno-Pulse | **New Project**<br>by secure_bolt68 | **New Project**<br>by tomoruton1123 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/d36-oy7-fim_hypnopulse_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/d5n-v3v-39x_securebolt68_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/d8u-0a1-pv0_tomoruton1123_new-project.bin) |
 
-| ![new-project](dbe-otm-vre_sastone6_new-project.jpg) | ![new-project](dd7-rfg-1ab_beyondsaveloydip_new-project.jpg) | ![new-project](dgp-wxk-y6a_silxnt_new-project.jpg) |
+| ![dbe-otm-vre_sastone6_new-project](dbe-otm-vre_sastone6_new-project.jpg) | ![dd7-rfg-1ab_beyondsaveloydip_new-project](dd7-rfg-1ab_beyondsaveloydip_new-project.jpg) | ![dgp-wxk-y6a_silxnt_new-project](dgp-wxk-y6a_silxnt_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by sastone6 | **new-project**<br>by beyondsaveloydip | **new-project**<br>by silxnt |
+| **New Project**<br>by SA STONE 6 | **New Project**<br>by Beyond Saveloy Dip | **New Project**<br>by silxnt |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/dbe-otm-vre_sastone6_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/dd7-rfg-1ab_beyondsaveloydip_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/dgp-wxk-y6a_silxnt_new-project.bin) |
 
-| ![new-project](dp5-s8v-6c9_teaguru_new-project.jpg) | ![new-project2](dwr-x8i-wry_menthye_new-project2.jpg) | ![new-project](dxb-xqf-wb5_shadowkn1ght15_new-project.jpg) |
+| ![dp5-s8v-6c9_teaguru_new-project](dp5-s8v-6c9_teaguru_new-project.jpg) | ![dwr-x8i-wry_menthye_new-project2](dwr-x8i-wry_menthye_new-project2.jpg) | ![dxb-xqf-wb5_shadowkn1ght15_new-project](dxb-xqf-wb5_shadowkn1ght15_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by teaguru | **new-project2**<br>by menthye | **new-project**<br>by shadowkn1ght15 |
+| **New Project**<br>by TeaGuru | **New Project2**<br>by menthye | **New Project**<br>by shadow_kn1ght15 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/dp5-s8v-6c9_teaguru_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/dwr-x8i-wry_menthye_new-project2.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/dxb-xqf-wb5_shadowkn1ght15_new-project.bin) |
 
-| ![new-project](dxe-b1a-13q_axstro_new-project.jpg) | ![new-project](e2s-h86-6i7_yeimwashed_new-project.jpg) | ![new-project](e5q-ryq-76h_mds682_new-project.jpg) |
+| ![dxe-b1a-13q_axstro_new-project](dxe-b1a-13q_axstro_new-project.jpg) | ![e2s-h86-6i7_yeimwashed_new-project](e2s-h86-6i7_yeimwashed_new-project.jpg) | ![e5q-ryq-76h_mds682_new-project](e5q-ryq-76h_mds682_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by axstro | **new-project**<br>by yeimwashed | **new-project**<br>by mds682 |
+| **New Project**<br>by Axstro | **New Project**<br>by ye im washed シ | **New Project**<br>by mds682 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/dxe-b1a-13q_axstro_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/e2s-h86-6i7_yeimwashed_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/e5q-ryq-76h_mds682_new-project.bin) |
 
-| ![new-project](e7g-m7g-qmv_cliotdeseret_new-project.jpg) | ![new-project](eg7-avs-t04_senousi_new-project.jpg) | ![new-project](eia-x8r-dcu_sly6793_new-project.jpg) |
+| ![e7g-m7g-qmv_cliotdeseret_new-project](e7g-m7g-qmv_cliotdeseret_new-project.jpg) | ![eg7-avs-t04_senousi_new-project](eg7-avs-t04_senousi_new-project.jpg) | ![eia-x8r-dcu_sly6793_new-project](eia-x8r-dcu_sly6793_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by cliotdeseret | **new-project**<br>by senousi | **new-project**<br>by sly6793 |
+| **New Project**<br>by cliotdeseret | **New Project**<br>by senousi | **New Project**<br>by sly 6793 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/e7g-m7g-qmv_cliotdeseret_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/eg7-avs-t04_senousi_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/eia-x8r-dcu_sly6793_new-project.bin) |
 
-| ![new-project](em1-5kh-peh_ggobugi_new-project.jpg) | ![new-project](en9-ye1-uf0_weatherwhit_new-project.jpg) | ![new-projects-coming-in-hot](eo0-xrx-3pq_neatducks_new-projects-coming-in-hot.jpg) |
+| ![em1-5kh-peh_ggobugi_new-project](em1-5kh-peh_ggobugi_new-project.jpg) | ![en9-ye1-uf0_weatherwhit_new-project](en9-ye1-uf0_weatherwhit_new-project.jpg) | ![eo0-xrx-3pq_neatducks_new-projects-coming-in-hot](eo0-xrx-3pq_neatducks_new-projects-coming-in-hot.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by ggobugi | **new-project**<br>by weatherwhit | **new-projects-coming-in-hot**<br>by neatducks |
+| **New Project**<br>by GGOBUGI | **New Project**<br>by weatherwhit | **New Projects Coming IN HOT**<br>by NeatDucks - 루크 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/em1-5kh-peh_ggobugi_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/en9-ye1-uf0_weatherwhit_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/eo0-xrx-3pq_neatducks_new-projects-coming-in-hot.bin) |
 
-| ![new-project](eog-5yn-803_jenkinz_new-project.jpg) | ![new-project](ers-1dh-9zp_offeredbarley0_new-project.jpg) | ![new-project-5](ex2-hd5-dqh_jerseystrong125_new-project-5.jpg) |
+| ![eog-5yn-803_jenkinz_new-project](eog-5yn-803_jenkinz_new-project.jpg) | ![ers-1dh-9zp_offeredbarley0_new-project](ers-1dh-9zp_offeredbarley0_new-project.jpg) | ![ex2-hd5-dqh_jerseystrong125_new-project-5](ex2-hd5-dqh_jerseystrong125_new-project-5.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by jenkinz | **new-project**<br>by offeredbarley0 | **new-project-5**<br>by jerseystrong125 |
+| **New Project**<br>by Jenkinz | **New Project**<br>by OfferedBarley0 | **New Project 5**<br>by Jerseystrong125 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/eog-5yn-803_jenkinz_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/ers-1dh-9zp_offeredbarley0_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/ex2-hd5-dqh_jerseystrong125_new-project-5.bin) |
 
-| ![new-project](f13-vro-ti8_ven_new-project.jpg) | ![new-project](f36-zit-5y4_crazycat927_new-project.jpg) | ![new-projecting-with-roman-ripley](f4v-zbh-2p4_mariodino14_new-projecting-with-roman-ripley.jpg) |
+| ![f13-vro-ti8_ven_new-project](f13-vro-ti8_ven_new-project.jpg) | ![f36-zit-5y4_crazycat927_new-project](f36-zit-5y4_crazycat927_new-project.jpg) | ![f4v-zbh-2p4_mariodino14_new-projecting-with-roman-ripley](f4v-zbh-2p4_mariodino14_new-projecting-with-roman-ripley.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by ven | **new-project**<br>by crazycat927 | **new-projecting-with-roman-ripley**<br>by mariodino14 |
+| **New Project**<br>by VEN | **New Project**<br>by crazycat927 | **New Projecting with Roman Ripley**<br>by MarioDino14 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/f13-vro-ti8_ven_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/f36-zit-5y4_crazycat927_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/f4v-zbh-2p4_mariodino14_new-projecting-with-roman-ripley.bin) |
 
-| ![new-projectgf](f6e-5f4-u86_htfuhwpo_new-projectgf.jpg) | ![new-project-test](fbq-ptj-q1u_nosro_new-project-test.jpg) | ![new-project](fcw-azw-442_dagooster_new-project.jpg) |
+| ![f6e-5f4-u86_htfuhwpo_new-projectgf](f6e-5f4-u86_htfuhwpo_new-projectgf.jpg) | ![fbq-ptj-q1u_nosro_new-project-test](fbq-ptj-q1u_nosro_new-project-test.jpg) | ![fcw-azw-442_dagooster_new-project](fcw-azw-442_dagooster_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-projectgf**<br>by htfuhwpo | **new-project-test**<br>by nosro | **new-project**<br>by dagooster |
+| **New Projectgf**<br>by Htfu_Hwpo | **New Project test**<br>by Nosro | **New Project**<br>by Da_Gooster |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/f6e-5f4-u86_htfuhwpo_new-projectgf.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/fbq-ptj-q1u_nosro_new-project-test.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/fcw-azw-442_dagooster_new-project.bin) |
 
-| ![new-project](ffd-9k6-ifc_slappyroo_new-project.jpg) | ![new-project](fg1-ng3-e4i_weatherwhit_new-project.jpg) | ![new-project](fi5-ptt-8ki_notbolt87_new-project.jpg) |
+| ![ffd-9k6-ifc_slappyroo_new-project](ffd-9k6-ifc_slappyroo_new-project.jpg) | ![fg1-ng3-e4i_weatherwhit_new-project](fg1-ng3-e4i_weatherwhit_new-project.jpg) | ![fi5-ptt-8ki_notbolt87_new-project](fi5-ptt-8ki_notbolt87_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by slappyroo | **new-project**<br>by weatherwhit | **new-project**<br>by notbolt87 |
+| **New Project**<br>by Slappyroo | **New Project**<br>by weatherwhit | **New Project**<br>by not_bolt87 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/ffd-9k6-ifc_slappyroo_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/fg1-ng3-e4i_weatherwhit_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/fi5-ptt-8ki_notbolt87_new-project.bin) |
 
-| ![new-project](fj3-rmr-65n_iamjesus6301_new-project.jpg) | ![new-project](fja-qvd-2y5_kodxb32_new-project.jpg) | ![new-project](fju-mmg-9em_kahjuan9_new-project.jpg) |
+| ![fj3-rmr-65n_iamjesus6301_new-project](fj3-rmr-65n_iamjesus6301_new-project.jpg) | ![fja-qvd-2y5_kodxb32_new-project](fja-qvd-2y5_kodxb32_new-project.jpg) | ![fju-mmg-9em_kahjuan9_new-project](fju-mmg-9em_kahjuan9_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by iamjesus6301 | **new-project**<br>by kodxb32 | **new-project**<br>by kahjuan9 |
+| **New Project**<br>by I Am Jesus6301 | **New Project**<br>by kod_xb32 | **New Project**<br>by kahjuan9 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/fj3-rmr-65n_iamjesus6301_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/fja-qvd-2y5_kodxb32_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/fju-mmg-9em_kahjuan9_new-project.bin) |
 
-| ![new-project](fud-dpq-kdz_jensen123453209_new-project.jpg) | ![new-project](fwq-8f1-0b4_gtsparzival_new-project.jpg) | ![new-project](fzu-hr1-thn_jogadorfera7_new-project.jpg) |
+| ![fud-dpq-kdz_jensen123453209_new-project](fud-dpq-kdz_jensen123453209_new-project.jpg) | ![fwq-8f1-0b4_gtsparzival_new-project](fwq-8f1-0b4_gtsparzival_new-project.jpg) | ![fzu-hr1-thn_jogadorfera7_new-project](fzu-hr1-thn_jogadorfera7_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by jensen123453209 | **new-project**<br>by gtsparzival | **new-project**<br>by jogadorfera7 |
+| **New Project**<br>by Jensen123453209 | **New Project**<br>by (GTS) Parzival | **New Project**<br>by jogador_fera7 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/fud-dpq-kdz_jensen123453209_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/fwq-8f1-0b4_gtsparzival_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/fzu-hr1-thn_jogadorfera7_new-project.bin) |
 
-| ![new-project](g7o-faq-v3i_mtzx3d_new-project.jpg) | ![new-project](g82-8mu-uf0_supasquid8527_new-project.jpg) | ![new-project](g8i-eic-wn0_monkeysnephew_new-project.jpg) |
+| ![g7o-faq-v3i_mtzx3d_new-project](g7o-faq-v3i_mtzx3d_new-project.jpg) | ![g82-8mu-uf0_supasquid8527_new-project](g82-8mu-uf0_supasquid8527_new-project.jpg) | ![g8i-eic-wn0_monkeysnephew_new-project](g8i-eic-wn0_monkeysnephew_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by mtzx3d | **new-project**<br>by supasquid8527 | **new-project**<br>by monkeysnephew |
+| **New Project**<br>by MTZX3D | **New Project**<br>by SupaSquid 8527 | **New Project**<br>by MonkeysNephew |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/g7o-faq-v3i_mtzx3d_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/g82-8mu-uf0_supasquid8527_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/g8i-eic-wn0_monkeysnephew_new-project.bin) |
 
-| ![new-project](gc8-6ur-cke_tbagkhaos_new-project.jpg) | ![new-project](gdg-9xa-qcq_orisee_new-project.jpg) | ![new-project](gkt-jhy-kt3_grungygrimygrind_new-project.jpg) |
+| ![gc8-6ur-cke_tbagkhaos_new-project](gc8-6ur-cke_tbagkhaos_new-project.jpg) | ![gdg-9xa-qcq_orisee_new-project](gdg-9xa-qcq_orisee_new-project.jpg) | ![gkt-jhy-kt3_grungygrimygrind_new-project](gkt-jhy-kt3_grungygrimygrind_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by tbagkhaos | **new-project**<br>by orisee | **new-project**<br>by grungygrimygrind |
+| **New Project**<br>by TBAGKhaos | **New Project**<br>by orisee | **New Project**<br>by grungygrimygrind |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/gc8-6ur-cke_tbagkhaos_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/gdg-9xa-qcq_orisee_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/gkt-jhy-kt3_grungygrimygrind_new-project.bin) |
 
-| ![new-projectbbbbb](gnz-t99-3ik_speedyrb007_new-projectbbbbb.jpg) | ![new-project](gpk-xww-non_grungygrimygrind_new-project.jpg) | ![new-project](gsx-o8v-vr8_dreamofadeadsun_new-project.jpg) |
+| ![gnz-t99-3ik_speedyrb007_new-projectbbbbb](gnz-t99-3ik_speedyrb007_new-projectbbbbb.jpg) | ![gpk-xww-non_grungygrimygrind_new-project](gpk-xww-non_grungygrimygrind_new-project.jpg) | ![gsx-o8v-vr8_dreamofadeadsun_new-project](gsx-o8v-vr8_dreamofadeadsun_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-projectbbbbb**<br>by speedyrb007 | **new-project**<br>by grungygrimygrind | **new-project**<br>by dreamofadeadsun |
+| **New Projectbbbbb**<br>by speedyrb007 | **New Project**<br>by grungygrimygrind | **New Project**<br>by dreamofadeadsun |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/gnz-t99-3ik_speedyrb007_new-projectbbbbb.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/gpk-xww-non_grungygrimygrind_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/gsx-o8v-vr8_dreamofadeadsun_new-project.bin) |
 
-| ![new-project](gtn-wwj-y60_charifemkc_new-project.jpg) | ![new-project](h19-55b-w3j_y84463_new-project.jpg) | ![new-project](h48-gi9-x8b_rs6294384_new-project.jpg) |
+| ![gtn-wwj-y60_charifemkc_new-project](gtn-wwj-y60_charifemkc_new-project.jpg) | ![h19-55b-w3j_y84463_new-project](h19-55b-w3j_y84463_new-project.jpg) | ![h48-gi9-x8b_rs6294384_new-project](h48-gi9-x8b_rs6294384_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by charifemkc | **new-project**<br>by y84463 | **new-project**<br>by rs6294384 |
+| **New Project**<br>by Charife_Mkc | **New Project**<br>by Y84463 | **New Project**<br>by rs6294384 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/gtn-wwj-y60_charifemkc_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/h19-55b-w3j_y84463_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/h48-gi9-x8b_rs6294384_new-project.bin) |
 
-| ![new-project](h77-zgo-7ue_t2m5a2cc_new-project.jpg) | ![new-project-34y89128958024908234](h8v-hr7-vq7_rykerpc_new-project-34y89128958024908234.jpg) | ![new-project](hcq-2pa-faa_tagoom_new-project.jpg) |
+| ![h77-zgo-7ue_t2m5a2cc_new-project](h77-zgo-7ue_t2m5a2cc_new-project.jpg) | ![h8v-hr7-vq7_rykerpc_new-project-34y89128958024908234](h8v-hr7-vq7_rykerpc_new-project-34y89128958024908234.jpg) | ![hcq-2pa-faa_tagoom_new-project](hcq-2pa-faa_tagoom_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by t2m5a2cc | **new-project-34y89128958024908234**<br>by rykerpc | **new-project**<br>by tagoom |
+| **New Project**<br>by T2M5A2CC | **New Project 34y89128958024908234**<br>by Ryker_PC | **New Project**<br>by Tagoom |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/h77-zgo-7ue_t2m5a2cc_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/h8v-hr7-vq7_rykerpc_new-project-34y89128958024908234.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/hcq-2pa-faa_tagoom_new-project.bin) |
 
-| ![new-project](he8-hej-ua4_peebs_new-project.jpg) | ![new-project](hez-ss7-2bz_luigilemons_new-project.jpg) | ![new-project](hgv-gdy-du7_samarkoko_new-project.jpg) |
+| ![he8-hej-ua4_peebs_new-project](he8-hej-ua4_peebs_new-project.jpg) | ![hez-ss7-2bz_luigilemons_new-project](hez-ss7-2bz_luigilemons_new-project.jpg) | ![hgv-gdy-du7_samarkoko_new-project](hgv-gdy-du7_samarkoko_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by peebs | **new-project**<br>by luigilemons | **new-project**<br>by samarkoko |
+| **New Project**<br>by peebs | **New Project**<br>by LuigiLemons | **New Project**<br>by samarkoko |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/he8-hej-ua4_peebs_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/hez-ss7-2bz_luigilemons_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/hgv-gdy-du7_samarkoko_new-project.bin) |
 
-| ![new-project](hha-avy-mao_glomarjune_new-project.jpg) | ![new-project](hjc-pm7-5vt_in_new-project.jpg) | ![new-project](hke-3s1-4v1_oxygenefr1_new-project.jpg) |
+| ![hha-avy-mao_glomarjune_new-project](hha-avy-mao_glomarjune_new-project.jpg) | ![hjc-pm7-5vt_in_new-project](hjc-pm7-5vt_in_new-project.jpg) | ![hke-3s1-4v1_oxygenefr1_new-project](hke-3s1-4v1_oxygenefr1_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by glomarjune | **new-project**<br>by in | **new-project**<br>by oxygenefr1 |
+| **New Project**<br>by glomarjune | **New Project**<br>by ファービーin電子レンジ | **New Project**<br>by OxYGeNe Fr 1 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/hha-avy-mao_glomarjune_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/hjc-pm7-5vt_in_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/hke-3s1-4v1_oxygenefr1_new-project.bin) |
 
-| ![new-project](hms-57c-294_sonicsymbiote_new-project.jpg) | ![new-project](hsi-k8k-z3f_eboy1029_new-project.jpg) | ![new-project](hts-dmn-04a_iamthekod_new-project.jpg) |
+| ![hms-57c-294_sonicsymbiote_new-project](hms-57c-294_sonicsymbiote_new-project.jpg) | ![hsi-k8k-z3f_eboy1029_new-project](hsi-k8k-z3f_eboy1029_new-project.jpg) | ![hts-dmn-04a_iamthekod_new-project](hts-dmn-04a_iamthekod_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by sonicsymbiote | **new-project**<br>by eboy1029 | **new-project**<br>by iamthekod |
+| **New Project**<br>by Sonic_Symbiote | **New Project**<br>by Eboy1029- | **New Project**<br>by I_AM_THE_KOD |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/hms-57c-294_sonicsymbiote_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/hsi-k8k-z3f_eboy1029_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/hts-dmn-04a_iamthekod_new-project.bin) |
 
-| ![new-project](hxy-de8-6ev_leoeh303662_new-project.jpg) | ![new-project](i09-k9q-cjc_pikachu1029_new-project.jpg) | ![new-project](i1p-zgx-07w_jjsworld211_new-project.jpg) |
+| ![hxy-de8-6ev_leoeh303662_new-project](hxy-de8-6ev_leoeh303662_new-project.jpg) | ![i09-k9q-cjc_pikachu1029_new-project](i09-k9q-cjc_pikachu1029_new-project.jpg) | ![i1p-zgx-07w_jjsworld211_new-project](i1p-zgx-07w_jjsworld211_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by leoeh303662 | **new-project**<br>by pikachu1029 | **new-project**<br>by jjsworld211 |
+| **New Project**<br>by LeoEh303662 | **New Project**<br>by Pikachu-1029 | **New Project**<br>by JJsworld211 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/hxy-de8-6ev_leoeh303662_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/i09-k9q-cjc_pikachu1029_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/i1p-zgx-07w_jjsworld211_new-project.bin) |
 
-| ![new-project1v1](i2n-gp9-iax_timsogg_new-project1v1.jpg) | ![new-project](i5e-ebx-5sr_heidy_new-project.jpg) | ![new-project](i6m-fb3-s3i_ultrahero9878_new-project.jpg) |
+| ![i2n-gp9-iax_timsogg_new-project1v1](i2n-gp9-iax_timsogg_new-project1v1.jpg) | ![i5e-ebx-5sr_heidy_new-project](i5e-ebx-5sr_heidy_new-project.jpg) | ![i6m-fb3-s3i_ultrahero9878_new-project](i6m-fb3-s3i_ultrahero9878_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project1v1**<br>by timsogg | **new-project**<br>by heidy | **new-project**<br>by ultrahero9878 |
+| **New Project1V1**<br>by Timso_gg | **New Project**<br>by heidy | **New Project**<br>by Ultra_hero9878 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/i2n-gp9-iax_timsogg_new-project1v1.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/i5e-ebx-5sr_heidy_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/i6m-fb3-s3i_ultrahero9878_new-project.bin) |
 
-| ![new-project](i9v-k5t-zjt_karatekidd42_new-project.jpg) | ![new-project](iak-eyo-7xe_aleksandar2119a_new-project.jpg) | ![new-project](ie7-wec-ozr_angel87974_new-project.jpg) |
+| ![i9v-k5t-zjt_karatekidd42_new-project](i9v-k5t-zjt_karatekidd42_new-project.jpg) | ![iak-eyo-7xe_aleksandar2119a_new-project](iak-eyo-7xe_aleksandar2119a_new-project.jpg) | ![ie7-wec-ozr_angel87974_new-project](ie7-wec-ozr_angel87974_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by karatekidd42 | **new-project**<br>by aleksandar2119a | **new-project**<br>by angel87974 |
+| **New Project**<br>by karatekidd42 | **New Project**<br>by aleksandar2119-a | **New Project**<br>by AnGel87974 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/i9v-k5t-zjt_karatekidd42_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/iak-eyo-7xe_aleksandar2119a_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/ie7-wec-ozr_angel87974_new-project.bin) |
 
-| ![new-project](iev-r14-yxj_crazyhirotaka1_new-project.jpg) | ![new-project](ign-m6m-sh6_snoopyset89_new-project.jpg) | ![new-project](iig-kuq-569_gamingnz123_new-project.jpg) |
+| ![iev-r14-yxj_crazyhirotaka1_new-project](iev-r14-yxj_crazyhirotaka1_new-project.jpg) | ![ign-m6m-sh6_snoopyset89_new-project](ign-m6m-sh6_snoopyset89_new-project.jpg) | ![iig-kuq-569_gamingnz123_new-project](iig-kuq-569_gamingnz123_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by crazyhirotaka1 | **new-project**<br>by snoopyset89 | **new-project**<br>by gamingnz123 |
+| **New Project**<br>by Crazy_hirotaka1 | **New Project**<br>by snoopy_set89 | **New Project**<br>by GamingNz123 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/iev-r14-yxj_crazyhirotaka1_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/ign-m6m-sh6_snoopyset89_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/iig-kuq-569_gamingnz123_new-project.bin) |
 
-| ![new-project](ij7-580-gdf_hamptrrlegend_new-project.jpg) | ![new-project](im0-e07-tnj_majorvortex_new-project.jpg) | ![new-project](inh-k3e-nuw_johntonsoffun_new-project.jpg) |
+| ![ij7-580-gdf_hamptrrlegend_new-project](ij7-580-gdf_hamptrrlegend_new-project.jpg) | ![im0-e07-tnj_majorvortex_new-project](im0-e07-tnj_majorvortex_new-project.jpg) | ![inh-k3e-nuw_johntonsoffun_new-project](inh-k3e-nuw_johntonsoffun_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by hamptrrlegend | **new-project**<br>by majorvortex | **new-project**<br>by johntonsoffun |
+| **New Project**<br>by hamptrr_legend | **New Project**<br>by MajorVortex_ | **New Project**<br>by JohnTonsOfFun |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/ij7-580-gdf_hamptrrlegend_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/im0-e07-tnj_majorvortex_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/inh-k3e-nuw_johntonsoffun_new-project.bin) |
 
-| ![new-project](ipk-dch-jd0_savagenotnice2_new-project.jpg) | ![new-project](iu9-ckw-p6v_tsdeatheater896_new-project.jpg) | ![new-project](ivq-q2m-vpm_zadler_new-project.jpg) |
+| ![ipk-dch-jd0_savagenotnice2_new-project](ipk-dch-jd0_savagenotnice2_new-project.jpg) | ![iu9-ckw-p6v_tsdeatheater896_new-project](iu9-ckw-p6v_tsdeatheater896_new-project.jpg) | ![ivq-q2m-vpm_zadler_new-project](ivq-q2m-vpm_zadler_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by savagenotnice2 | **new-project**<br>by tsdeatheater896 | **new-project**<br>by zadler |
+| **New Project**<br>by Savage_not_nice2 | **New Project**<br>by TSDeathEater896 | **New Project**<br>by Zadler |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/ipk-dch-jd0_savagenotnice2_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/iu9-ckw-p6v_tsdeatheater896_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/ivq-q2m-vpm_zadler_new-project.bin) |
 
-| ![new-project-1111](iyy-urm-uz7_angel87974_new-project-1111.jpg) | ![new-project](j0t-mm1-f76_natanael0918_new-project.jpg) | ![new-project](j8k-9yq-had_quicksnipe12931_new-project.jpg) |
+| ![iyy-urm-uz7_angel87974_new-project-1111](iyy-urm-uz7_angel87974_new-project-1111.jpg) | ![j0t-mm1-f76_natanael0918_new-project](j0t-mm1-f76_natanael0918_new-project.jpg) | ![j8k-9yq-had_quicksnipe12931_new-project](j8k-9yq-had_quicksnipe12931_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project-1111**<br>by angel87974 | **new-project**<br>by natanael0918 | **new-project**<br>by quicksnipe12931 |
+| **New Project 1111**<br>by AnGel87974 | **New Project**<br>by natanael_0918 | **New Project**<br>by QuickSnipe12931 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/iyy-urm-uz7_angel87974_new-project-1111.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/j0t-mm1-f76_natanael0918_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/j8k-9yq-had_quicksnipe12931_new-project.bin) |
 
-| ![new-project](jc8-wqx-psr_andy_new-project.jpg) | ![new-project](je4-6r8-o3z_shadow_new-project.jpg) | ![new-project](ju4-8sk-016_grungygrimygrind_new-project.jpg) |
+| ![jc8-wqx-psr_andy_new-project](jc8-wqx-psr_andy_new-project.jpg) | ![je4-6r8-o3z_shadow_new-project](je4-6r8-o3z_shadow_new-project.jpg) | ![ju4-8sk-016_grungygrimygrind_new-project](ju4-8sk-016_grungygrimygrind_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by andy | **new-project**<br>by shadow | **new-project**<br>by grungygrimygrind |
+| **New Project**<br>by andy | **New Project**<br>by shadow. | **New Project**<br>by grungygrimygrind |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/jc8-wqx-psr_andy_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/je4-6r8-o3z_shadow_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/ju4-8sk-016_grungygrimygrind_new-project.bin) |
 
-| ![new-project](jy6-aso-7kc_unknown_new-project.jpg) | ![new-project](k1u-o1d-q56_adalfrizzler_new-project.jpg) | ![new-project](k36-83t-3cw_blackcrow423_new-project.jpg) |
+| ![jy6-aso-7kc_unknown_new-project](jy6-aso-7kc_unknown_new-project.jpg) | ![k1u-o1d-q56_adalfrizzler_new-project](k1u-o1d-q56_adalfrizzler_new-project.jpg) | ![k36-83t-3cw_blackcrow423_new-project](k36-83t-3cw_blackcrow423_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by unknown | **new-project**<br>by adalfrizzler | **new-project**<br>by blackcrow423 |
+| **New Project**<br>by 回線弱者のジャパ | **New Project**<br>by Adalf_Rizzler | **New Project**<br>by BlackCrow423 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/jy6-aso-7kc_unknown_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/k1u-o1d-q56_adalfrizzler_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/k36-83t-3cw_blackcrow423_new-project.bin) |
 
-| ![new-project](k3a-p3i-r9v_areholagrande_new-project.jpg) | ![new-project](k6b-6k8-093_obwanjabroni_new-project.jpg) | ![new-project](kd3-29n-0ou_jaehimmy_new-project.jpg) |
+| ![k3a-p3i-r9v_areholagrande_new-project](k3a-p3i-r9v_areholagrande_new-project.jpg) | ![k6b-6k8-093_obwanjabroni_new-project](k6b-6k8-093_obwanjabroni_new-project.jpg) | ![kd3-29n-0ou_jaehimmy_new-project](kd3-29n-0ou_jaehimmy_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by areholagrande | **new-project**<br>by obwanjabroni | **new-project**<br>by jaehimmy |
+| **New Project**<br>by AreholaGrande | **New Project**<br>by O-B_Wan-Jabroni | **New Project**<br>by JaeHimmy |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/k3a-p3i-r9v_areholagrande_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/k6b-6k8-093_obwanjabroni_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/kd3-29n-0ou_jaehimmy_new-project.bin) |
 
-| ![new-project](kd4-5qu-87r_iamjesus6301_new-project.jpg) | ![new-project](kg8-ttx-i07_mustafa857286858_new-project.jpg) | ![new-project](khk-8yk-nu6_tmes22_new-project.jpg) |
+| ![kd4-5qu-87r_iamjesus6301_new-project](kd4-5qu-87r_iamjesus6301_new-project.jpg) | ![kg8-ttx-i07_mustafa857286858_new-project](kg8-ttx-i07_mustafa857286858_new-project.jpg) | ![khk-8yk-nu6_tmes22_new-project](khk-8yk-nu6_tmes22_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by iamjesus6301 | **new-project**<br>by mustafa857286858 | **new-project**<br>by tmes22 |
+| **New Project**<br>by I Am Jesus6301 | **New Project**<br>by mustafa857286858 | **New Project**<br>by tmes22 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/kd4-5qu-87r_iamjesus6301_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/kg8-ttx-i07_mustafa857286858_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/khk-8yk-nu6_tmes22_new-project.bin) |
 
-| ![new-project](khp-zsn-0xn_da7j1_new-project.jpg) | ![new-project-this-is-awful-dont-p](ki7-7jo-mx6_beyondsaveloydip_new-project-this-is-awful-dont-p.jpg) | ![new-project](kjd-c8f-8ix_brunnerayden9_new-project.jpg) |
+| ![khp-zsn-0xn_da7j1_new-project](khp-zsn-0xn_da7j1_new-project.jpg) | ![ki7-7jo-mx6_beyondsaveloydip_new-project-this-is-awful-dont-p](ki7-7jo-mx6_beyondsaveloydip_new-project-this-is-awful-dont-p.jpg) | ![kjd-c8f-8ix_brunnerayden9_new-project](kjd-c8f-8ix_brunnerayden9_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by da7j1 | **new-project-this-is-awful-dont-p**<br>by beyondsaveloydip | **new-project**<br>by brunnerayden9 |
+| **New Project**<br>by DA7J1_ | **New Project this is awful dont p**<br>by Beyond Saveloy Dip | **New Project**<br>by brunnerayden9 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/khp-zsn-0xn_da7j1_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/ki7-7jo-mx6_beyondsaveloydip_new-project-this-is-awful-dont-p.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/kjd-c8f-8ix_brunnerayden9_new-project.bin) |
 
-| ![new-projectgfghdgdftgdfgfdgd](kmo-6pz-ngj_endlessbarrage_new-projectgfghdgdftgdfgfdgd.jpg) | ![new-project](kpt-k7g-gxb_blackops4329_new-project.jpg) | ![new-project](kt3-q3a-j89_bsketbllkid14_new-project.jpg) |
+| ![kmo-6pz-ngj_endlessbarrage_new-projectgfghdgdftgdfgfdgd](kmo-6pz-ngj_endlessbarrage_new-projectgfghdgdftgdfgfdgd.jpg) | ![kpt-k7g-gxb_blackops4329_new-project](kpt-k7g-gxb_blackops4329_new-project.jpg) | ![kt3-q3a-j89_bsketbllkid14_new-project](kt3-q3a-j89_bsketbllkid14_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-projectgfghdgdftgdfgfdgd**<br>by endlessbarrage | **new-project**<br>by blackops4329 | **new-project**<br>by bsketbllkid14 |
+| **New Projectgfghdgdftgdfgfdgd**<br>by Endless Barrage | **New Project**<br>by Black ops 4329 | **New Project**<br>by b@sketb@llkid14 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/kmo-6pz-ngj_endlessbarrage_new-projectgfghdgdftgdfgfdgd.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/kpt-k7g-gxb_blackops4329_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/kt3-q3a-j89_bsketbllkid14_new-project.bin) |
 
-| ![new-project](ktp-jzg-s4t_spicyx5mbmw84_new-project.jpg) | ![new-project](kty-50r-vz3_awhiticar_new-project.jpg) | ![new-project](kyb-rsd-33w_chopasouras_new-project.jpg) |
+| ![ktp-jzg-s4t_spicyx5mbmw84_new-project](ktp-jzg-s4t_spicyx5mbmw84_new-project.jpg) | ![kty-50r-vz3_awhiticar_new-project](kty-50r-vz3_awhiticar_new-project.jpg) | ![kyb-rsd-33w_chopasouras_new-project](kyb-rsd-33w_chopasouras_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by spicyx5mbmw84 | **new-project**<br>by awhiticar | **new-project**<br>by chopasouras |
+| **New Project**<br>by Spicy_X5M_BMW84 | **New Project**<br>by awhiticar | **New Project**<br>by Chopasouras |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/ktp-jzg-s4t_spicyx5mbmw84_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/kty-50r-vz3_awhiticar_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/kyb-rsd-33w_chopasouras_new-project.bin) |
 
-| ![new-project2](mat-hra-gzy_bonitotuna_new-project2.jpg) | ![new-project](mdn-qph-vic_mikemikethe4978_new-project.jpg) | ![new-project](mg0-ry4-et0_blackoutboygm_new-project.jpg) |
+| ![mat-hra-gzy_bonitotuna_new-project2](mat-hra-gzy_bonitotuna_new-project2.jpg) | ![mdn-qph-vic_mikemikethe4978_new-project](mdn-qph-vic_mikemikethe4978_new-project.jpg) | ![mg0-ry4-et0_blackoutboygm_new-project](mg0-ry4-et0_blackoutboygm_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project2**<br>by bonitotuna | **new-project**<br>by mikemikethe4978 | **new-project**<br>by blackoutboygm |
+| **New Project2**<br>by bonito-tuna | **New Project**<br>by MikeMikethe4978 | **New Project**<br>by BlackoutboyGM |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/mat-hra-gzy_bonitotuna_new-project2.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/mdn-qph-vic_mikemikethe4978_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/mg0-ry4-et0_blackoutboygm_new-project.bin) |
 
-| ![new-project-5i2841](mja-kym-3si_rykerpc_new-project-5i2841.jpg) | ![new-project](mkh-2k4-2vy_dudefluid5539_new-project.jpg) | ![new-project](mnx-6ju-c3h_aeno_new-project.jpg) |
+| ![mja-kym-3si_rykerpc_new-project-5i2841](mja-kym-3si_rykerpc_new-project-5i2841.jpg) | ![mkh-2k4-2vy_dudefluid5539_new-project](mkh-2k4-2vy_dudefluid5539_new-project.jpg) | ![mnx-6ju-c3h_aeno_new-project](mnx-6ju-c3h_aeno_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project-5i2841**<br>by rykerpc | **new-project**<br>by dudefluid5539 | **new-project**<br>by aeno |
+| **New Project 5I2841**<br>by Ryker_PC | **New Project**<br>by DudeFluid5539 | **New Project**<br>by Aeno |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/mja-kym-3si_rykerpc_new-project-5i2841.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/mkh-2k4-2vy_dudefluid5539_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/mnx-6ju-c3h_aeno_new-project.bin) |
 
-| ![new-projectsdsf](mzd-6s8-o7q_possumgameing_new-projectsdsf.jpg) | ![new-project](n5d-5gu-n86_deraxblaze_new-project.jpg) | ![new-project](n8j-psm-173_sam_new-project.jpg) |
+| ![mzd-6s8-o7q_possumgameing_new-projectsdsf](mzd-6s8-o7q_possumgameing_new-projectsdsf.jpg) | ![n5d-5gu-n86_deraxblaze_new-project](n5d-5gu-n86_deraxblaze_new-project.jpg) | ![n8j-psm-173_sam_new-project](n8j-psm-173_sam_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-projectsdsf**<br>by possumgameing | **new-project**<br>by deraxblaze | **new-project**<br>by sam |
+| **New Projectsdsf**<br>by possum gameing | **New Project**<br>by DeraxBlaze | **New Project**<br>by S-A-M |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/mzd-6s8-o7q_possumgameing_new-projectsdsf.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/n5d-5gu-n86_deraxblaze_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/n8j-psm-173_sam_new-project.bin) |
 
-| ![new-project](n9r-57g-noi_endlessvoid_new-project.jpg) | ![new-project](nin-00i-p7t_fattedledge72_new-project.jpg) | ![new-project](nip-hf9-d7m_grey_new-project.jpg) |
+| ![n9r-57g-noi_endlessvoid_new-project](n9r-57g-noi_endlessvoid_new-project.jpg) | ![nin-00i-p7t_fattedledge72_new-project](nin-00i-p7t_fattedledge72_new-project.jpg) | ![nip-hf9-d7m_grey_new-project](nip-hf9-d7m_grey_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by endlessvoid | **new-project**<br>by fattedledge72 | **new-project**<br>by grey |
+| **New Project**<br>by endless void | **New Project**<br>by fatted_ledge72 | **New Project**<br>by Grey |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/n9r-57g-noi_endlessvoid_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/nin-00i-p7t_fattedledge72_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/nip-hf9-d7m_grey_new-project.bin) |
 
-| ![new-project-copy](nnh-iqg-7va_jonaha2010_new-project-copy.jpg) | ![new-project](o0m-u8x-hst_teterroofs_new-project.jpg) | ![new-project](o3f-u4u-0o9_twitchaidantsfx_new-project.jpg) |
+| ![nnh-iqg-7va_jonaha2010_new-project-copy](nnh-iqg-7va_jonaha2010_new-project-copy.jpg) | ![o0m-u8x-hst_teterroofs_new-project](o0m-u8x-hst_teterroofs_new-project.jpg) | ![o3f-u4u-0o9_twitchaidantsfx_new-project](o3f-u4u-0o9_twitchaidantsfx_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project-copy**<br>by jonaha2010 | **new-project**<br>by teterroofs | **new-project**<br>by twitchaidantsfx |
+| **New Project (Copy)**<br>by jonaha2010 | **New Project**<br>by teterroofs | **New Project**<br>by Twitch-aidantsfx |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/nnh-iqg-7va_jonaha2010_new-project-copy.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/o0m-u8x-hst_teterroofs_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/o3f-u4u-0o9_twitchaidantsfx_new-project.bin) |
 
-| ![new-project](o5u-s9t-d6k_wolf_new-project.jpg) | ![new-project](o90-08i-fsz_xbigtryhard07x_new-project.jpg) | ![new-project](od0-99a-xa6_peachypoetry00_new-project.jpg) |
+| ![o5u-s9t-d6k_wolf_new-project](o5u-s9t-d6k_wolf_new-project.jpg) | ![o90-08i-fsz_xbigtryhard07x_new-project](o90-08i-fsz_xbigtryhard07x_new-project.jpg) | ![od0-99a-xa6_peachypoetry00_new-project](od0-99a-xa6_peachypoetry00_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by wolf | **new-project**<br>by xbigtryhard07x | **new-project**<br>by peachypoetry00 |
+| **New Project**<br>by WOLF | **New Project**<br>by xBig Tryhard07x | **New Project**<br>by peachy_poetry00 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/o5u-s9t-d6k_wolf_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/o90-08i-fsz_xbigtryhard07x_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/od0-99a-xa6_peachypoetry00_new-project.bin) |
 
-| ![new-project](ofx-s9h-ea1_entityclasified_new-project.jpg) | ![new-project](oj4-34v-sfm_dudefluid5539_new-project.jpg) | ![new-project](ok2-9do-jqj_biscuits205_new-project.jpg) |
+| ![ofx-s9h-ea1_entityclasified_new-project](ofx-s9h-ea1_entityclasified_new-project.jpg) | ![oj4-34v-sfm_dudefluid5539_new-project](oj4-34v-sfm_dudefluid5539_new-project.jpg) | ![ok2-9do-jqj_biscuits205_new-project](ok2-9do-jqj_biscuits205_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by entityclasified | **new-project**<br>by dudefluid5539 | **new-project**<br>by biscuits205 |
+| **New Project**<br>by ENTITY_CLASIFIED | **New Project**<br>by DudeFluid5539 | **New Project**<br>by Biscuits205 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/ofx-s9h-ea1_entityclasified_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/oj4-34v-sfm_dudefluid5539_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/ok2-9do-jqj_biscuits205_new-project.bin) |
 
-| ![new-project](om2-1tk-fr4_zyaro_new-project.jpg) | ![new-project](opy-ckb-x78_marioguillenplayz_new-project.jpg) | ![new-project](owx-ss0-axu_paperymail4_new-project.jpg) |
+| ![om2-1tk-fr4_zyaro_new-project](om2-1tk-fr4_zyaro_new-project.jpg) | ![opy-ckb-x78_marioguillenplayz_new-project](opy-ckb-x78_marioguillenplayz_new-project.jpg) | ![owx-ss0-axu_paperymail4_new-project](owx-ss0-axu_paperymail4_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by zyaro | **new-project**<br>by marioguillenplayz | **new-project**<br>by paperymail4 |
+| **New Project**<br>by zyaro | **New Project**<br>by marioguillenplayz | **New Project**<br>by papery-mail4 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/om2-1tk-fr4_zyaro_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/opy-ckb-x78_marioguillenplayz_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/owx-ss0-axu_paperymail4_new-project.bin) |
 
-| ![new-project](oxv-z92-84q_thatireapzzguy_new-project.jpg) | ![new-project](oy3-tz5-0am_weatherwhit_new-project.jpg) | ![new-project](p3x-fah-k1w_kyhari22_new-project.jpg) |
+| ![oxv-z92-84q_thatireapzzguy_new-project](oxv-z92-84q_thatireapzzguy_new-project.jpg) | ![oy3-tz5-0am_weatherwhit_new-project](oy3-tz5-0am_weatherwhit_new-project.jpg) | ![p3x-fah-k1w_kyhari22_new-project](p3x-fah-k1w_kyhari22_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by thatireapzzguy | **new-project**<br>by weatherwhit | **new-project**<br>by kyhari22 |
+| **New Project**<br>by ThatIReapZzGuy | **New Project**<br>by weatherwhit | **New Project**<br>by Kyhäri22 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/oxv-z92-84q_thatireapzzguy_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/oy3-tz5-0am_weatherwhit_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/p3x-fah-k1w_kyhari22_new-project.bin) |
 
-| ![new-project](p5w-9aw-5x9_ultrahero9878_new-project.jpg) | ![new-project](pa4-4d2-pdn_sonicsymbiote_new-project.jpg) | ![new-project-2](pac-dn2-kq5_brokeninside362_new-project-2.jpg) |
+| ![p5w-9aw-5x9_ultrahero9878_new-project](p5w-9aw-5x9_ultrahero9878_new-project.jpg) | ![pa4-4d2-pdn_sonicsymbiote_new-project](pa4-4d2-pdn_sonicsymbiote_new-project.jpg) | ![pac-dn2-kq5_brokeninside362_new-project-2](pac-dn2-kq5_brokeninside362_new-project-2.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by ultrahero9878 | **new-project**<br>by sonicsymbiote | **new-project-2**<br>by brokeninside362 |
+| **New Project**<br>by Ultra_hero9878 | **New Project**<br>by Sonic_Symbiote | **New Project 2**<br>by BrokenInside362 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/p5w-9aw-5x9_ultrahero9878_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/pa4-4d2-pdn_sonicsymbiote_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/pac-dn2-kq5_brokeninside362_new-project-2.bin) |
 
-| ![new-project](pap-wkc-x8e_dyinginstyle219_new-project.jpg) | ![new-project421315](pbn-wdi-3b7_gtsparzival_new-project421315.jpg) | ![new-project](pbt-1j8-p69_astrobot212345_new-project.jpg) |
+| ![pap-wkc-x8e_dyinginstyle219_new-project](pap-wkc-x8e_dyinginstyle219_new-project.jpg) | ![pbn-wdi-3b7_gtsparzival_new-project421315](pbn-wdi-3b7_gtsparzival_new-project421315.jpg) | ![pbt-1j8-p69_astrobot212345_new-project](pbt-1j8-p69_astrobot212345_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by dyinginstyle219 | **new-project421315**<br>by gtsparzival | **new-project**<br>by astrobot212345 |
+| **New Project**<br>by DyingInStyle219 | **New Project421315**<br>by (GTS) Parzival | **New Project**<br>by Astro_Bot_212345 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/pap-wkc-x8e_dyinginstyle219_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/pbn-wdi-3b7_gtsparzival_new-project421315.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/pbt-1j8-p69_astrobot212345_new-project.bin) |
 
-| ![new-project](pd7-nh1-t8k_unknown_new-project.jpg) | ![new-project](pqd-7te-7t0_dudefluid5539_new-project.jpg) | ![new-project](pr8-65w-pvt_marmar4775_new-project.jpg) |
+| ![pd7-nh1-t8k_unknown_new-project](pd7-nh1-t8k_unknown_new-project.jpg) | ![pqd-7te-7t0_dudefluid5539_new-project](pqd-7te-7t0_dudefluid5539_new-project.jpg) | ![pr8-65w-pvt_marmar4775_new-project](pr8-65w-pvt_marmar4775_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by unknown | **new-project**<br>by dudefluid5539 | **new-project**<br>by marmar4775 |
+| **New Project**<br>by 米乐小盆友 | **New Project**<br>by DudeFluid5539 | **New Project**<br>by Mar mar4775 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/pd7-nh1-t8k_unknown_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/pqd-7te-7t0_dudefluid5539_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/pr8-65w-pvt_marmar4775_new-project.bin) |
 
-| ![new-project](pz0-qqb-tbw_gaby_new-project.jpg) | ![new-project](pzf-0ji-gtr_clinical777_new-project.jpg) | ![new-project](q07-rvj-hp9_unknown_new-project.jpg) |
+| ![pz0-qqb-tbw_gaby_new-project](pz0-qqb-tbw_gaby_new-project.jpg) | ![pzf-0ji-gtr_clinical777_new-project](pzf-0ji-gtr_clinical777_new-project.jpg) | ![q07-rvj-hp9_unknown_new-project](q07-rvj-hp9_unknown_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by gaby | **new-project**<br>by clinical777 | **new-project**<br>by unknown |
+| **New Project**<br>by Gaby | **New Project**<br>by clinical777 | **New Project**<br>by えーーー |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/pz0-qqb-tbw_gaby_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/pzf-0ji-gtr_clinical777_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/q07-rvj-hp9_unknown_new-project.bin) |
 
-| ![new-project](q1c-qnt-yby_teamtrenton2011_new-project.jpg) | ![new-project](q1x-agx-5nx_thepickledpickle_new-project.jpg) | ![new-project](q1z-5h2-x9b_mayhamgio_new-project.jpg) |
+| ![q1c-qnt-yby_teamtrenton2011_new-project](q1c-qnt-yby_teamtrenton2011_new-project.jpg) | ![q1x-agx-5nx_thepickledpickle_new-project](q1x-agx-5nx_thepickledpickle_new-project.jpg) | ![q1z-5h2-x9b_mayhamgio_new-project](q1z-5h2-x9b_mayhamgio_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by teamtrenton2011 | **new-project**<br>by thepickledpickle | **new-project**<br>by mayhamgio |
+| **New Project**<br>by TeamTrenton2011 | **New Project**<br>by ThePickledPickle | **New Project**<br>by Mayhamgio |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/q1c-qnt-yby_teamtrenton2011_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/q1x-agx-5nx_thepickledpickle_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/q1z-5h2-x9b_mayhamgio_new-project.bin) |
 
-| ![new-project](q85-x10-bc4_coyotex_new-project.jpg) | ![new-project](q9w-p7c-tpn_squirrelshirl966_new-project.jpg) | ![new-project](qcc-0hg-gud_glazior721_new-project.jpg) |
+| ![q85-x10-bc4_coyotex_new-project](q85-x10-bc4_coyotex_new-project.jpg) | ![q9w-p7c-tpn_squirrelshirl966_new-project](q9w-p7c-tpn_squirrelshirl966_new-project.jpg) | ![qcc-0hg-gud_glazior721_new-project](qcc-0hg-gud_glazior721_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by coyotex | **new-project**<br>by squirrelshirl966 | **new-project**<br>by glazior721 |
+| **New Project**<br>by Coyote-X | **New Project**<br>by SquirrelShirl966 | **New Project**<br>by Glazior 721 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/q85-x10-bc4_coyotex_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/q9w-p7c-tpn_squirrelshirl966_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/qcc-0hg-gud_glazior721_new-project.bin) |
 
-| ![new-project](qdz-667-556_grogubaggins_new-project.jpg) | ![new-project](qis-a7j-zx8_her0jake13_new-project.jpg) | ![new-project](qk3-o11-51z_calvinjames11_new-project.jpg) |
+| ![qdz-667-556_grogubaggins_new-project](qdz-667-556_grogubaggins_new-project.jpg) | ![qis-a7j-zx8_her0jake13_new-project](qis-a7j-zx8_her0jake13_new-project.jpg) | ![qk3-o11-51z_calvinjames11_new-project](qk3-o11-51z_calvinjames11_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by grogubaggins | **new-project**<br>by her0jake13 | **new-project**<br>by calvinjames11 |
+| **New Project**<br>by GroguBaggins | **New Project**<br>by Her0_Jake13 | **New Project**<br>by CalvinJames11 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/qdz-667-556_grogubaggins_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/qis-a7j-zx8_her0jake13_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/qk3-o11-51z_calvinjames11_new-project.bin) |
 
-| ![new-project](qke-ham-7ts_meownicholesidney93_new-project.jpg) | ![new-project](qmu-8jg-xkw_ripthanos21_new-project.jpg) | ![new-project-3](qtu-kxz-azp_brokeninside362_new-project-3.jpg) |
+| ![qke-ham-7ts_meownicholesidney93_new-project](qke-ham-7ts_meownicholesidney93_new-project.jpg) | ![qmu-8jg-xkw_ripthanos21_new-project](qmu-8jg-xkw_ripthanos21_new-project.jpg) | ![qtu-kxz-azp_brokeninside362_new-project-3](qtu-kxz-azp_brokeninside362_new-project-3.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by meownicholesidney93 | **new-project**<br>by ripthanos21 | **new-project-3**<br>by brokeninside362 |
+| **New Project**<br>by meownicholesidney93 | **New Project**<br>by Rip_Thanos21 | **New Project 3**<br>by BrokenInside362 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/qke-ham-7ts_meownicholesidney93_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/qmu-8jg-xkw_ripthanos21_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/qtu-kxz-azp_brokeninside362_new-project-3.bin) |
 
-| ![new-project](qw4-s4q-yfb_movementideal_new-project.jpg) | ![new-project-4](qwm-gp0-3qo_brokeninside362_new-project-4.jpg) | ![new-project](r28-bjf-77d_leoeh303662_new-project.jpg) |
+| ![qw4-s4q-yfb_movementideal_new-project](qw4-s4q-yfb_movementideal_new-project.jpg) | ![qwm-gp0-3qo_brokeninside362_new-project-4](qwm-gp0-3qo_brokeninside362_new-project-4.jpg) | ![r28-bjf-77d_leoeh303662_new-project](r28-bjf-77d_leoeh303662_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by movementideal | **new-project-4**<br>by brokeninside362 | **new-project**<br>by leoeh303662 |
+| **New Project**<br>by Movement Ideal | **New Project 4**<br>by BrokenInside362 | **New Project**<br>by LeoEh303662 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/qw4-s4q-yfb_movementideal_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/qwm-gp0-3qo_brokeninside362_new-project-4.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/r28-bjf-77d_leoeh303662_new-project.bin) |
 
-| ![new-project](r4w-msj-d4y_pediatori_new-project.jpg) | ![new-project](r7d-ek2-517_slappyroo_new-project.jpg) | ![new-projectgg](r7e-h6c-y7a_offsidenobody3_new-projectgg.jpg) |
+| ![r4w-msj-d4y_pediatori_new-project](r4w-msj-d4y_pediatori_new-project.jpg) | ![r7d-ek2-517_slappyroo_new-project](r7d-ek2-517_slappyroo_new-project.jpg) | ![r7e-h6c-y7a_offsidenobody3_new-projectgg](r7e-h6c-y7a_offsidenobody3_new-projectgg.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by pediatori | **new-project**<br>by slappyroo | **new-projectgg**<br>by offsidenobody3 |
+| **New Project**<br>by pedia_tori | **New Project**<br>by Slappyroo | **New Projectgg**<br>by offside-nobody3 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/r4w-msj-d4y_pediatori_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/r7d-ek2-517_slappyroo_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/r7e-h6c-y7a_offsidenobody3_new-projectgg.bin) |
 
-| ![new-project](rb3-gmw-he5_dreamy996_new-project.jpg) | ![new-projectd](rbg-2ax-53a_miatra_new-projectd.jpg) | ![new-project](rd5-f37-oyb_quantumblaze843_new-project.jpg) |
+| ![rb3-gmw-he5_dreamy996_new-project](rb3-gmw-he5_dreamy996_new-project.jpg) | ![rbg-2ax-53a_miatra_new-projectd](rbg-2ax-53a_miatra_new-projectd.jpg) | ![rd5-f37-oyb_quantumblaze843_new-project](rd5-f37-oyb_quantumblaze843_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by dreamy996 | **new-projectd**<br>by miatra | **new-project**<br>by quantumblaze843 |
+| **New Project**<br>by dreamy996 | **New Projectd**<br>by miatra | **New Project**<br>by Quantumblaze843 |
 | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/rb3-gmw-he5_dreamy996_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/rbg-2ax-53a_miatra_new-projectd.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/rd5-f37-oyb_quantumblaze843_new-project.bin) |
 
-| ![new-project](re1-0ue-ju1_iiiiiiii8333_new-project.jpg) | *(Kein Bild)* | ![new-project5ggtgtg](rmk-kco-msm_thatthinghere1_new-project5ggtgtg.jpg) |
+| ![re1-0ue-ju1_iiiiiiii8333_new-project](re1-0ue-ju1_iiiiiiii8333_new-project.jpg) | ![rmk-kco-msm_thatthinghere1_new-project5ggtgtg](rmk-kco-msm_thatthinghere1_new-project5ggtgtg.jpg) | ![rnb-c1o-t4d_moldybreadttv_new-project](rnb-c1o-t4d_moldybreadttv_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by iiiiiiii8333 | **README**<br>by Unknown | **new-project5ggtgtg**<br>by thatthinghere1 |
-| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/re1-0ue-ju1_iiiiiiii8333_new-project.bin) | *Keine .bin* | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/rmk-kco-msm_thatthinghere1_new-project5ggtgtg.bin) |
+| **New Project**<br>by iIiIiIiI8333 | **New Project5ggtgtg**<br>by That_thing_here1 | **New Project**<br>by MoldyBreadTTV |
+| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/re1-0ue-ju1_iiiiiiii8333_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/rmk-kco-msm_thatthinghere1_new-project5ggtgtg.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/rnb-c1o-t4d_moldybreadttv_new-project.bin) |
 
-| ![new-project](rnb-c1o-t4d_moldybreadttv_new-project.jpg) | ![new-project](rq8-97u-riy_agentminion4330_new-project.jpg) | ![new-project](rs4-wq9-f48_iamthekod_new-project.jpg) |
+| ![rq8-97u-riy_agentminion4330_new-project](rq8-97u-riy_agentminion4330_new-project.jpg) | ![rs4-wq9-f48_iamthekod_new-project](rs4-wq9-f48_iamthekod_new-project.jpg) | ![sbe-eqp-bx8_megumi67891427_new-project](sbe-eqp-bx8_megumi67891427_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by moldybreadttv | **new-project**<br>by agentminion4330 | **new-project**<br>by iamthekod |
-| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/rnb-c1o-t4d_moldybreadttv_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/rq8-97u-riy_agentminion4330_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/rs4-wq9-f48_iamthekod_new-project.bin) |
+| **New Project**<br>by AgentMinion4330 | **New Project**<br>by I_AM_THE_KOD | **New Project**<br>by Megumi 67891427 |
+| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/rq8-97u-riy_agentminion4330_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/rs4-wq9-f48_iamthekod_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/sbe-eqp-bx8_megumi67891427_new-project.bin) |
 
-| ![new-project](sbe-eqp-bx8_megumi67891427_new-project.jpg) | ![new-project](sbg-oj7-kce_primeatv15_new-project.jpg) | ![new-project](sc8-3ic-wtm_angribeaver2012_new-project.jpg) |
+| ![sbg-oj7-kce_primeatv15_new-project](sbg-oj7-kce_primeatv15_new-project.jpg) | ![sc8-3ic-wtm_angribeaver2012_new-project](sc8-3ic-wtm_angribeaver2012_new-project.jpg) | ![sei-zhm-gzx_nvknngnd_new-project](sei-zhm-gzx_nvknngnd_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by megumi67891427 | **new-project**<br>by primeatv15 | **new-project**<br>by angribeaver2012 |
-| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/sbe-eqp-bx8_megumi67891427_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/sbg-oj7-kce_primeatv15_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/sc8-3ic-wtm_angribeaver2012_new-project.bin) |
+| **New Project**<br>by primeatv15 | **New Project**<br>by angribeaver2012 | **New Project€[[{}}]]**<br>by Nvknngnd |
+| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/sbg-oj7-kce_primeatv15_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/sc8-3ic-wtm_angribeaver2012_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/sei-zhm-gzx_nvknngnd_new-project.bin) |
 
-| ![new-project](sei-zhm-gzx_nvknngnd_new-project.jpg) | ![new-project](sgg-qax-8yb_sierramist32609_new-project.jpg) | ![new-project](sgp-8un-ztf_mb4dj_new-project.jpg) |
+| ![sgg-qax-8yb_sierramist32609_new-project](sgg-qax-8yb_sierramist32609_new-project.jpg) | ![sgp-8un-ztf_mb4dj_new-project](sgp-8un-ztf_mb4dj_new-project.jpg) | ![sh9-w6e-z41_reflection_new-projectca](sh9-w6e-z41_reflection_new-projectca.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by nvknngnd | **new-project**<br>by sierramist32609 | **new-project**<br>by mb4dj |
-| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/sei-zhm-gzx_nvknngnd_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/sgg-qax-8yb_sierramist32609_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/sgp-8un-ztf_mb4dj_new-project.bin) |
+| **New Project**<br>by sierramist32609 | **New Project**<br>by mb4dj | **New Projectca**<br>by reflection |
+| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/sgg-qax-8yb_sierramist32609_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/sgp-8un-ztf_mb4dj_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/sh9-w6e-z41_reflection_new-projectca.bin) |
 
-| ![new-projectca](sh9-w6e-z41_reflection_new-projectca.jpg) | ![new-project](shj-ubo-1je_rohitrajput2309_new-project.jpg) | ![new-project](si8-rps-a2q_dagooster_new-project.jpg) |
+| ![shj-ubo-1je_rohitrajput2309_new-project](shj-ubo-1je_rohitrajput2309_new-project.jpg) | ![si8-rps-a2q_dagooster_new-project](si8-rps-a2q_dagooster_new-project.jpg) | ![smh-8kq-8yd_joyfulstring16_new-project](smh-8kq-8yd_joyfulstring16_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-projectca**<br>by reflection | **new-project**<br>by rohitrajput2309 | **new-project**<br>by dagooster |
-| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/sh9-w6e-z41_reflection_new-projectca.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/shj-ubo-1je_rohitrajput2309_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/si8-rps-a2q_dagooster_new-project.bin) |
+| **New Project**<br>by rohitrajput2309 | **New Project**<br>by Da_Gooster | **New Project**<br>by JoyfulString16 |
+| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/shj-ubo-1je_rohitrajput2309_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/si8-rps-a2q_dagooster_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/smh-8kq-8yd_joyfulstring16_new-project.bin) |
 
-| ![new-project](smh-8kq-8yd_joyfulstring16_new-project.jpg) | ![new-project](sqd-fpw-26x_naetochukwuenwesi_new-project.jpg) | ![new-project](sxs-ew9-xq9_fuzzybananaxd_new-project.jpg) |
+| ![sqd-fpw-26x_naetochukwuenwesi_new-project](sqd-fpw-26x_naetochukwuenwesi_new-project.jpg) | ![sxs-ew9-xq9_fuzzybananaxd_new-project](sxs-ew9-xq9_fuzzybananaxd_new-project.jpg) | ![syd-1re-pgg_kingslayer7553_new-project](syd-1re-pgg_kingslayer7553_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by joyfulstring16 | **new-project**<br>by naetochukwuenwesi | **new-project**<br>by fuzzybananaxd |
-| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/smh-8kq-8yd_joyfulstring16_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/sqd-fpw-26x_naetochukwuenwesi_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/sxs-ew9-xq9_fuzzybananaxd_new-project.bin) |
+| **New Project**<br>by naetochukwuenwesi | **New Project**<br>by fuzzybanana XD | **New Project**<br>by King slayer7553 |
+| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/sqd-fpw-26x_naetochukwuenwesi_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/sxs-ew9-xq9_fuzzybananaxd_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/syd-1re-pgg_kingslayer7553_new-project.bin) |
 
-| ![new-project](syd-1re-pgg_kingslayer7553_new-project.jpg) | ![new-project](t5n-kwj-k38_sonicsymbiote_new-project.jpg) | ![new-project](t7v-as0-oka_y88saf_new-project.jpg) |
+| ![t5n-kwj-k38_sonicsymbiote_new-project](t5n-kwj-k38_sonicsymbiote_new-project.jpg) | ![t7v-as0-oka_y88saf_new-project](t7v-as0-oka_y88saf_new-project.jpg) | ![ti9-p85-36r_shadow_new-project](ti9-p85-36r_shadow_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by kingslayer7553 | **new-project**<br>by sonicsymbiote | **new-project**<br>by y88saf |
-| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/syd-1re-pgg_kingslayer7553_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/t5n-kwj-k38_sonicsymbiote_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/t7v-as0-oka_y88saf_new-project.bin) |
+| **New Project**<br>by Sonic_Symbiote | **New Project**<br>by Y88SAF | **New Project**<br>by shadow. |
+| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/t5n-kwj-k38_sonicsymbiote_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/t7v-as0-oka_y88saf_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/ti9-p85-36r_shadow_new-project.bin) |
 
-| ![new-project](ti9-p85-36r_shadow_new-project.jpg) | ![new-project](tiw-uzg-vqf_hellolelly_new-project.jpg) | ![new-project](tiz-7fb-t1d_bryanf7907_new-project.jpg) |
+| ![tiw-uzg-vqf_hellolelly_new-project](tiw-uzg-vqf_hellolelly_new-project.jpg) | ![tiz-7fb-t1d_bryanf7907_new-project](tiz-7fb-t1d_bryanf7907_new-project.jpg) | ![tm8-c7o-s4n_alyl8_new-project](tm8-c7o-s4n_alyl8_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by shadow | **new-project**<br>by hellolelly | **new-project**<br>by bryanf7907 |
-| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/ti9-p85-36r_shadow_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/tiw-uzg-vqf_hellolelly_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/tiz-7fb-t1d_bryanf7907_new-project.bin) |
+| **New Project**<br>by hellolelly_ | **New Project**<br>by bryan.f7907 | **New Project**<br>by alyl_8 |
+| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/tiw-uzg-vqf_hellolelly_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/tiz-7fb-t1d_bryanf7907_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/tm8-c7o-s4n_alyl8_new-project.bin) |
 
-| ![new-project](tm8-c7o-s4n_alyl8_new-project.jpg) | ![new-project](trd-xrd-bwp_thechosenone_new-project.jpg) | ![new-project](tso-9qi-b5a_hhy19810215_new-project.jpg) |
+| ![trd-xrd-bwp_thechosenone_new-project](trd-xrd-bwp_thechosenone_new-project.jpg) | ![tso-9qi-b5a_hhy19810215_new-project](tso-9qi-b5a_hhy19810215_new-project.jpg) | ![tu7-ome-ems_akkii10_new-project](tu7-ome-ems_akkii10_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by alyl8 | **new-project**<br>by thechosenone | **new-project**<br>by hhy19810215 |
-| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/tm8-c7o-s4n_alyl8_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/trd-xrd-bwp_thechosenone_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/tso-9qi-b5a_hhy19810215_new-project.bin) |
+| **New Project**<br>by thechosenone | **New Project**<br>by hhy19810215 | **New Project**<br>by akkii-10 |
+| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/trd-xrd-bwp_thechosenone_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/tso-9qi-b5a_hhy19810215_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/tu7-ome-ems_akkii10_new-project.bin) |
 
-| ![new-project](tu7-ome-ems_akkii10_new-project.jpg) | ![new-project](two-ttw-7fo_summermarble448_new-project.jpg) | ![new-project](txt-dbv-24i_baddesisions333_new-project.jpg) |
+| ![two-ttw-7fo_summermarble448_new-project](two-ttw-7fo_summermarble448_new-project.jpg) | ![txt-dbv-24i_baddesisions333_new-project](txt-dbv-24i_baddesisions333_new-project.jpg) | ![u68-9f8-3so_leoeh303662_new-project](u68-9f8-3so_leoeh303662_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by akkii10 | **new-project**<br>by summermarble448 | **new-project**<br>by baddesisions333 |
-| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/tu7-ome-ems_akkii10_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/two-ttw-7fo_summermarble448_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/txt-dbv-24i_baddesisions333_new-project.bin) |
+| **New Project**<br>by SummerMarble448 | **New Project**<br>by Baddesisions333 | **New Project**<br>by LeoEh303662 |
+| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/two-ttw-7fo_summermarble448_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/txt-dbv-24i_baddesisions333_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/u68-9f8-3so_leoeh303662_new-project.bin) |
 
-| ![new-project](u68-9f8-3so_leoeh303662_new-project.jpg) | ![new-project](u7r-qg0-3tb_bakin13_new-project.jpg) | ![new-project](u9u-e75-371_jensen123453209_new-project.jpg) |
+| ![u7r-qg0-3tb_bakin13_new-project](u7r-qg0-3tb_bakin13_new-project.jpg) | ![u9u-e75-371_jensen123453209_new-project](u9u-e75-371_jensen123453209_new-project.jpg) | ![ubq-87w-s5m_isnotbutter_new-project](ubq-87w-s5m_isnotbutter_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by leoeh303662 | **new-project**<br>by bakin13 | **new-project**<br>by jensen123453209 |
-| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/u68-9f8-3so_leoeh303662_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/u7r-qg0-3tb_bakin13_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/u9u-e75-371_jensen123453209_new-project.bin) |
+| **New Project**<br>by bakin13 | **New Project**<br>by Jensen123453209 | **New Project**<br>by isnotbutter |
+| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/u7r-qg0-3tb_bakin13_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/u9u-e75-371_jensen123453209_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/ubq-87w-s5m_isnotbutter_new-project.bin) |
 
-| ![new-project](ubq-87w-s5m_isnotbutter_new-project.jpg) | ![new-project](ucz-ukt-jxh_dnbgamer1147_new-project.jpg) | ![new-project](uev-3c4-h4s_leegreen84_new-project.jpg) |
+| ![ucz-ukt-jxh_dnbgamer1147_new-project](ucz-ukt-jxh_dnbgamer1147_new-project.jpg) | ![uev-3c4-h4s_leegreen84_new-project](uev-3c4-h4s_leegreen84_new-project.jpg) | ![umo-1u7-fat_imcrazy_new-project](umo-1u7-fat_imcrazy_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by isnotbutter | **new-project**<br>by dnbgamer1147 | **new-project**<br>by leegreen84 |
-| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/ubq-87w-s5m_isnotbutter_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/ucz-ukt-jxh_dnbgamer1147_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/uev-3c4-h4s_leegreen84_new-project.bin) |
+| **New Project**<br>by DNBgamer1147 | **New Project**<br>by LeeGreen84 | **New Project**<br>by imcrazy |
+| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/ucz-ukt-jxh_dnbgamer1147_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/uev-3c4-h4s_leegreen84_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/umo-1u7-fat_imcrazy_new-project.bin) |
 
-| ![new-project](umo-1u7-fat_imcrazy_new-project.jpg) | ![new-project-412783489](ur1-ji4-ad2_rykerpc_new-project-412783489.jpg) | ![new-project](usb-bps-kh8_hamoodyamoudi_new-project.jpg) |
+| ![ur1-ji4-ad2_rykerpc_new-project-412783489](ur1-ji4-ad2_rykerpc_new-project-412783489.jpg) | ![usb-bps-kh8_hamoodyamoudi_new-project](usb-bps-kh8_hamoodyamoudi_new-project.jpg) | ![uss-8ud-gxd_hudhud0550_new-project](uss-8ud-gxd_hudhud0550_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by imcrazy | **new-project-412783489**<br>by rykerpc | **new-project**<br>by hamoodyamoudi |
-| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/umo-1u7-fat_imcrazy_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/ur1-ji4-ad2_rykerpc_new-project-412783489.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/usb-bps-kh8_hamoodyamoudi_new-project.bin) |
+| **New Project 412783489**<br>by Ryker_PC | **New Project**<br>by hamoodyamoudi | **New Project**<br>by hudhud_0550 |
+| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/ur1-ji4-ad2_rykerpc_new-project-412783489.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/usb-bps-kh8_hamoodyamoudi_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/uss-8ud-gxd_hudhud0550_new-project.bin) |
 
-| ![new-project](uss-8ud-gxd_hudhud0550_new-project.jpg) | ![new-project](uu7-75n-g62_tomsf1_new-project.jpg) | ![new-project](uva-tvc-f4v_marva77_new-project.jpg) |
+| ![uu7-75n-g62_tomsf1_new-project](uu7-75n-g62_tomsf1_new-project.jpg) | ![uva-tvc-f4v_marva77_new-project](uva-tvc-f4v_marva77_new-project.jpg) | ![uyr-eon-b2r_am12_new-project](uyr-eon-b2r_am12_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by hudhud0550 | **new-project**<br>by tomsf1 | **new-project**<br>by marva77 |
-| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/uss-8ud-gxd_hudhud0550_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/uu7-75n-g62_tomsf1_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/uva-tvc-f4v_marva77_new-project.bin) |
+| **New Project**<br>by toms_f1 | **New Project**<br>by Marva-77 | **New Project**<br>by am12 |
+| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/uu7-75n-g62_tomsf1_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/uva-tvc-f4v_marva77_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/uyr-eon-b2r_am12_new-project.bin) |
 
-| ![new-project](uyr-eon-b2r_am12_new-project.jpg) | ![new-project](v1d-9s7-s8c_hotoke555_new-project.jpg) | ![new-project](v9s-sb4-1ai_wasim0x_new-project.jpg) |
+| ![v1d-9s7-s8c_hotoke555_new-project](v1d-9s7-s8c_hotoke555_new-project.jpg) | ![v9s-sb4-1ai_wasim0x_new-project](v9s-sb4-1ai_wasim0x_new-project.jpg) | ![vcg-xsp-rkt_hannav5_new-project](vcg-xsp-rkt_hannav5_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by am12 | **new-project**<br>by hotoke555 | **new-project**<br>by wasim0x |
-| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/uyr-eon-b2r_am12_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/v1d-9s7-s8c_hotoke555_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/v9s-sb4-1ai_wasim0x_new-project.bin) |
+| **New Project**<br>by hotoke555 | **New Project**<br>by wasim-0x | **New Project**<br>by Hannav_5 |
+| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/v1d-9s7-s8c_hotoke555_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/v9s-sb4-1ai_wasim0x_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/vcg-xsp-rkt_hannav5_new-project.bin) |
 
-| ![new-project](vcg-xsp-rkt_hannav5_new-project.jpg) | ![new-project](vk4-udp-m2e_igris_new-project.jpg) | ![new-project](vk9-a2y-rfe_bodines24_new-project.jpg) |
+| ![vk4-udp-m2e_igris_new-project](vk4-udp-m2e_igris_new-project.jpg) | ![vk9-a2y-rfe_bodines24_new-project](vk9-a2y-rfe_bodines24_new-project.jpg) | ![vpt-1f7-p8d_johnnybravo1288_new-project](vpt-1f7-p8d_johnnybravo1288_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by hannav5 | **new-project**<br>by igris | **new-project**<br>by bodines24 |
-| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/vcg-xsp-rkt_hannav5_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/vk4-udp-m2e_igris_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/vk9-a2y-rfe_bodines24_new-project.bin) |
+| **New Project**<br>by igris | **New Project**<br>by Bodines24 | **New Project**<br>by JohnnYbravo1288 |
+| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/vk4-udp-m2e_igris_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/vk9-a2y-rfe_bodines24_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/vpt-1f7-p8d_johnnybravo1288_new-project.bin) |
 
-| ![new-project](vpt-1f7-p8d_johnnybravo1288_new-project.jpg) | ![new-project](vt0-fpb-cfz_gtsparzival_new-project.jpg) | ![new-project](vze-k9k-9gy_natestorm21_new-project.jpg) |
+| ![vt0-fpb-cfz_gtsparzival_new-project](vt0-fpb-cfz_gtsparzival_new-project.jpg) | ![vze-k9k-9gy_natestorm21_new-project](vze-k9k-9gy_natestorm21_new-project.jpg) | ![w11-mob-uxi_thatthinghere1_new-projectgame](w11-mob-uxi_thatthinghere1_new-projectgame.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by johnnybravo1288 | **new-project**<br>by gtsparzival | **new-project**<br>by natestorm21 |
-| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/vpt-1f7-p8d_johnnybravo1288_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/vt0-fpb-cfz_gtsparzival_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/vze-k9k-9gy_natestorm21_new-project.bin) |
+| **New Project**<br>by (GTS) Parzival | **New Project**<br>by Natestorm21 | **New ProjectGame**<br>by That_thing_here1 |
+| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/vt0-fpb-cfz_gtsparzival_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/vze-k9k-9gy_natestorm21_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/w11-mob-uxi_thatthinghere1_new-projectgame.bin) |
 
-| ![new-projectgame](w11-mob-uxi_thatthinghere1_new-projectgame.jpg) | ![new-project](w4n-qzm-7aj_squirrelshirl966_new-project.jpg) | ![new-project](w5x-9xh-n5o_beerwing_new-project.jpg) |
+| ![w4n-qzm-7aj_squirrelshirl966_new-project](w4n-qzm-7aj_squirrelshirl966_new-project.jpg) | ![w5x-9xh-n5o_beerwing_new-project](w5x-9xh-n5o_beerwing_new-project.jpg) | ![w6x-qv6-vxo_pinkbearlove_new-project](w6x-qv6-vxo_pinkbearlove_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-projectgame**<br>by thatthinghere1 | **new-project**<br>by squirrelshirl966 | **new-project**<br>by beerwing |
-| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/w11-mob-uxi_thatthinghere1_new-projectgame.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/w4n-qzm-7aj_squirrelshirl966_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/w5x-9xh-n5o_beerwing_new-project.bin) |
+| **New Project**<br>by SquirrelShirl966 | **New Project**<br>by Beer Wing | **New Project**<br>by PinkBear_Love |
+| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/w4n-qzm-7aj_squirrelshirl966_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/w5x-9xh-n5o_beerwing_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/w6x-qv6-vxo_pinkbearlove_new-project.bin) |
 
-| ![new-project](w6x-qv6-vxo_pinkbearlove_new-project.jpg) | ![new-project](w8n-75u-zdi_c_new-project.jpg) | ![new-project](w9c-aap-ird_pendingprey7_new-project.jpg) |
+| ![w8n-75u-zdi_c_new-project](w8n-75u-zdi_c_new-project.jpg) | ![w9c-aap-ird_pendingprey7_new-project](w9c-aap-ird_pendingprey7_new-project.jpg) | ![wdy-871-1xm_dubbwave7359_new-project](wdy-871-1xm_dubbwave7359_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by pinkbearlove | **new-project**<br>by c | **new-project**<br>by pendingprey7 |
-| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/w6x-qv6-vxo_pinkbearlove_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/w8n-75u-zdi_c_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/w9c-aap-ird_pendingprey7_new-project.bin) |
+| **New Project**<br>by c | **New Project**<br>by Pending-prey7 | **New Project**<br>by Dubbwave7359 |
+| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/w8n-75u-zdi_c_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/w9c-aap-ird_pendingprey7_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/wdy-871-1xm_dubbwave7359_new-project.bin) |
 
-| ![new-project](wdy-871-1xm_dubbwave7359_new-project.jpg) | ![new-project](wgk-9o2-080_srna12_new-project.jpg) | ![new-project1](wgr-6wn-29s_xionghost_new-project1.jpg) |
+| ![wgk-9o2-080_srna12_new-project](wgk-9o2-080_srna12_new-project.jpg) | ![wgr-6wn-29s_xionghost_new-project1](wgr-6wn-29s_xionghost_new-project1.jpg) | ![whs-4g5-2t0_blitzcraank_new-projectg](whs-4g5-2t0_blitzcraank_new-projectg.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by dubbwave7359 | **new-project**<br>by srna12 | **new-project1**<br>by xionghost |
-| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/wdy-871-1xm_dubbwave7359_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/wgk-9o2-080_srna12_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/wgr-6wn-29s_xionghost_new-project1.bin) |
+| **New Project**<br>by srna12 | **New Project1**<br>by XionGhost | **New Projectg**<br>by Blitzcraank_ |
+| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/wgk-9o2-080_srna12_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/wgr-6wn-29s_xionghost_new-project1.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/whs-4g5-2t0_blitzcraank_new-projectg.bin) |
 
-| ![new-projectg](whs-4g5-2t0_blitzcraank_new-projectg.jpg) | ![new-project-5932489489q2u8938912](wk0-wrw-pqj_rykerpc_new-project-5932489489q2u8938912.jpg) | ![new-project](wks-ysn-38m_d_new-project.jpg) |
+| ![wk0-wrw-pqj_rykerpc_new-project-5932489489q2u8938912](wk0-wrw-pqj_rykerpc_new-project-5932489489q2u8938912.jpg) | ![wks-ysn-38m_d_new-project](wks-ysn-38m_d_new-project.jpg) | ![wvr-s1p-duf_jcerch2511_new-project](wvr-s1p-duf_jcerch2511_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-projectg**<br>by blitzcraank | **new-project-5932489489q2u8938912**<br>by rykerpc | **new-project**<br>by d |
-| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/whs-4g5-2t0_blitzcraank_new-projectg.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/wk0-wrw-pqj_rykerpc_new-project-5932489489q2u8938912.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/wks-ysn-38m_d_new-project.bin) |
+| **New Project 5932489489q2u8938912**<br>by Ryker_PC | **New Project**<br>by _DʀΛɠΩΠ_ | **New Project**<br>by jcerch2511 |
+| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/wk0-wrw-pqj_rykerpc_new-project-5932489489q2u8938912.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/wks-ysn-38m_d_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/wvr-s1p-duf_jcerch2511_new-project.bin) |
 
-| ![new-project](wvr-s1p-duf_jcerch2511_new-project.jpg) | ![new-project](wxb-fdr-ssh_mambahazard_new-project.jpg) | ![new-project](wyg-fd2-mtz_okiedokie4567891_new-project.jpg) |
+| ![wxb-fdr-ssh_mambahazard_new-project](wxb-fdr-ssh_mambahazard_new-project.jpg) | ![wyg-fd2-mtz_okiedokie4567891_new-project](wyg-fd2-mtz_okiedokie4567891_new-project.jpg) | ![x07-e5c-an7_xredzombiex7685_new-project](x07-e5c-an7_xredzombiex7685_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by jcerch2511 | **new-project**<br>by mambahazard | **new-project**<br>by okiedokie4567891 |
-| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/wvr-s1p-duf_jcerch2511_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/wxb-fdr-ssh_mambahazard_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/wyg-fd2-mtz_okiedokie4567891_new-project.bin) |
+| **New Project**<br>by Mamba Hazard | **New Project**<br>by okiedokie4567891 | **New Project**<br>by xReDZoMbIex7685 |
+| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/wxb-fdr-ssh_mambahazard_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/wyg-fd2-mtz_okiedokie4567891_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/x07-e5c-an7_xredzombiex7685_new-project.bin) |
 
-| ![new-project](x07-e5c-an7_xredzombiex7685_new-project.jpg) | ![new-project](x1k-f2e-4ni_stormnaruto2012_new-project.jpg) | ![new-project](x2k-gwu-rid_missshapencircle_new-project.jpg) |
+| ![x1k-f2e-4ni_stormnaruto2012_new-project](x1k-f2e-4ni_stormnaruto2012_new-project.jpg) | ![x2k-gwu-rid_missshapencircle_new-project](x2k-gwu-rid_missshapencircle_new-project.jpg) | ![x4t-4yc-o6c_wickedclown416_new-project](x4t-4yc-o6c_wickedclown416_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by xredzombiex7685 | **new-project**<br>by stormnaruto2012 | **new-project**<br>by missshapencircle |
-| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/x07-e5c-an7_xredzombiex7685_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/x1k-f2e-4ni_stormnaruto2012_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/x2k-gwu-rid_missshapencircle_new-project.bin) |
+| **New Project**<br>by stormnaruto2012 | **New Project**<br>by missshapen_circle | **New Project**<br>by WICKEDCLOWN416 |
+| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/x1k-f2e-4ni_stormnaruto2012_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/x2k-gwu-rid_missshapencircle_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/x4t-4yc-o6c_wickedclown416_new-project.bin) |
 
-| ![new-project](x4t-4yc-o6c_wickedclown416_new-project.jpg) | ![new-project](x52-pc3-cds_dinothegreat72_new-project.jpg) | ![new-project](xj5-8hi-m4j_jstcallmeandrea_new-project.jpg) |
+| ![x52-pc3-cds_dinothegreat72_new-project](x52-pc3-cds_dinothegreat72_new-project.jpg) | ![xj5-8hi-m4j_jstcallmeandrea_new-project](xj5-8hi-m4j_jstcallmeandrea_new-project.jpg) | ![xm9-zua-535_wy7797_new-project](xm9-zua-535_wy7797_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by wickedclown416 | **new-project**<br>by dinothegreat72 | **new-project**<br>by jstcallmeandrea |
-| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/x4t-4yc-o6c_wickedclown416_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/x52-pc3-cds_dinothegreat72_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/xj5-8hi-m4j_jstcallmeandrea_new-project.bin) |
+| **New Project**<br>by DinoTheGreaT72 | **New Project**<br>by jstcallmeandrea | **New Project**<br>by wy7797 |
+| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/x52-pc3-cds_dinothegreat72_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/xj5-8hi-m4j_jstcallmeandrea_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/xm9-zua-535_wy7797_new-project.bin) |
 
-| ![new-project](xm9-zua-535_wy7797_new-project.jpg) | ![new-project](xs5-htv-huh_nicholasthayes11_new-project.jpg) | ![new-projectfff](xv0-6om-fnv_drmalaa_new-projectfff.jpg) |
+| ![xs5-htv-huh_nicholasthayes11_new-project](xs5-htv-huh_nicholasthayes11_new-project.jpg) | ![xv0-6om-fnv_drmalaa_new-projectfff](xv0-6om-fnv_drmalaa_new-projectfff.jpg) | ![xwb-i7x-9gz_djrhydawg_new-project](xwb-i7x-9gz_djrhydawg_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by wy7797 | **new-project**<br>by nicholasthayes11 | **new-projectfff**<br>by drmalaa |
-| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/xm9-zua-535_wy7797_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/xs5-htv-huh_nicholasthayes11_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/xv0-6om-fnv_drmalaa_new-projectfff.bin) |
+| **New Project**<br>by nicholasthayes11 | **New Projectfff;;;**<br>by dr.m_alaa | **New Project**<br>by DJRhyDawg |
+| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/xs5-htv-huh_nicholasthayes11_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/xv0-6om-fnv_drmalaa_new-projectfff.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/xwb-i7x-9gz_djrhydawg_new-project.bin) |
 
-| ![new-project](xwb-i7x-9gz_djrhydawg_new-project.jpg) | ![1-april](xwk-o8h-avi_corellan_1-april.jpg) | ![new-project](xwk-usk-s6p_unknown_new-project.jpg) |
+| ![xwk-o8h-avi_corellan_1-april](xwk-o8h-avi_corellan_1-april.jpg) | ![xwk-usk-s6p_unknown_new-project](xwk-usk-s6p_unknown_new-project.jpg) | ![xyc-3ob-w8n_b773zyb7owin_new-project](xyc-3ob-w8n_b773zyb7owin_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by djrhydawg | **1-april**<br>by corellan | **new-project**<br>by unknown |
-| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/xwb-i7x-9gz_djrhydawg_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/xwk-o8h-avi_corellan_1-april.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/xwk-usk-s6p_unknown_new-project.bin) |
+| **1. APRIL**<br>by Corellan | **New Project**<br>by 后入大王 | **New Project**<br>by B773zyB7owin |
+| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/xwk-o8h-avi_corellan_1-april.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/xwk-usk-s6p_unknown_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/xyc-3ob-w8n_b773zyb7owin_new-project.bin) |
 
-| ![new-project](xyc-3ob-w8n_b773zyb7owin_new-project.jpg) | ![new-project](xyz-ynu-433_peeledfruit_new-project.jpg) | ![new-project](yf2-y1t-z3m_gtsparzival_new-project.jpg) |
+| ![xyz-ynu-433_peeledfruit_new-project](xyz-ynu-433_peeledfruit_new-project.jpg) | ![yf2-y1t-z3m_gtsparzival_new-project](yf2-y1t-z3m_gtsparzival_new-project.jpg) | ![yfr-pyn-hwb_candidmartyr_new-project](yfr-pyn-hwb_candidmartyr_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by b773zyb7owin | **new-project**<br>by peeledfruit | **new-project**<br>by gtsparzival |
-| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/xyc-3ob-w8n_b773zyb7owin_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/xyz-ynu-433_peeledfruit_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/yf2-y1t-z3m_gtsparzival_new-project.bin) |
+| **New Project**<br>by PeeledFruit | **New Project**<br>by (GTS) Parzival | **New Project**<br>by CandidMartyr |
+| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/xyz-ynu-433_peeledfruit_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/yf2-y1t-z3m_gtsparzival_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/yfr-pyn-hwb_candidmartyr_new-project.bin) |
 
-| ![new-project](yfr-pyn-hwb_candidmartyr_new-project.jpg) | ![new-project](ynu-qgb-7ww_lululu_new-project.jpg) | ![new-project](yra-ve0-b64_bndashti_new-project.jpg) |
+| ![ynu-qgb-7ww_lululu_new-project](ynu-qgb-7ww_lululu_new-project.jpg) | ![yra-ve0-b64_bndashti_new-project](yra-ve0-b64_bndashti_new-project.jpg) | ![yre-rhp-76h_super10danny_new-project](yre-rhp-76h_super10danny_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by candidmartyr | **new-project**<br>by lululu | **new-project**<br>by bndashti |
-| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/yfr-pyn-hwb_candidmartyr_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/ynu-qgb-7ww_lululu_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/yra-ve0-b64_bndashti_new-project.bin) |
+| **New Project**<br>by lululu | **New Project**<br>by BN.DASHTI | **New Project**<br>by super_10Danny |
+| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/ynu-qgb-7ww_lululu_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/yra-ve0-b64_bndashti_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/yre-rhp-76h_super10danny_new-project.bin) |
 
-| ![new-project](yre-rhp-76h_super10danny_new-project.jpg) | ![new-project](yw9-hkn-d6o_ericosbourne4_new-project.jpg) | ![israel-sim](z50-ask-9sp_ykmjoshslezi_israel-sim.jpg) |
+| ![yw9-hkn-d6o_ericosbourne4_new-project](yw9-hkn-d6o_ericosbourne4_new-project.jpg) | ![z50-ask-9sp_ykmjoshslezi_israel-sim](z50-ask-9sp_ykmjoshslezi_israel-sim.jpg) | ![z6x-w7e-c9t_canyoupick9385_new-project](z6x-w7e-c9t_canyoupick9385_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by super10danny | **new-project**<br>by ericosbourne4 | **israel-sim**<br>by ykmjoshslezi |
-| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/yre-rhp-76h_super10danny_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/yw9-hkn-d6o_ericosbourne4_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/z50-ask-9sp_ykmjoshslezi_israel-sim.bin) |
+| **New Project**<br>by ericosbourne4 | **Israel Sim**<br>by Ykmjoshslezi | **New Project**<br>by Canyoupick9385 |
+| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/yw9-hkn-d6o_ericosbourne4_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/z50-ask-9sp_ykmjoshslezi_israel-sim.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/z6x-w7e-c9t_canyoupick9385_new-project.bin) |
 
-| ![new-project](z6x-w7e-c9t_canyoupick9385_new-project.jpg) | ![new-project](z9v-4m6-79u_crumbly6893_new-project.jpg) | ![new-project](zgd-2hv-378_programmeduser_new-project.jpg) |
+| ![z9v-4m6-79u_crumbly6893_new-project](z9v-4m6-79u_crumbly6893_new-project.jpg) | ![zgd-2hv-378_programmeduser_new-project](zgd-2hv-378_programmeduser_new-project.jpg) | ![zhy-ru1-7w3_whitebassist9_new-project](zhy-ru1-7w3_whitebassist9_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by canyoupick9385 | **new-project**<br>by crumbly6893 | **new-project**<br>by programmeduser |
-| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/z6x-w7e-c9t_canyoupick9385_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/z9v-4m6-79u_crumbly6893_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/zgd-2hv-378_programmeduser_new-project.bin) |
+| **New Project**<br>by Crumbly6893 | **New Project**<br>by Programmed-User | **New Project**<br>by white-bassist9 |
+| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/z9v-4m6-79u_crumbly6893_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/zgd-2hv-378_programmeduser_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/zhy-ru1-7w3_whitebassist9_new-project.bin) |
 
-| ![new-project](zhy-ru1-7w3_whitebassist9_new-project.jpg) | ![new-project](zit-w0z-xh5_senousi_new-project.jpg) | ![new-project](zj6-k7b-1u5_pocky1131_new-project.jpg) |
+| ![zit-w0z-xh5_senousi_new-project](zit-w0z-xh5_senousi_new-project.jpg) | ![zj6-k7b-1u5_pocky1131_new-project](zj6-k7b-1u5_pocky1131_new-project.jpg) | ![zpg-bri-bcu_newagepianist_lkasdlpw3mdcopemdfkopwlmdfkw](zpg-bri-bcu_newagepianist_lkasdlpw3mdcopemdfkopwlmdfkw.jpg) |
 | :---: | :---: | :---: |
-| **new-project**<br>by whitebassist9 | **new-project**<br>by senousi | **new-project**<br>by pocky1131 |
-| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/zhy-ru1-7w3_whitebassist9_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/zit-w0z-xh5_senousi_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/zj6-k7b-1u5_pocky1131_new-project.bin) |
+| **New Project**<br>by senousi | **New Project**<br>by Pocky1131 | **l;'kasd,lpw3m,dcopemdfkopwlmdfkw**<br>by NewagePianist |
+| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/zit-w0z-xh5_senousi_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/zj6-k7b-1u5_pocky1131_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/zpg-bri-bcu_newagepianist_lkasdlpw3mdcopemdfkopwlmdfkw.bin) |
 
-| ![lkasdlpw3mdcopemdfkopwlmdfkw](zpg-bri-bcu_newagepianist_lkasdlpw3mdcopemdfkopwlmdfkw.jpg) | ![chicken-jokey](zpw-a2j-4q3_mikeyw2017_chicken-jokey.jpg) | ![new-project-2](zsh-x87-b2y_kibebaszottbundaskenyer_new-project-2.jpg) |
+| ![zpw-a2j-4q3_mikeyw2017_chicken-jokey](zpw-a2j-4q3_mikeyw2017_chicken-jokey.jpg) | ![zsh-x87-b2y_kibebaszottbundaskenyer_new-project-2](zsh-x87-b2y_kibebaszottbundaskenyer_new-project-2.jpg) | ![zuh-ijz-xck_sakurai_new-projecttt](zuh-ijz-xck_sakurai_new-projecttt.jpg) |
 | :---: | :---: | :---: |
-| **lkasdlpw3mdcopemdfkopwlmdfkw**<br>by newagepianist | **chicken-jokey**<br>by mikeyw2017 | **new-project-2**<br>by kibebaszottbundaskenyer |
-| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/zpg-bri-bcu_newagepianist_lkasdlpw3mdcopemdfkopwlmdfkw.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/zpw-a2j-4q3_mikeyw2017_chicken-jokey.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/zsh-x87-b2y_kibebaszottbundaskenyer_new-project-2.bin) |
+| **Chicken jokey**<br>by Mikeyw2017 | **New Project 2**<br>by Kibebaszott Bundás Kenyér | **New Projecttt**<br>by Sakurai |
+| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/zpw-a2j-4q3_mikeyw2017_chicken-jokey.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/zsh-x87-b2y_kibebaszottbundaskenyer_new-project-2.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/zuh-ijz-xck_sakurai_new-projecttt.bin) |
 
-| ![new-projecttt](zuh-ijz-xck_sakurai_new-projecttt.jpg) | ![new-project](zvn-qnn-h5n_ezekiel7624_new-project.jpg) | ![new-project](zwc-twb-jyv_aerocrystal_new-project.jpg) |
+| ![zvn-qnn-h5n_ezekiel7624_new-project](zvn-qnn-h5n_ezekiel7624_new-project.jpg) | ![zwc-twb-jyv_aerocrystal_new-project](zwc-twb-jyv_aerocrystal_new-project.jpg) | ![zzx-rnq-zaa_ervi77_new-project](zzx-rnq-zaa_ervi77_new-project.jpg) |
 | :---: | :---: | :---: |
-| **new-projecttt**<br>by sakurai | **new-project**<br>by ezekiel7624 | **new-project**<br>by aerocrystal |
-| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/zuh-ijz-xck_sakurai_new-projecttt.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/zvn-qnn-h5n_ezekiel7624_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/zwc-twb-jyv_aerocrystal_new-project.bin) |
-
-| ![new-project](zzx-rnq-zaa_ervi77_new-project.jpg) |  |  |
-| :---: | :---: | :---: |
-| **new-project**<br>by ervi77 |  |  |
-| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/zzx-rnq-zaa_ervi77_new-project.bin) |  |  |
+| **New Project**<br>by Ezekiel7624 | **New Project**<br>by AeroCrystal | **New Project**<br>by ervi_77 |
+| [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/zvn-qnn-h5n_ezekiel7624_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/zwc-twb-jyv_aerocrystal_new-project.bin) | [📥 Download .bin](https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unplayable/zzx-rnq-zaa_ervi77_new-project.bin) |
 
