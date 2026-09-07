@@ -1,0 +1,13 @@
+{
+  "name": "Splitgate-CommunityMaps",
+  "version": "1.0.0",
+  "author": "corellan",
+  "description": "",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate-readmes.js"
+  },
+  "devDependencies": {}
+}
