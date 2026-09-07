@@ -40526,5 +40526,37 @@
     "author": "matscalle",
     "image": "Maps/Unsorted/zzg-f0d-5wm_matscalle_neon-godspeed.jpg",
     "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Unsorted/zzg-f0d-5wm_matscalle_neon-godspeed.bin"
+  },
+  {
+    "category": "Templates",
+    "id": "0q1-c88-pxf_hunterkiller_roman-prefabs",
+    "name": "Roman Prefabs",
+    "author": "HunterKiller",
+    "image": "Maps/Templates/0q1-c88-pxf_hunterkiller_roman-prefabs.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Templates/0q1-c88-pxf_hunterkiller_roman-prefabs.bin"
+  },
+  {
+    "category": "Templates",
+    "id": "4fw-spm-jaf_hunterkiller_forest-template-2",
+    "name": "Forest Template 2",
+    "author": "HunterKiller",
+    "image": "Maps/Templates/4fw-spm-jaf_hunterkiller_forest-template-2.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Templates/4fw-spm-jaf_hunterkiller_forest-template-2.bin"
+  },
+  {
+    "category": "Templates",
+    "id": "fmz-0qf-t3x_hunterkiller_forest-template",
+    "name": "Forest Template",
+    "author": "HunterKiller",
+    "image": "Maps/Templates/fmz-0qf-t3x_hunterkiller_forest-template.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Templates/fmz-0qf-t3x_hunterkiller_forest-template.bin"
+  },
+  {
+    "category": "Templates",
+    "id": "o2i-dcj-vgm_hunterkiller_christmas-prefabs",
+    "name": "Christmas Prefabs",
+    "author": "HunterKiller",
+    "image": "Maps/Templates/o2i-dcj-vgm_hunterkiller_christmas-prefabs.jpg",
+    "download": "https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master/Maps/Templates/o2i-dcj-vgm_hunterkiller_christmas-prefabs.bin"
   }
 ]

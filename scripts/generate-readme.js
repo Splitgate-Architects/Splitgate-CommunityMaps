@@ -7,8 +7,9 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const BASE_DIR = path.join(__dirname, '../Maps');
-const SUBFOLDERS = ['Playable', 'WIP', 'Unplayable', 'Unsorted'];
+const SUBFOLDERS = ['Playable', 'WIP', 'Unplayable', 'Unsorted', 'Templates'];
 const REPO_URL = 'https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master';
+const SITE_URL = 'https://splitgate-architects.github.io/Splitgate-CommunityMaps';
 
 function generateMainScript() {
     const templatePath = path.join(__dirname, 'generate-readme.md');
@@ -68,7 +69,6 @@ function generateMainScript() {
                     }
                 } catch (e) {}
 
-                // Für JSON-Daten sammeln
                 allMapsData.push({
                     category: folder,
                     id: map.id,
@@ -102,26 +102,66 @@ function generateMainScript() {
             tableMarkdown += `| ${currentRow.map(c => c.download).join(' | ')} |\n\n`;
         }
 
-        // Unterordner README schreiben
         subfolderMarkdown += tableMarkdown;
         fs.writeFileSync(path.join(targetDir, 'README.md'), subfolderMarkdown);
 
-        // Haupt-README Dropdown zusammenbauen
         mainMarkdown += `<details>\n`;
         mainMarkdown += `<summary><b>${folder} Maps</b> (Click to expand)</summary>\n\n`;
         mainMarkdown += tableMarkdown;
         mainMarkdown += `</details>\n\n`;
     });
 
-    // Haupt-README schreiben
     const rootReadmePath = path.join(__dirname, '../README.md');
     fs.writeFileSync(rootReadmePath, mainMarkdown);
 
-    // maps.json ins Hauptverzeichnis schreiben für die Website
     const jsonPath = path.join(__dirname, '../maps.json');
     fs.writeFileSync(jsonPath, JSON.stringify(allMapsData, null, 2));
 
-    console.log('READMEs and maps.json successfully generated!');
+    // --- HTML-Dateien für Discord-Vorschau generieren ---
+    const assetsDir = path.join(__dirname, '../assets');
+    const shareDir = path.join(assetsDir, 'maps');
+    
+    if (!fs.existsSync(assetsDir)) fs.mkdirSync(assetsDir);
+    if (!fs.existsSync(shareDir)) fs.mkdirSync(shareDir);
+
+    allMapsData.forEach(map => {
+        const imageUrl = map.image 
+            ? `${REPO_URL}/${map.image}` 
+            : `${SITE_URL}/assets/default-banner.jpg`;
+
+        const htmlContent = `<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>${map.name} - Splitgate Custom Map</title>
+    
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="${map.name}">
+    <meta property="og:description" content="Map by ${map.author} | Category: ${map.category}">
+    <meta property="og:image" content="${imageUrl}">
+    <meta name="theme-color" content="#3b82f6">
+    
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:title" content="${map.name}">
+    <meta property="twitter:description" content="Map by ${map.author} | Category: ${map.category}">
+    <meta property="twitter:image" content="${imageUrl}">
+    
+    <meta http-equiv="refresh" content="0; url=../../index.html#${map.id}">
+    <script>
+        window.location.replace("../../index.html#${map.id}");
+    </script>
+</head>
+<body style="background: #0f172a; color: #f8fafc; font-family: sans-serif; text-align: center; padding-top: 50px;">
+    <p>Redirecting to map...</p>
+    <a href="../../index.html#${map.id}" style="color: #3b82f6;">Click here if you are not redirected</a>
+</body>
+</html>`;
+
+        fs.writeFileSync(path.join(shareDir, `${map.id}.html`), htmlContent);
+    });
+
+    console.log('READMEs, maps.json and shareable HTML files successfully generated!');
 }
 
 generateMainScript();
