@@ -7,7 +7,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const BASE_DIR = path.join(__dirname, '../Maps');
-const SUBFOLDERS = ['Playable', 'WIP', 'Unplayable'];
+const SUBFOLDERS = ['Playable', 'WIP', 'Unplayable', 'Unsorted'];
 const REPO_URL = 'https://cdn.jsdelivr.net/gh/Splitgate-Architects/Splitgate-CommunityMaps@master';
 
 function generateSubfolderReadme(folderName) {

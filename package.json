@@ -7,7 +7,9 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "generate": "node scripts/generate-readmes.js"
+    "readme": "node scripts/generate-readme.js"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "adm-zip": "^0.6.0"
+  }
 }
