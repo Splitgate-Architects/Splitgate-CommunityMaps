@@ -71,6 +71,11 @@ function generateSubfolderReadme(folderName) {
                 }
             } catch (e) {}
 
+            // Verhindert das Aufbrechen der Markdown-Tabelle durch "|" im Namen
+            displayName = displayName.replace(/\|/g, '&#124;');
+            author = author.replace(/\|/g, '&#124;');
+
+            // Markdown Bild-Pfad für den Unterordner
             const imgTag = map.jpg ? `![${map.id}](${map.jpg})` : `*(No image)*`;
             const binLink = `[📥 Download .bin](${REPO_URL}/Maps/${folderName}/${map.bin})`;
 
@@ -85,18 +90,10 @@ function generateSubfolderReadme(folderName) {
             currentRow.push({ img: '&nbsp;', info: '&nbsp;', download: '&nbsp;' });
         }
 
-        // HTML Tablebau für den Unterordner
-        markdown += `<table>\n`;
-        markdown += `  <tr>\n`;
-        currentRow.forEach(c => markdown += `    <td align="center">${c.img}</td>\n`);
-        markdown += `  </tr>\n`;
-        markdown += `  <tr>\n`;
-        currentRow.forEach(c => markdown += `    <td align="center">${c.info}</td>\n`);
-        markdown += `  </tr>\n`;
-        markdown += `  <tr>\n`;
-        currentRow.forEach(c => markdown += `    <td align="center">${c.download}</td>\n`);
-        markdown += `  </tr>\n`;
-        markdown += `</table>\n\n`;
+        markdown += `| ${currentRow.map(c => c.img).join(' | ')} |\n`;
+        markdown += `| :---: | :---: | :---: |\n`;
+        markdown += `| ${currentRow.map(c => c.info).join(' | ')} |\n`;
+        markdown += `| ${currentRow.map(c => c.download).join(' | ')} |\n\n`;
     }
 
     fs.writeFileSync(path.join(targetDir, 'README.md'), markdown);
@@ -157,7 +154,11 @@ function generateMainReadme() {
                     }
                 } catch (e) {}
 
+                displayName = displayName.replace(/\|/g, '&#124;');
+                author = author.replace(/\|/g, '&#124;');
+
                 const relDir = `Maps/${folder}`;
+                // Markdown Bild-Pfad mit Root-Bezug für die Haupt-README
                 const imgTag = map.jpg ? `![${map.id}](${relDir}/${map.jpg})` : `*(No image)*`;
                 const binLink = `[📥 Download .bin](${REPO_URL}/${relDir}/${map.bin})`;
 
@@ -172,18 +173,10 @@ function generateMainReadme() {
                 currentRow.push({ img: '&nbsp;', info: '&nbsp;', download: '&nbsp;' });
             }
 
-            // HTML Tablebau für die Haupt-README
-            tableMarkdown += `<table>\n`;
-            tableMarkdown += `  <tr>\n`;
-            currentRow.forEach(c => tableMarkdown += `    <td align="center">${c.img}</td>\n`);
-            tableMarkdown += `  </tr>\n`;
-            tableMarkdown += `  <tr>\n`;
-            currentRow.forEach(c => tableMarkdown += `    <td align="center">${c.info}</td>\n`);
-            tableMarkdown += `  </tr>\n`;
-            tableMarkdown += `  <tr>\n`;
-            currentRow.forEach(c => tableMarkdown += `    <td align="center">${c.download}</td>\n`);
-            tableMarkdown += `  </tr>\n`;
-            tableMarkdown += `</table>\n\n`;
+            tableMarkdown += `| ${currentRow.map(c => c.img).join(' | ')} |\n`;
+            tableMarkdown += `| :---: | :---: | :---: |\n`;
+            tableMarkdown += `| ${currentRow.map(c => c.info).join(' | ')} |\n`;
+            tableMarkdown += `| ${currentRow.map(c => c.download).join(' | ')} |\n\n`;
         }
 
         mainMarkdown += `<details>\n`;
@@ -194,7 +187,7 @@ function generateMainReadme() {
 
     const rootReadmePath = path.join(__dirname, '../README.md');
     fs.writeFileSync(rootReadmePath, mainMarkdown);
-    console.log('Main README.md successfully generated with HTML tables!');
+    console.log('Main README.md successfully generated with Markdown tables!');
 }
 
 generateMainReadme();
