@@ -74,7 +74,7 @@ function generateMainScript() {
                     id: map.id,
                     name: displayName,
                     author: author,
-                    image: map.jpg ? `Maps/${folder}/${map.jpg}` : null,
+                    image: map.jpg ? `${REPO_URL}/Maps/${folder}/${map.jpg}` : null,
                     download: `${REPO_URL}/Maps/${folder}/${map.bin}`
                 });
 
@@ -114,19 +114,18 @@ function generateMainScript() {
     const rootReadmePath = path.join(__dirname, '../README.md');
     fs.writeFileSync(rootReadmePath, mainMarkdown);
 
-    const jsonPath = path.join(__dirname, '../maps.json');
-    fs.writeFileSync(jsonPath, JSON.stringify(allMapsData, null, 2));
+    const docsDir = path.join(__dirname, '../docs');
+    const shareDir = path.join(docsDir, 'm');
 
-    // --- HTML-Dateien für Discord-Vorschau generieren ---
-    const assetsDir = path.join(__dirname, '../assets');
-    const shareDir = path.join(assetsDir, 'maps');
-    
-    if (!fs.existsSync(assetsDir)) fs.mkdirSync(assetsDir);
+    if (!fs.existsSync(docsDir)) fs.mkdirSync(docsDir);
     if (!fs.existsSync(shareDir)) fs.mkdirSync(shareDir);
+
+    const jsonPath = path.join(docsDir, 'maps.json');
+    fs.writeFileSync(jsonPath, JSON.stringify(allMapsData, null, 2));
 
     allMapsData.forEach(map => {
         const imageUrl = map.image 
-            ? `${REPO_URL}/${map.image}` 
+            ? map.image 
             : `${SITE_URL}/assets/default-banner.jpg`;
 
         const htmlContent = `<!DOCTYPE html>
@@ -147,21 +146,21 @@ function generateMainScript() {
     <meta property="twitter:description" content="Map by ${map.author} | Category: ${map.category}">
     <meta property="twitter:image" content="${imageUrl}">
     
-    <meta http-equiv="refresh" content="0; url=../../index.html#${map.id}">
+    <meta http-equiv="refresh" content="0; url=../index.html#${map.id}">
     <script>
-        window.location.replace("../../index.html#${map.id}");
+        window.location.replace("../index.html#${map.id}");
     </script>
 </head>
 <body style="background: #0f172a; color: #f8fafc; font-family: sans-serif; text-align: center; padding-top: 50px;">
     <p>Redirecting to map...</p>
-    <a href="../../index.html#${map.id}" style="color: #3b82f6;">Click here if you are not redirected</a>
+    <a href="../index.html#${map.id}" style="color: #3b82f6;">Click here if you are not redirected</a>
 </body>
 </html>`;
 
         fs.writeFileSync(path.join(shareDir, `${map.id}.html`), htmlContent);
     });
 
-    console.log('READMEs, maps.json and shareable HTML files successfully generated!');
+    console.log('READMEs, maps.json and shareable HTML files successfully generated in /docs/m!');
 }
 
 generateMainScript();
